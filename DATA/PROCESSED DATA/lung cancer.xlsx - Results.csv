@@ -1,0 +1,792 @@
+Drug,Target(Gene Name),Target(Gene Symbol),Active Indication(Indication Name),Originator Organization,Drug Highest Phase,Drug Approved Country/Location,Approval Date
+Elranatamab,BCMA + CD3,"TNFRSF17, CD3E",Relapsed/refractory multiple myeloma | Multiple Myeloma | Relapse multiple myeloma | Smoldering Multiple Myeloma | Bone Marrow Neoplasms,Pfizer Inc.,"Approved, NDA/BLA",US | EU | IS | LI | NO,2023-08-14
+Talquetamab,CD3 + GPRC5D,"CD3E, GPRC5D",Plasma cell myeloma refractory | Relapse multiple myeloma | Multiple Myeloma | Bone Marrow Neoplasms | Smoldering Multiple Myeloma,"Janssen Pharmaceuticals, Inc.","Approved, NDA/BLA",US | EU | IS | LI | NO,2023-08-09
+Epcoritamab,CD20 + CD3,"MS4A1, CD3E",Mediastinal large B-cell lymphoma | Recurrent Follicular Lymphoma | Refractory Follicular Lymphoma | Diffuse Large B-Cell Lymphoma | High grade B-cell lymphoma | Follicular Lymphoma | Diffuse large B-cell lymphoma recurrent | Large B-cell lymphoma | Indolent B-Cell Non-Hodgkin Lymphoma | Non-Hodgkin Lymphoma | Richter's syndrome | B-cell lymphoma refractory | Mantle-Cell Lymphoma | Marginal Zone B-Cell Lymphoma | Small Lymphocytic Lymphoma | B-Cell Lymphoma | Indolent Non-Hodgkin Lymphoma,Genmab A/S,"Approved, NDA/BLA",US | EU | JP | IS | LI | NO,2023-05-19
+Glofitamab,CD20 + CD3,"MS4A1, CD3E",Diffuse large B-cell lymphoma recurrent | Diffuse large B-cell lymphoma refractory | Mediastinal large B-cell lymphoma | Diffuse Large B-Cell Lymphoma | Mantle-Cell Lymphoma | Mantle cell lymphoma refractory | Large B-cell lymphoma | Richter's syndrome | Follicular Lymphoma | Indolent Non-Hodgkin Lymphoma | Marginal Zone B-Cell Lymphoma | Refractory Transformed Follicular Lymphoma to Diffuse Large B-Cell Lymphoma | Primary mediastinal large B-cell lymphoma refractory | Refractory Indolent Adult Non-Hodgkin Lymphoma | Refractory Transformed Indolent B-Cell Non-Hodgkin Lymphoma | B-Cell Lymphoma | Refractory Mature B-Cell Non-Hodgkin Lymphoma | High grade B-cell lymphoma | Non-Hodgkin Lymphoma,F. Hoffmann-La Roche Ltd.,"Approved, NDA/BLA",US | CN | EU | CA | IS | LI | NO,2023-03-25
+Teclistamab,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma | Relapse multiple myeloma | Bone Marrow Neoplasms | Dihydropyrimidine Dehydrogenase Deficiency | Smoldering Multiple Myeloma | Hematologic Neoplasms | Relapsed/refractory multiple myeloma | Plasma cell myeloma refractory,Janssen Research & Development LLC,"Approved, NDA/BLA",US | EU | IS | LI | NO,2022-08-23
+Cadonilimab,CTLA4 + PD-1,"CTLA4, PDCD1",Uterine Cervical Cancer | Gastroesophageal junction adenocarcinoma | Stomach Cancer | Non-Small Cell Lung Cancer | Hepatocellular Carcinoma | Locally Advanced Cervical Carcinoma | Locally Advanced Gastroesophageal Junction Adenocarcinoma | stomach adenocarcinoma | Metastatic Carcinoma to the Uterine Cervix | Adenocarcinoma | Metastatic gastric adenocarcinoma | HER2-expressing Gastric Adenocarcinoma | Triple Negative Breast Cancer | Advanced cancer | Gastrooesophageal junction cancer | Late gastric cancer | Metastatic Colorectal Carcinoma | RAS mutant Colorectal Cancer | Unresectable Hepatocellular Carcinoma | Colorectal Cancer | Locally Advanced Rectal Carcinoma | Renal Cell Carcinoma | Relapsed Vulvar Cancer | Non-squamous non-small cell lung cancer | HER2 Positive Transitional Cell Carcinoma | Vulvar Neoplasms | Metastatic Microsatellite Stable Colorectal Carcinoma | Advanced Renal Cell Carcinoma | Pancreatic carcinoma non-resectable | Oesophageal squamous cell carcinoma recurrent | Locally Advanced Esophageal Squamous Cell Carcinoma | Metastatic hepatocellular carcinoma | Advanced Lung Non-Small Cell Carcinoma | Metastatic Cervical Carcinoma | Advanced Hepatocellular Carcinoma | Recurrent Cervical Cancer | Nasopharyngeal Carcinoma | Esophageal Squamous Cell Carcinoma | Extensive stage Small Cell Lung Cancer | Small Cell Lung Cancer | Advanced Gastric Adenocarcinoma | Locally Advanced Lung Non-Small Cell Carcinoma | metastatic non-small cell lung cancer | Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor | Melanoma | Tumor of advanced extent | Solid tumor,"Akeso Biopharma Co., Ltd.","Approved, NDA/BLA",CN,2022-06-28
+Mosunetuzumab,CD20 + CD3,"MS4A1, CD3E",Follicular Lymphoma | Large B-cell lymphoma | Aggressive B-Cell Non-Hodgkin Lymphoma | Non-Hodgkin's lymphoma refractory | Recurrent Non-Hodgkin Lymphoma | Refractory Aggressive Non-Hodgkin Lymphoma | Indolent B-Cell Non-Hodgkin Lymphoma | Marginal Zone B-Cell Lymphoma | B-Cell Lymphoma | Diffuse Large B-Cell Lymphoma | Refractory Transformed Follicular Lymphoma to Diffuse Large B-Cell Lymphoma | Non-Hodgkin Lymphoma | B-Cell Chronic Lymphocytic Leukemia | B-cell lymphoma refractory | Diffuse large B-cell lymphoma recurrent | High grade B-cell lymphoma | Systemic Lupus Erythematosus | Refractory Follicular Lymphoma,"Genentech, Inc.","Approved, NDA/BLA",US | EU | IS | LI | NO,2022-06-03
+Amivantamab-VMJM,EGFR + c-Met,"EGFR, MET",EGFR ex20ins mutation in non-small cell lung cancer | EGFR-mutated non-small Cell Lung Cancer | EGFR exon 19 Deletions Mutant Non-small Cell Lung Cancer | Advanced Lung Non-Small Cell Carcinoma | Small Cell Lung Cancer | EGFR positive non-small cell lung cancer | metastatic non-small cell lung cancer | Laryngeal Cleft | Non-Small Cell Lung Cancer | Metastatic Solid Tumor | Gastrointestinal Neoplasms | Neoplasms | Neoplasm Metastasis | Recurrent Non-Small Cell Lung Cancer | Secondary malignant neoplasm of lung | Esophageal Carcinoma | Stomach Cancer | Colorectal Cancer | Advanced Malignant Solid Neoplasm | EGFR exon 21 Substitution Mutant Non-small Cell Lung Cancer | Metastatic Colorectal Carcinoma,"Genmab BV | Janssen Biotech, Inc.","Approved, NDA/BLA",US | EU | CA | IS | KR | LI | NO,2021-05-21
+Blinatumomab,CD19 + CD3,"CD19, CD3E",Precursor B-Cell Lymphoblastic Leukemia-Lymphoma | CD19-positive B-cell Precursor acute lymphoblastic leukemia | Burkitt Lymphoma | Acute Lymphoblastic Leukemia | Pre B-cell acute lymphoblastic leukemia | Philadelphia Chromosome Negative Acute Lymphoblastic Leukemia | CD19-positive B-cell acute lymphoblastic leukemia | Recurrent B Acute Lymphoblastic Leukemia | Refractory B Acute Lymphoblastic Leukemia | Philadelphia positive acute lymphocytic leukaemia | Richter's syndrome | Refractory Indolent Non-Hodgkin Lymphoma | B-Cell Lymphoma | Residual Neoplasm | Adult Acute Lymphocytic Leukemia,"Amgen, Inc.","Approved, NDA/BLA",US | CN | EU | JP | IS | LI | NO,2014-12-03
+Ivonescimab,PD-1 + VEGF,"PDCD1, VEGFA","Non-Small Cell Lung Cancer | Squamous cell carcinoma, metastatic | Advanced Lung Non-Small Cell Squamous Carcinoma | Non-squamous non-small cell lung cancer | Squamous non-small cell lung cancer | Advanced Lung Non-Small Cell Carcinoma | PD-L1 positive Non-Small Cell Lung Cancer | EGFR positive Non-squamous non-small cell lung cancer | Metastatic Lung Non-Small Cell Carcinoma | Hepatocellular Carcinoma | Advanced cancer | Gastroesophageal junction adenocarcinoma | Gastrooesophageal junction cancer | stomach adenocarcinoma | Unresectable Hepatocellular Carcinoma | Metastatic Colorectal Carcinoma | Advanced Triple-Negative Breast Carcinoma | Metastatic Triple-Negative Breast Carcinoma | Female Genital Neoplasms | Advanced Endometrial Carcinoma | Neoplasm Metastasis | Ovarian Cancer | Uterine Cervical Cancer | Microsatellite Stable Colorectal Carcinoma | Metastatic Non-Squamous Non-Small Cell Lung Carcinoma | Platinum-Resistant Ovarian Carcinoma | Extensive stage Small Cell Lung Cancer | Advanced Hepatocellular Carcinoma","Akeso Biopharma Co., Ltd.","Approved, NDA/BLA",-,-
+Odronextamab,CD20 + CD3,"MS4A1, CD3E",Recurrent Follicular Lymphoma | Refractory Follicular Lymphoma | Diffuse large B-cell lymphoma recurrent | Diffuse large B-cell lymphoma refractory | Aggressive B-Cell Non-Hodgkin Lymphoma | B-Cell Lymphoma | Diffuse Large B-Cell Lymphoma | Follicular Lymphoma | Non-Hodgkin Lymphoma | B-cell lymphoma refractory | B-Cell Chronic Lymphocytic Leukemia | CD20 positive B-Cell Lymphoma | Lymphoid Leukemia,"Regeneron Pharmaceuticals, Inc.","Approved, NDA/BLA",-,-
+Tarlatamab,CD3 + DLL3,"CD3E, DLL3",Advanced Lung Small Cell Carcinoma | Extensive stage Small Cell Lung Cancer | Small cell lung cancer recurrent | Small Cell Lung Cancer | Prostate Neuroendocrine Carcinoma,"Amgen, Inc.","Approved, NDA/BLA",-,-
+Catumaxomab,CD3 + EpCAM,"CD3E, EPCAM",Advanced gastric carcinoma | Secondary malignant neoplasm of peritoneum | Non-Muscle Invasive Bladder Neoplasms,Neovii Biotech GmbH,"Phase 3,2/3",-,2009-04-20
+Alnuctamab,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma | Relapse multiple myeloma | Relapsed/refractory multiple myeloma,Celgene Corp.,"Phase 3,2/3",-,-
+Erfonrilimab,CTLA4 + PDL1,"CTLA4, CD274",HER2 positive Gastrooesophageal junction cancer | Advanced Pancreatic Ductal Adenocarcinoma | Anophthalmia With Pulmonary Hypoplasia | Pancreatic Cancer | Advanced Lung Non-Small Cell Squamous Carcinoma | Advanced Bile Duct Carcinoma | HER2 positive Biliary Tract Neoplasms | HER2 Positive Colorectal Cancer | HER2 Positive Solid Tumors | thymic carcinoma | Advanced Esophageal Squamous Cell Carcinoma | Triple Negative Breast Cancer | Breast Cancer | Esophageal Carcinoma | Stomach Cancer | Gastrointestinal Neoplasms | Advanced Malignant Solid Neoplasm | Lymphoma | colon cancer liver metastasis | Colonic Cancer,"Suzhou Alphamab Co., Ltd.","Phase 3,2/3",-,-
+Linvoseltamab,BCMA + CD3,"TNFRSF17, CD3E",Relapse multiple myeloma | Plasma cell myeloma refractory | Recurrent Multiple Myeloma | Monoclonal Gammopathy of Undetermined Significance | Smoldering Multiple Myeloma | Chronic Kidney Diseases | Relapsed/refractory multiple myeloma,"Regeneron Pharmaceuticals, Inc.","Phase 3,2/3",-,-
+Navicixizumab,DLL4 + VEGF,"DLL4, VEGFA",Platinum-Resistant Fallopian Tube Carcinoma | Platinum-Resistant Ovarian Carcinoma | Primary peritoneal carcinoma | Colorectal Cancer | Ovarian Cancer | Stomach Cancer | Triple Negative Breast Cancer | Fallopian Tube Carcinoma | Peritoneal Neoplasms,"OncoMed Pharmaceuticals, Inc.","Phase 3,2/3",-,-
+Rilvegostomig,PD-1 + TIGIT,"PDCD1, TIGIT",Biliary Tract Neoplasms | Advanced Cholangiocarcinoma | Gastroesophageal junction adenocarcinoma | stomach adenocarcinoma | metastatic non-small cell lung cancer | Non-Small Cell Lung Cancer | Metastatic Solid Tumor,AstraZeneca PLC,"Phase 3,2/3",-,-
+SI-B001,EGFR + HER3,"EGFR, ERBB3",Adenocarcinoma of Lung | squamous cell lung carcinoma | Non-Small Cell Lung Cancer | Locally Advanced Lung Non-Small Cell Carcinoma | metastatic non-small cell lung cancer | Glandular and Epithelial Neoplasms | Esophageal Squamous Cell Carcinoma | Squamous Cell Carcinoma of Head and Neck | Squamous cell carcinoma of head and neck metastatic | Colorectal Cancer | EGFR-mutated non-small Cell Lung Cancer | Stomach Cancer | Locally Advanced Head and Neck Squamous Cell Carcinoma | Metastatic epithelioma | Gastrooesophageal junction cancer | Uterine Cervical Cancer,"Sichuan Biokin Pharmaceuticals Co.,Ltd","Phase 3,2/3",-,-
+Tebotelimab,LAG3 + PD-1,"LAG3, PDCD1",Stomach Cancer | Gastrooesophageal junction cancer | Metastatic HER2 positive gastroesophageal junction cancer | HER2-positive gastric cancer | Advanced Malignant Solid Neoplasm | Cholangiocarcinoma | Hematologic Neoplasms | Non-Small Cell Lung Cancer | Ovarian Cancer | Small Cell Lung Cancer | Uterine Cervical Cancer | HER2 Positive Solid Tumors | Triple Negative Breast Cancer,"MacroGenics, Inc.","Phase 3,2/3",-,-
+TNB-383B,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma | Plasma cell myeloma refractory | Relapse multiple myeloma | Immunoglobulin Light-Chain Amyloidosis | Relapsed/refractory multiple myeloma,"TeneoBio, Inc.","Phase 3,2/3",-,-
+Volrustomig,CTLA4 + PD-1,"CTLA4, PDCD1",Locally Advanced Head and Neck Squamous Cell Carcinoma | Unresectable Pleural Malignant Mesothelioma | Locally Advanced Cervical Carcinoma | metastatic non-small cell lung cancer | Colorectal Cancer | Microsatellite instability-high cancer | Advanced Malignant Solid Neoplasm | Advanced Cholangiocarcinoma | Biliary Tract Neoplasms | Advanced Bile Duct Carcinoma | Hepatocellular Carcinoma | Gastroesophageal junction adenocarcinoma | Non-Small Cell Lung Cancer | Soft Tissue Sarcoma | Sarcoma | Solid tumor | HER2 Positive Gastroesophageal Adenocarcinoma | Metastatic HER2 positive gastroesophageal junction cancer,MedImmune LLC,"Phase 3,2/3",-,-
+PM-8002,PDL1 + VEGF-A,"CD274, VEGFA","Advanced Lung Non-Small Cell Squamous Carcinoma | Locally Advanced Lung Non-Squamous Non-Small Cell Carcinoma | Metastatic Lung Non-Small Cell Carcinoma | Extensive stage Small Cell Lung Cancer | Small Cell Lung Cancer | EGFR positive Non-squamous non-small cell lung cancer | Metastatic Non-Squamous Non-Small Cell Lung Carcinoma | Neuroendocrine Tumors | Hepatocellular Carcinoma | Mesothelioma, Malignant | Unresectable Hepatocellular Carcinoma | Triple Negative Breast Cancer | Advanced Malignant Solid Neoplasm","Pumis Biotechnology (Zhuhai) Co., Ltd.","Phase 3,2/3",-,-
+TR-009,DLL4 + VEGF-A,"DLL4, VEGFA",Carcinoma of ampulla of Vater | Cholangiocarcinoma | Gallbladder Carcinoma | Colonic Cancer | Metastatic Colorectal Carcinoma | Rectal Cancer | Unresectable Colorectal Carcinoma | Neoplasms | Ovarian Cancer,"ABL Bio, Inc.","Phase 3,2/3",-,-
+Acasunlimab,4-1BB + PDL1,"TNFRSF9, CD274",Advanced Endometrial Carcinoma | Non-Small Cell Lung Cancer | Endometrial Carcinoma | Malignant Solid Neoplasm | Squamous Cell Carcinoma of Head and Neck | Triple Negative Breast Cancer | Urothelial Carcinoma of the Urinary Bladder | Uterine Cervical Cancer | Advanced Malignant Solid Neoplasm,BioNTech SE,"Phase 1,2",-,-
+Acimtamig,CD16a + CD30,"FCGR3A, TNFRSF8",CD30+ Anaplastic Large T-cell Lymphoma | Hodgkin's Lymphoma | Recurrent Hodgkin Lymphoma | Refractory Hodgkin Lymphoma | CD-30 positive Peripheral T-Cell Lymphoma | CD30-Positive Cutaneous T-Cell Lymphoma | Mycosis Fungoides | Peripheral T-Cell Lymphoma,The University of Texas MD Anderson Cancer Center,"Phase 1,2",-,-
+AMG-570,BAFF + ICOSLG,"TNFSF13B, ICOSLG",-,"Amgen, Inc.","Phase 1,2",-,-
+Anti-CD3 and anti-HER2 BiTE-expressing T cell(University of Michigan College of Engineering),CD3 + HER2,"CD3E, ERBB2",Breast Cancer,University of Michigan College of Engineering,"Phase 1,2",-,-
+Anti-CD3/anti-EGFR -activated T cells(Barbara Ann Karmanos Cancer Institute),CD3 + EGFR,"CD3E, EGFR",Pancreatic Cancer | Glioblastoma,Barbara Ann Karmanos Cancer Institute,"Phase 1,2",-,-
+Bafisontamab,EGFR + c-Met,"EGFR, MET",Non-Small Cell Lung Cancer | Cholangiocarcinoma | Colorectal Cancer | Hepatocellular Carcinoma | Stomach Cancer | Metastatic Digestive System Neuroendocrine Tumor G1 | Metastatic Solid Tumor | Metastatic Colorectal Carcinoma,"EpimAb Biotherapeutics, Inc.","Phase 1,2",-,-
+BI-764532,CD3 + DLL3,"CD3E, DLL3",Extensive stage Small Cell Lung Cancer | Neuroendocrine Carcinoma | Neuroendocrine Tumors | Small Cell Lung Cancer | Glioma,Boehringer Ingelheim GmbH,"Phase 1,2",-,-
+Cevostamab,CD3 + FCRL5,"CD3E, FCRL5",Relapsed/refractory multiple myeloma | Plasma cell myeloma refractory | Relapse multiple myeloma | Multiple Myeloma,"Genentech, Inc.","Phase 1,2",-,-
+Cinrebafusp alfa,4-1BB + HER2,"TNFRSF9, ERBB2",-,"Pieris Pharmaceuticals, Inc.","Phase 1,2",-,-
+CKD-702,EGFR + c-Met,"EGFR, MET",Gastroesophageal junction adenocarcinoma | Stomach Cancer | Neoplasms | metastatic non-small cell lung cancer,Chong Kun Dang Pharmaceutical Corp.,"Phase 1,2",-,-
+Dalutrafusp alfa,CD73 + TGF-β,"NT5E, -",Advanced Pancreatic Ductal Adenocarcinoma | Pancreatic Ductal Adenocarcinoma,"Agenus, Inc.","Phase 1,2",-,-
+Danvilostomig,CTLA4 + PD-1,"CTLA4, PDCD1",Non-Small Cell Lung Cancer | Locally Advanced Unresectable Breast Carcinoma | Solid tumor | Transitional Cell Carcinoma | Colorectal Cancer | Esophageal Carcinoma | Stomach Cancer | FGF19 positive Solid Tumors | Squamous Cell Carcinoma of Head and Neck | HER2-negative breast cancer | Uterine Cervical Cancer | Nasopharyngeal Carcinoma | Extensive stage Small Cell Lung Cancer | Locally Advanced Head and Neck Squamous Cell Carcinoma | Advanced Malignant Solid Neoplasm | Advanced Renal Cell Carcinoma | Metastatic Solid Tumor | Melanoma | Triple Negative Breast Cancer,"Sichuan Biokin Pharmaceuticals Co.,Ltd","Phase 1,2",-,-
+Dilpacimab,DLL4 + VEGF-A,"DLL4, VEGFA",Colorectal Cancer | Advanced Malignant Solid Neoplasm,"AbbVie, Inc.","Phase 1,2",-,-
+Flotetuzumab,CD123 + CD3,"IL3RA, CD3E",Myelodysplastic Syndromes | Relapsing acute myeloid leukemia | Acute Myeloid Leukemia | CD123 Positive Acute Myeloid Leukemia | acute leukemia | Blastic Plasmacytoid Dendritic Cell Neoplasm | CD123 Positive Hematologic Neoplasms | Chronic Myelogenous Leukemia | Hairy Cell Leukemia | Recurrent B Acute Lymphoblastic Leukemia | Recurrent Hematologic Malignancy | Recurrent Hodgkin Lymphoma | Refractory Acute Leukemia | Refractory B Acute Lymphoblastic Leukemia | Refractory Hematologic Malignancy | Refractory Hodgkin Lymphoma | Refractory T Acute Lymphoblastic Leukemia | Systemic Mastocytosis | Recurrent Acute Myeloid Leukemia | Refractory acute myeloid leukemia,"MacroGenics, Inc.","Phase 1,2",-,-
+FS-118,LAG3 + PDL1,"LAG3, CD274",Non-Small Cell Lung Cancer | Diffuse Large B-Cell Lymphoma | Head and Neck Neoplasms | Hematologic Neoplasms,Merck Serono SA,"Phase 1,2",-,-
+GEN-1044,5T4 + CD3,"TPBG, CD3E",Neoplasms,Genmab A/S,"Phase 1,2",-,-
+HB-0025,PDL1 + VEGF,"CD274, VEGFA",Advanced Endometrial Carcinoma | Kidney Neoplasms | Advanced Malignant Solid Neoplasm,"Huabo Biopharm Co Ltd. | Zhejiang Huahai Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+HLX-301,PDL1 + TIGIT,"CD274, TIGIT",Solid tumor | Extensive stage Small Cell Lung Cancer | Gastroesophageal junction adenocarcinoma | Lymphoma | Metastatic Solid Tumor | Neoplasm Metastasis | Squamous Cell Carcinoma of Head and Neck | Non-Small Cell Lung Cancer,"Shanghai Henlius Biopharmaceuticals Co. , Ltd.","Phase 1,2",-,-
+HLX-35,4-1BB + EGFR,"TNFRSF9, EGFR",Solid tumor | Squamous non-small cell lung cancer | Metastatic Solid Tumor | Advanced Malignant Solid Neoplasm | Refractory Malignant Solid Neoplasm,"Shanghai Henlius Biopharmaceuticals Co. , Ltd.","Phase 1,2",-,-
+HX-009,CD47 + PD-1,"CD47, PDCD1",Solid tumor | Refractory Lymphoma | Hematologic Neoplasms | Liver Cancer | Melanoma | Non-Small Cell Lung Cancer | Renal Cell Carcinoma | Squamous Cell Carcinoma of Head and Neck | Stomach Cancer,"Wuhan Hanxiong Biotech,inc.","Phase 1,2",-,-
+IMM-2505,CD47 + PDL1,"CD47, CD274",Advanced Malignant Solid Neoplasm,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Phase 1,2",-,-
+Izuralimab,ICOS + PD-1,"ICOS, PDCD1",Advanced Sarcoma | Central Nervous System Diseases | Metastatic melanoma | Advanced Malignant Solid Neoplasm | Colorectal Cancer | Endometrial Carcinoma | Gastroesophageal junction adenocarcinoma | Hepatocellular Carcinoma | HER2-negative breast cancer | Malignant Fibrous Histiocytoma | Nasopharyngeal Carcinoma | Non-Small Cell Lung Cancer | Pancreatic Carcinoma | Renal Cell Carcinoma | Small Cell Lung Cancer | Squamous Cell Carcinoma of Head and Neck | Urothelial Carcinoma of the Urinary Bladder | Uterine Cervical Cancer | Uveal Melanoma,"Xencor, Inc.","Phase 1,2",-,-
+JMT-601,CD20 + SIRPα,"MS4A1, SIRPA",Hematologic Neoplasms | Non-Hodgkin Lymphoma | B-cell lymphoma recurrent | B-cell lymphoma refractory | CD20 positive Diffuse Large B-Cell Lymphoma,Shanghai JMT Biological Technology Co Ltd,"Phase 1,2",-,-
+Lomvastomig,PD-1 + TIM3,"PDCD1, HAVCR2","Advanced Esophageal Squamous Cell Carcinoma | Squamous cell carcinoma, metastatic | Esophageal Squamous Cell Carcinoma | Metastatic melanoma | Metastatic Solid Tumor | Non-Small Cell Lung Cancer | Small Cell Lung Cancer",F. Hoffmann-La Roche Ltd.,"Phase 1,2",-,-
+Lorigerlimab,CTLA4 + PD-1,"CTLA4, PDCD1","Castration-Resistant Prostatic Cancer | Metastatic castration-resistant prostate cancer | Recurrent Prostate Carcinoma | Colorectal Cancer | Melanoma | Non-Small Cell Lung Cancer | Uterine Cervical Cancer | Advanced Malignant Solid Neoplasm | Hepatocellular Carcinoma | Ovarian Epithelial Carcinoma | Pancreatic Ductal Carcinoma | Renal Cell Carcinoma | Advanced cancer | Melanoma, Cutaneous Malignant | Prostatic cancer metastatic | Squamous non-small cell lung cancer","MacroGenics, Inc.","Phase 1,2",-,-
+M-701,CD3 + EpCAM,"CD3E, EPCAM",Malignant ascites | Solid tumor | Advanced Lung Non-Small Cell Carcinoma | Malignant Pleural Effusion | metastatic non-small cell lung cancer,"Wuhan YZY Biopharma Co., Ltd.","Phase 1,2",-,-
+Nivatrotamab,CD3 + GD2,-,Neuroblastoma | Osteosarcoma,Memorial Sloan Kettering Cancer Center,"Phase 1,2",-,-
+PD-L1/CTLA4 bispecific monoclonal antibody(Changhai Hospital of Shanghai),CTLA4 + PDL1,"CTLA4, CD274",Pancreatic Cancer,Changhai Hospital of Shanghai,"Phase 1,2",-,-
+PM 1032,4-1BB + CLDN18.2,"TNFRSF9, CLDN18",Tumor of advanced extent | Advanced cancer | Advanced Malignant Solid Neoplasm,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Phase 1,2",-,-
+PM-1022,PDL1 + TIGIT,"CD274, TIGIT",Tumor of advanced extent | Neoplasms,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Phase 1,2",-,-
+QL-301,4-1BB + PDL1,"TNFRSF9, CD274",Hematologic Neoplasms | Solid tumor | Neoplasms,"Qlsf Biotherapeutic, Inc.","Phase 1,2",-,-
+QLF-31907,4-1BB + PDL1,"TNFRSF9, CD274",Transitional Cell Carcinoma | Advanced Urothelial Carcinoma | Melanoma | Advanced cancer | Non-Hodgkin Lymphoma | Solid tumor | Tumor of advanced extent,"Qilu Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+Recombinant anti-human CD47/PD-L1 bispecific antibody,CD47 + PDL1,"CD47, CD274",Small Cell Lung Cancer | Non-Small Cell Lung Cancer | Advanced Malignant Solid Neoplasm | Neoplasms | Hematologic Neoplasms | Advanced cancer | Lymphoma | Tumor of advanced extent | Peripheral T-Cell Lymphoma,Innovent Biologics (Suzhou) Co. Ltd.,"Phase 1,2",-,-
+Recombinant humanized anti-CD47/PD-L1 bispecific antibody(Mabwell (Shanghai) Bioscience),CD47 + PDL1,"CD47, CD274",Acute Myeloid Leukemia | Myelodysplastic Syndromes | Locally Advanced Clear Cell Renal Cell Carcinoma | Refractory Lymphoma | Recurrent Lymphoma | Advanced Renal Cell Carcinoma | Lung Cancer | Tumor of advanced extent | Neoplasms,"Mabwell (Shanghai) Bioscience Co., Ltd.","Phase 1,2",-,-
+SAR-440234,CD123 + CD3,"IL3RA, CD3E",Acute Myeloid Leukemia | Lymphoid Leukemia | Myelodysplastic Syndromes,Sanofi,"Phase 1,2",-,-
+"TF 2-targeted cancer therapy(Immunomedics, Inc.)",CEACAM5 + Histamine succinyl glycine,"CEACAM5, -",Breast Cancer | Non-Small Cell Lung Cancer | Small Cell Lung Cancer | Thyroid Cancer | Colorectal Cancer,"Immunomedics, Inc.","Phase 1,2",-,-
+Tombestomig,LAG3 + PD-1,"LAG3, PDCD1",Triple Negative Breast Cancer | Transitional Cell Carcinoma | Renal Cell Carcinoma | Unresectable Melanoma | Hepatocellular Carcinoma | Melanoma | Esophageal Squamous Cell Carcinoma | Metastatic melanoma | Metastatic Solid Tumor | Non-Small Cell Lung Cancer,F. Hoffmann-La Roche Ltd.,"Phase 1,2",-,-
+Vanucizumab,Ang2 + VEGF-A,"ANGPT2, VEGFA",Colorectal Cancer,F. Hoffmann-La Roche Ltd.,"Phase 1,2",-,-
+Vibecotamab,CD123 + CD3,"IL3RA, CD3E",Acute Myeloid Leukemia | Myelodysplastic Syndromes | Hematologic Neoplasms,"Xencor, Inc.","Phase 1,2",-,-
+Vudalimab,CTLA4 + PD-1,"CTLA4, PDCD1","Colonic Cancer | Rectal Cancer | Colorectal Cancer | Anaplastic Thyroid Carcinoma | Clear Cell Adenocarcinoma | Endometrial Carcinoma | Metastatic Thyroid Gland Carcinoma | Ovarian Cancer | Thyroid Cancer, Hurthle Cell | Uterine Cervical Cancer | Advanced Bile Duct Carcinoma | Metastatic castration-resistant prostate cancer | Castration-Resistant Prostatic Cancer | Advanced Lung Non-Small Cell Carcinoma | Non-squamous non-small cell lung cancer | Hormone sensitive prostate cancer | Prostatic cancer metastatic | Advanced Malignant Solid Neoplasm | Basal Cell Carcinoma | Breast Cancer | Cholangiocarcinoma | Fallopian Tube Carcinoma | Gastroesophageal junction adenocarcinoma | Hepatocellular Carcinoma | Melanoma | Mesothelioma | Nasopharyngeal Carcinoma | Neuroendocrine Carcinoma | Renal Cell Carcinoma | Salivary gland carcinoma | Small Cell Lung Cancer | Squamous Cell Carcinoma of Head and Neck | squamous cell carcinoma of the anus | Squamous Cell Carcinoma of the Penis | thymic carcinoma | Thymoma | Urothelial Carcinoma of the Urinary Bladder | Vulvar Neoplasms","Xencor, Inc.","Phase 1,2",-,-
+Xentuzumab,IGF-1 + IGF-2,"IGF1, IGF2",Breast Cancer | Hormone receptor positive HER2 negative breast cancer | Metastatic breast cancer | Non-Small Cell Lung Cancer | Prostatic Cancer | Castration-Resistant Prostatic Cancer | Metastatic castration-resistant prostate cancer | Advanced Malignant Solid Neoplasm,C.H. Boehringer Sohn AG & Co. KG,"Phase 1,2",-,-
+Zenocutuzumab,HER2 + HER3,"ERBB2, ERBB3",Metastatic castration-resistant prostate cancer | Estrogen receptor positive breast cancer | HER2 Positive Breast Cancer | Metastatic breast cancer | NRG1 Fusion Positive non–small cell lung cancer | NRG1 Fusion Positive Pancreatic Cancer | NRG1 Fusion Positive Solid Tumors,Merus NV,"Phase 1,2",-,-
+ABL-105,4-1BB + HER2,"TNFRSF9, ERBB2",HER2 Positive Solid Tumors | Metastatic Solid Tumor | Stomach Cancer,"ABL Bio, Inc.","Phase 1,2",-,-
+AFM-24,CD16a + EGFR,"FCGR3A, EGFR",Solid tumor,Affimed GmbH,"Phase 1,2",-,-
+ALG.APV-527,4-1BB + 5T4,"TNFRSF9, TPBG",Solid tumor,"Aptevo Therapeutics, Inc.","Phase 1,2",-,-
+anti-CD30 Bispecific Antibody-armed anti-CD3-Activated Autologous T-cells(Medical College of Wisconsin),CD3 + CD30,"CD3E, TNFRSF8",Acute Lymphoblastic Leukemia | Anaplastic Large-Cell Lymphoma | CD-30 positive pleomorphic large T-cell cutaneous lymphoma | CD-30 positive T-immunoblastic cutaneous lymphoma | CD30-positive diffuse large B-cell lymphoma | Chondrosarcoma | Leukemia | Neuroblastoma | Solid tumor,Medical College of Wisconsin Research Foundation,"Phase 1,2",-,-
+AP-203,4-1BB + PDL1,"TNFRSF9, CD274",Esophageal Squamous Cell Carcinoma | Non-Small Cell Lung Cancer | Solid tumor | Squamous Cell Carcinoma of Head and Neck | Neoplasms,"AP Biosciences, Inc.","Phase 1,2",-,-
+Bavunalimab,CTLA4 + LAG3,"CTLA4, LAG3",Central Nervous System Diseases | Metastatic melanoma | Advanced Malignant Solid Neoplasm | Anus Neoplasms | Endometrial Carcinoma | Fallopian Tube Carcinoma | Gastroesophageal junction adenocarcinoma | Hepatocellular Carcinoma | Intrahepatic Cholangiocarcinoma | Melanoma | Nasopharyngeal Carcinoma | Non-Small Cell Lung Cancer | Ovarian Epithelial Carcinoma | Pancreatic Carcinoma | Primary peritoneal carcinoma | Prostatic Cancer | Renal Cell Carcinoma | Small Cell Lung Cancer | Squamous Cell Carcinoma of Head and Neck | Squamous Cell Carcinoma of the Penis | Squamous cell carcinoma of vulva | Transitional Cell Carcinoma | Triple Negative Breast Cancer | Urothelial Carcinoma of the Urinary Bladder | Uterine Cervical Cancer,"Xencor, Inc.","Phase 1,2",-,-
+BCA-101,EGFR + TGF-β,"EGFR, -",Anal canal squamous cell carcinoma | Squamous Cell Carcinoma of Head and Neck | Colorectal Cancer | Cutaneous Squamous Cell Carcinoma | EGFR mutation Solid Tumors | Ovarian Epithelial Carcinoma | Pancreatic Cancer | squamous cell lung carcinoma | Neoplasms,"Bicara Therapeutics, Inc.","Phase 1,2",-,-
+BI-836880,Ang2 + VEGF,"ANGPT2, VEGFA","Wet age-related macular degeneration | Wet Macular Degeneration | Advanced cancer | Advanced Malignant Solid Neoplasm | Metastatic Non-Squamous Non-Small Cell Lung Carcinoma | Dystrophy, Macular | Non-Small Cell Lung Cancer",Ablynx NV,"Phase 1,2",-,-
+BMS-986442,CD96 + TIGIT,"CD96, TIGIT",FGF19 positive Solid Tumors | Non-Small Cell Lung Cancer | Stomach Cancer | Colonic Cancer | Gastroesophageal junction adenocarcinoma | Squamous Cell Carcinoma of Head and Neck,"Agenus, Inc.","Phase 1,2",-,-
+BNT-142,CD3 + CLDN6,"CD3E, CLDN6",CLDN6-positive Solid Tumors | Solid tumor,BioNTech SE,"Phase 1,2",-,-
+BPB-101,PDL1 + TGF-β,"CD274, -",Advanced Malignant Solid Neoplasm | Solid tumor,"Betta Pharmaceuticals Co., Ltd.","Phase 1,2",-,-
+Cibisatamab,CD3 + CEA,-,Metastatic Colorectal Carcinoma | Metastatic Microsatellite Stable Colorectal Carcinoma,F. Hoffmann-La Roche Ltd.,"Phase 1,2",-,-
+CM 355,CD20 + CD3,"MS4A1, CD3E",B-Cell Lymphoma | B-cell lymphoma refractory | Hematoma | Lymphoma | CD20 positive Hematologic Neoplasms,"Keymed Biomedical Technology (Chengdu) Co., Ltd. | InnoCare Pharma Ltd.","Phase 1,2",-,-
+CM-336,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma | Plasma cell myeloma refractory | Relapse multiple myeloma,"Keymed Biomedical Technology (Chengdu) Co., Ltd.","Phase 1,2",-,-
+CM-350,CD3 + GPC3,"CD3E, GPC3",Advanced Malignant Solid Neoplasm | Solid tumor,"Keymed Biomedical Technology (Chengdu) Co., Ltd.","Phase 1,2",-,-
+CN-201,CD19 + CD3,"CD19, CD3E",Pre B-cell acute lymphoblastic leukemia | B-cell lymphoma recurrent | B-cell lymphoma refractory | B-Cell Lymphoma,Curon Biopharmaceutical Ltd.,"Phase 1,2",-,-
+CN-202,PDL1 + TGF-β,"CD274, -",Hematologic Neoplasms | Solid tumor,Curon Biopharmaceutical Ltd.,"Phase 1,2",-,-
+DuoBody-EpCAMx4-1BB,4-1BB + EpCAM,"TNFRSF9, EPCAM",Solid tumor | Advanced Malignant Solid Neoplasm,Genmab A/S | BioNTech SE,"Phase 1,2",-,-
+EMB-02,LAG3 + PD-1,"LAG3, PDCD1",Advanced Malignant Solid Neoplasm | Solid tumor,"EpimAb Biotherapeutics, Inc.","Phase 1,2",-,-
+EMB-06,BCMA + CD3,"TNFRSF17, CD3E",Bone Marrow Neoplasms | Plasma cell myeloma refractory | Relapsed/refractory multiple myeloma | Relapse multiple myeloma,"EpimAb Biotherapeutics, Inc.","Phase 1,2",-,-
+EX-103,CD20 + CD3,"MS4A1, CD3E",CD20 positive Non-Hodgkin Lymphoma | B-Cell Chronic Lymphocytic Leukemia | Non-Hodgkin Lymphoma,"Excelmab, Inc.","Phase 1,2",-,-
+Fidasimtamab,HER2 + PD-1,"ERBB2, PDCD1",Gastrooesophageal junction cancer | Advanced Malignant Solid Neoplasm | Tumor of advanced extent,"Hanmi Pharmaceutical Co., Ltd. | Innovent Biologics, Inc.","Phase 1,2",-,-
+Forimtamig,CD3 + GPRC5D,"CD3E, GPRC5D",Multiple Myeloma | Relapsed/refractory multiple myeloma | Plasma cell myeloma refractory | Relapse multiple myeloma,-,"Phase 1,2",-,-
+GB-261,CD20 + CD3,"MS4A1, CD3E",B-Cell Lymphoma | Small Lymphocytic Lymphoma | B-Cell Chronic Lymphocytic Leukemia | B-cell lymphoma refractory | Lymphoid Leukemia | Refractory Transformed Indolent B-Cell Non-Hodgkin Lymphoma,"Genor Biopharma Co., Ltd.","Phase 1,2",-,-
+GEN-1042,4-1BB + CD40L,"TNFRSF9, CD40LG",Solid tumor | Colorectal Cancer | Malignant Solid Neoplasm | Melanoma | Non-Small Cell Lung Cancer | Pancreatic Ductal Adenocarcinoma | Squamous Cell Carcinoma of Head and Neck,Genmab A/S,"Phase 1,2",-,-
+GEN-1047,B7-H4 + CD3,"VTCN1, CD3E",Breast Cancer | Endometrial Carcinoma | Malignant Solid Neoplasm | Ovarian Cancer | Squamous non-small cell lung cancer,Genmab A/S,"Phase 1,2",-,-
+GEN-3017,CD3 + CD30,"CD3E, TNFRSF8",Classical Hodgkin's Lymphoma | CD30 positive Non-Hodgkin Lymphoma | CD30+ Hodgkin's Lymphoma,Genmab A/S,"Phase 1,2",-,-
+GNR-084,CD19 + CD3,"CD19, CD3E",Pre B-cell acute lymphoblastic leukemia | Refractory B Acute Lymphoblastic Leukemia | B-Cell Lymphoma,Generium,"Phase 1,2",-,-
+HB-0028,PDL1 + TGF-β,"CD274, -",Advanced Malignant Solid Neoplasm | Uterine Cervical Cancer | Solid tumor,"Zhejiang Huahai Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+HB-0036,PDL1 + TIGIT,"CD274, TIGIT",Non-Small Cell Lung Cancer | Solid tumor,Huabo Biopharm Co Ltd.,"Phase 1,2",-,-
+HBM7022,CD3 + CLDN18.2,-,Adenocarcinoma of Esophagus | Gastrooesophageal junction cancer | Late gastric cancer | Pancreatic Cancer | Pancreatic Ductal Adenocarcinoma | Solid tumor | Stomach Cancer,Harbour Biomed Therapeutics Ltd.,"Phase 1,2",-,-
+IBI-334,CD276 + EGFR,"CD276, EGFR",Unresectable Solid Neoplasm | FGF19 positive Solid Tumors | Solid tumor,Innovent Biologics (Suzhou) Co. Ltd.,"Phase 1,2",-,-
+IMM-0306,CD20 + CD47,"MS4A1, CD47",Diffuse Large B-Cell Lymphoma | Follicular Lymphoma | Mantle-Cell Lymphoma | Marginal zone lymphoma recurrent | Non-Hodgkin Lymphoma | CD20 Positive B-Cell Non-Hodgkin Lymphoma,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Phase 1,2",-,-
+IMM-2902,CD47 + HER2 + SIRPα,"CD47, ERBB2, SIRPA",Advanced Cholangiocarcinoma | Advanced gastric carcinoma | Advanced Malignant Solid Neoplasm | HER2-Expressing Cancers | Lung Cancer | Solid tumor | Advanced breast cancer | HER2 Positive Solid Tumors,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Phase 1,2",-,-
+Imvotamab,CD20 + CD3,"MS4A1, CD3E",Diffuse Large B-Cell Lymphoma | Follicular Lymphoma | Mantle-Cell Lymphoma | Marginal Zone B-Cell Lymphoma | Rheumatoid Arthritis | Systemic Lupus Erythematosus | Myositis,"IGM Biosciences, Inc.","Phase 1,2",-,-
+ISB-1442,CD38 + CD47,"CD38, CD47",Plasma cell myeloma refractory | Relapse multiple myeloma | Relapsed/refractory multiple myeloma | Acute Myeloid Leukemia,"Ichnos Sciences, Inc.","Phase 1,2",-,-
+JS-201,PD-1 + TGF-β,"PDCD1, -",Neoplasms | Tumor of advanced extent,"Shanghai Junshi Biosciences Co., Ltd.","Phase 1,2",-,-
+JS-203,CD20 + CD3,"MS4A1, CD3E",Neoplasms | B-cell lymphoma refractory | B-Cell Lymphoma,"Shanghai Junshi Biosciences Co., Ltd.","Phase 1,2",-,-
+JS-207,PD-1 + VEGF,"PDCD1, VEGFA",Neoplasms | Tumor of advanced extent,"Shanghai Junshi Biosciences Co., Ltd.","Phase 1,2",-,-
+JSKN-033,HER2 + PDL1,"ERBB2, CD274",Solid tumor | HER2 Positive Solid Tumors,"Jiangsu Alphamab Biopharmaceuticals Co., Ltd","Phase 1,2",-,-
+KN-052,OX40 + PDL1,"TNFRSF4, CD274",Solid tumor,"Suzhou Alphamab Co., Ltd.","Phase 1,2",-,-
+LAVA-051,CD1d + TCRDV2,"CD1d, TRDV2",Acute Myeloid Leukemia | B-Cell Chronic Lymphocytic Leukemia | Chronic lymphocytic leukaemia refractory | Multiple Myeloma | Recurrent Chronic Lymphoid Leukemia | Solid tumor,VUmc,"Phase 1,2",-,-
+LAVA-1207,PSMA + TCRDV2,"FOLH1, TRDV2",Metastatic castration-resistant prostate cancer,VUmc,"Phase 1,2",-,-
+LB101 (Centessa Pharmaceuticals ),CD47 + PDL1,"CD47, CD274",Advanced Malignant Solid Neoplasm | Solid tumor,Centessa Pharmaceuticals Plc,"Phase 1,2",-,-
+LBL-015,PD-1 + TGF-β,"PDCD1, -",Solid tumor | Advanced Malignant Solid Neoplasm,"Nanjing Leads Biolabs Co., Ltd.","Phase 1,2",-,-
+LBL-024,4-1BB + PDL1,"TNFRSF9, CD274",Advanced Neuroendocrine Carcinoma | Tumor of advanced extent | Advanced Malignant Solid Neoplasm,"Nanjing Leads Biolabs Co., Ltd.","Phase 1,2",-,-
+LBL-033,CD3 + MUC16,"CD3E, MUC16",Neoplasms | Ovarian Cancer | MUC16 Positive Malignancies,"Nanjing Leads Biolabs Co., Ltd.","Phase 1,2",-,-
+LBL-034,CD3 + GPRC5D,"CD3E, GPRC5D",Plasma cell myeloma refractory | Multiple Myeloma,"Nanjing Leads Biolabs Co., Ltd.","Phase 1,2",-,-
+LM-24C5,4-1BB + CEACAM5,"TNFRSF9, CEACAM5",Advanced Malignant Solid Neoplasm | Solid tumor | Gastrointestinal Neoplasms | Lung Cancer | Colorectal Cancer,LaNova Medicines Ltd.,"Phase 1,2",-,-
+MBS-303,CD20 + CD3,"MS4A1, CD3E",B-cell lymphoma refractory | CD20 Positive B-Cell Non-Hodgkin Lymphoma,"Beijing Mabworks Biotech Co., Ltd.","Phase 1,2",-,-
+MCLA-129,EGFR + c-Met,"EGFR, MET",Colorectal Cancer | Head and Neck Neoplasms | Non-Small Cell Lung Cancer | Esophageal Squamous Cell Carcinoma | FGF19 positive Solid Tumors | metastatic non-small cell lung cancer | Squamous Cell Carcinoma of Head and Neck | Stomach Cancer | Advanced Lung Non-Small Cell Carcinoma | EGFR-mutated non-small Cell Lung Cancer | Solid tumor | EGFR exon 19 Deletions Mutant Non-small Cell Lung Cancer | EGFR exon 21 Substitution Mutant Non-small Cell Lung Cancer,Merus NV,"Phase 1,2",-,-
+NGM-707,LILRB1 + LILRB2,"LILRB1, LILRB2",-,"NGM Biopharmaceuticals, Inc.","Phase 1,2",-,-
+Petosemtamab,EGFR + LGR5,"EGFR, LGR5",Advanced Malignant Solid Neoplasm | Gastrooesophageal junction cancer | Metastatic Colorectal Carcinoma | Non-Small Cell Lung Cancer | Squamous Cell Carcinoma of Head and Neck,Merus NV,"Phase 1,2",-,-
+PM-1003,4-1BB + PDL1,"TNFRSF9, CD274",Solid tumor | Advanced Malignant Solid Neoplasm,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Phase 1,2",-,-
+PRS-344,4-1BB + PDL1,"TNFRSF9, CD274",Solid tumor | Advanced Malignant Solid Neoplasm | Neoplasms,"Pieris Pharmaceuticals, Inc.","Phase 1,2",-,-
+PT886,CD47 + CLDN18.2,"CD47, CLDN18",Advanced Pancreatic Ductal Adenocarcinoma | Metastatic Gastroesophageal Junction Adenocarcinoma | Pancreatic Ductal Adenocarcinoma | Gastrooesophageal junction cancer,"Phanes Therapeutics, Inc.","Phase 1,2",-,-
+Q-1802,CLDN18.2 + PDL1,"CLDN18, CD274",Gastroesophageal junction adenocarcinoma | malignant carcinoid tumor of digestive tract | Advanced Malignant Solid Neoplasm,Qurebio Ltd.,"Phase 1,2",-,-
+QLS-31905,CD3 + CLDN18,"CD3E, CLDN18",CLDN18.2 Positive Advanced Malignant Solid Neoplasm | CLDN18.2 positive  Solid Tumors | Claudin18.2-positive / HER2-negative Solid Tumors | Advanced Malignant Solid Neoplasm,"Qilu Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+Recombinant anti-PD-L1/TGF-β bispecific antibody,PDL1 + TGF-β,"CD274, -",Advanced Hepatocellular Carcinoma | Pancreatic Cancer | Locally Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor | Small Cell Lung Cancer,"Wuhan YZY Biopharma Co., Ltd.","Phase 1,2",-,-
+REGN-5459,BCMA + CD3,"TNFRSF17, CD3E",Chronic Kidney Diseases | Plasma cell myeloma refractory | Relapse multiple myeloma,"Regeneron Pharmaceuticals, Inc.","Phase 1,2",-,-
+REGN-5668,CD28 + MUC16,"CD28, MUC16",Fallopian Tube Carcinoma | Primary peritoneal carcinoma | Recurrent ovarian cancer,"Regeneron Pharmaceuticals, Inc.","Phase 1,2",-,-
+REGN-5678,CD28 + PSMA,"CD28, FOLH1",Metastatic castration-resistant prostate cancer | Renal Cell Carcinoma,"Regeneron Pharmaceuticals, Inc.","Phase 1,2",-,-
+REGN-7075,CD28 + EGFR,"CD28, EGFR",Advanced cancer | Advanced Malignant Solid Neoplasm,"Regeneron Pharmaceuticals, Inc.","Phase 1,2",-,-
+REGN4336,CD3 + PSMA,"CD3E, FOLH1",Advanced Prostate Carcinoma | Metastatic castration-resistant prostate cancer | Castration-Resistant Prostatic Cancer,"Regeneron Pharmaceuticals, Inc.","Phase 1,2",-,-
+RG7826,4-1BB + FAP,"TNFRSF9, FAP",Colorectal Cancer,Roche Holding AG,"Phase 1,2",-,-
+Sabestomig,PD-1 + TIM3,"PDCD1, HAVCR2",Refractory Classic Hodgkin Lymphoma | Relapsing classical Hodgkin lymphoma | Gastrooesophageal junction cancer | Metastatic Solid Tumor | Non-Small Cell Lung Cancer | Recurrent Hodgkin Lymphoma | Refractory Hodgkin Lymphoma | Solid tumor,AstraZeneca PLC,"Phase 1,2",-,-
+SAL-008,CTLA4 + IL-15Rα,"CTLA4, IL15RA",Locally advanced breast cancer | Locally Advanced Melanoma | Metastatic breast cancer | Metastatic Colorectal Carcinoma | Metastatic melanoma | Solid tumor | Neoplasms,"Shenzhen Salubris Pharmaceuticals Co., Ltd.","Phase 1,2",-,-
+SMET-12,CD3 + EGFR,"CD3E, EGFR",EGFR positive Neoplasms | Solid tumor | EGFR positive non-small cell lung cancer,"Zhejiang Shimai Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+TNB-486,CD19 + CD3,"CD19, CD3E",Pre B-cell acute lymphoblastic leukemia | Burkitt Lymphoma | B-cell lymphoma refractory | Diffuse Large B-Cell Lymphoma | Follicular Lymphoma | High grade B-cell lymphoma,"TeneoBio, Inc.","Phase 1,2",-,-
+TQB-2868,PD-1 + TGF-β,"PDCD1, -",Advanced Hepatocellular Carcinoma | Locally Advanced Malignant Neoplasm | Tumor of advanced extent,"Nanjing Shunxin Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+Ubamatamab,CD3 + MUC16,"CD3E, MUC16",Primary peritoneal carcinoma | Fallopian Tube Carcinoma | MUC16 Positive Malignancies | Recurrent Endometrial Cancer | Recurrent ovarian cancer | Recurrent Primary Peritoneal Carcinoma,"Regeneron Pharmaceuticals, Inc.","Phase 1,2",-,-
+ZG-005,PD-1 + TIGIT,"PDCD1, TIGIT",Advanced Cervical Carcinoma | Advanced Malignant Solid Neoplasm | Solid tumor,"Suzhou Zelgen Biopharmaceuticals Co., Ltd.","Phase 1,2",-,-
+ZGGS18,TGF-β + VEGF,-,Advanced Malignant Solid Neoplasm | Solid tumor,"Suzhou Zelgen Biopharmaceuticals Co., Ltd.","Phase 1,2",-,-
+A-319,CD19 + CD3,"CD19, CD3E",Leukemia | Lymphoma | Pre B-cell acute lymphoblastic leukemia | B-Cell Lymphoma | Acute Lymphoblastic Leukemia | B-Cell Chronic Lymphocytic Leukemia,Evive Biotech,"Phase 1,2",-,-
+A-337,CD3 + EpCAM,"CD3E, EPCAM",Malignant Solid Neoplasm | Neoplasms | EpCAM positive Solid Tumors,Evive Biotech,"Phase 1,2",-,-
+ABL-103,4-1BB + B7-H4,"TNFRSF9, VTCN1",Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor | Triple Negative Breast Cancer | Solid tumor,"Handok, Inc. | ABL Bio, Inc.","Phase 1,2",-,-
+ABL-501,LAG3 + PDL1,"LAG3, CD274",Advanced Malignant Solid Neoplasm | Solid tumor,"ABL Bio, Inc.","Phase 1,2",-,-
+ABL-503,4-1BB + PDL1,"TNFRSF9, CD274",Advanced Malignant Solid Neoplasm,"I-Mab Biopharma (Shanghai) Co., Ltd. | ABL Bio, Inc.","Phase 1,2",-,-
+Acapatamab,CD3 + PSMA,"CD3E, FOLH1",Metastatic castration-resistant prostate cancer,"Amgen, Inc.","Phase 1,2",-,-
+AFM-28,CD123 + CD16a,"IL3RA, FCGR3A",CD123 Positive Acute Myeloid Leukemia | Relapsing acute myeloid leukemia | Acute Myeloid Leukemia | Myelodysplastic Syndromes,Affimed GmbH,"Phase 1,2",-,-
+AK-129,LAG3 + PD-1,"LAG3, PDCD1",Tumor of advanced extent | Neoplasms,"Akeso Biopharma Co., Ltd.","Phase 1,2",-,-
+AK-130,TGF-β + TIGIT,"-, TIGIT",Neoplasms | Tumor of advanced extent | Advanced Hepatocellular Carcinoma,"Akeso Biopharma Co., Ltd.","Phase 1,2",-,-
+AK-131,CD73 + PD-1,"NT5E, PDCD1",Advanced Malignant Solid Neoplasm,"Akeso Biopharma Co., Ltd.","Phase 1,2",-,-
+AK-132,CD47 + CLDN18.2,"CD47, CLDN18",Advanced Malignant Solid Neoplasm,"Akeso Biopharma Co., Ltd.","Phase 1,2",-,-
+AMG-199,CD3 + MUC17,"CD3E, MUC17",Gastrooesophageal junction cancer | Solid tumor | Esophageal Carcinoma | Stomach Cancer,"Amgen, Inc.","Phase 1,2",-,-
+AMG-340,CD3 + PSMA,"CD3E, FOLH1",Castration-Resistant Prostatic Cancer | Metastatic castration-resistant prostate cancer | Hormone refractory prostate cancer,"TeneoBio, Inc.","Phase 1,2",-,-
+AMG-562,CD19 + CD3,"CD19, CD3E",Diffuse Large B-Cell Lymphoma | Diffuse large B-cell lymphoma recurrent | Follicular Lymphoma | Mantle-Cell Lymphoma,"Amgen, Inc.","Phase 1,2",-,-
+AMG-794,CD3 + CLDN6,"CD3E, CLDN6",Malignant Solid Neoplasm | metastatic non-small cell lung cancer | Non-squamous non-small cell lung cancer | Ovarian Epithelial Carcinoma,"Amgen, Inc.","Phase 1,2",-,-
+Anti-CD33/anti-FcgammaRI bispecific antibody(University of California San Diego),CD33 + CD64,"CD33, FCGR1A",Acute Myeloid Leukemia,University of California San Diego,"Phase 1,2",-,-
+Anti-EGFR-bispecific antibody armed activated T-cell therapy(Memorial Sloan-Kettering Cancer Center),CD3 + EGFR,"CD3E, EGFR",Pancreatic adenocarcinoma | Pancreatic Cancer,Memorial Sloan Kettering Cancer Center,"Phase 1,2",-,-
+APVO436,CD123 + CD3,"IL3RA, CD3E",Myelodysplastic Syndromes | Refractory acute myeloid leukemia,"Aptevo Therapeutics, Inc.","Phase 1,2",-,-
+ARB-202,CD3 + CDH17,"CD3E, CDH17",Cholangiocarcinoma | Liver Cancer | Pancreatic Cancer | Stomach Cancer | Biliary Tract Neoplasms | Pancreatic Carcinoma,Arbele Corp.,"Phase 1,2",-,-
+ASP-2074,CD3 + TSPAN8,"CD3E, TSPAN8",Locally Advanced Malignant Solid Neoplasm | Solid tumor,"Astellas Pharma Global Development, Inc.","Phase 1,2",-,-
+ASP2138,CD3 + CLDN18.2,-,Gastrooesophageal junction cancer | Metastatic Gastroesophageal Junction Adenocarcinoma | Pancreatic adenocarcinoma metastatic | stomach adenocarcinoma | Pancreatic Carcinoma | CLDN18.2 positive  Gastroesophageal junction adenocarcinoma | CLDN18.2 positive  Pancreatic adenocarcinoma,"Astellas Pharma, Inc. | Xencor, Inc.","Phase 1,2",-,-
+ATG-101,4-1BB + PDL1,"TNFRSF9, CD274",Non-Hodgkin Lymphoma | Solid tumor | Hematologic Neoplasms | B-Cell Lymphoma | Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor | Refractory Mature B-Cell Non-Hodgkin Lymphoma,"OriCell Therapeutics Co.,Ltd.","Phase 1,2",-,-
+B-901,CD40 + PDL1,"CD40, CD274",Solid tumor,"FutureGen Biopharmaceutical (Beijing) Co., Ltd","Phase 1,2",-,-
+B1962,PDL1 + VEGF,"CD274, VEGFA",Advanced Malignant Solid Neoplasm | Solid tumor,Shanghai Tasly Pharmaceutical Co. Ltd.,"Phase 1,2",-,-
+BA-1201,PDL1 + TGF-β,"CD274, -",Gastrointestinal Neoplasms | Non-Small Cell Lung Cancer | Small Cell Lung Cancer | Transitional Cell Carcinoma | Uterine Cervical Cancer | Small Cell Carcinoma | malignant carcinoid tumor of digestive tract | Uterine Corpus Cancer,"Shandong Boan Biotechnology Co., Ltd.","Phase 1,2",-,-
+BA-1202,CD3 + CEA,-,Solid tumor | Colorectal Cancer | Pancreatic Ductal Adenocarcinoma | Pancreatic Ductal Carcinoma,"Shandong Boan Biotechnology Co., Ltd.","Phase 1,2",-,-
+BA-3182,CD3 + EpCAM,"CD3E, EPCAM",Adenocarcinoma,"BioAtla, Inc.","Phase 1,2",-,-
+BAT-7104,CD47 + PDL1,"CD47, CD274",Solid tumor | Advanced Malignant Solid Neoplasm | Tumor of advanced extent | Locally Advanced Malignant Neoplasm,"Bio-Thera Solutions, Ltd.","Phase 1,2",-,-
+BC-007 (Dragon Boat Biopharmaceutical),CD47 + CLDN18.2,"CD47, CLDN18",CLDN18.2 positive  Solid Tumors | Solid tumor,"Baochuan Biological Medicine Technology (Shanghai) Co., Ltd.","Phase 1,2",-,-
+BC-3448,CD3 + EGFR,"CD3E, EGFR",Malignant Solid Neoplasm,"Wuxi Biocity Biopharmaceutics Co., Ltd.","Phase 1,2",-,-
+BC008-1A,PD-1 + TIGIT,"PDCD1, TIGIT",Solid tumor,"Sichuan Luzhou Buchang Biopharmaceutical Co., Ltd.","Phase 1,2",-,-
+BGB-B167,4-1BB + CEACAM5,"TNFRSF9, CEACAM5",Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor | Solid tumor,BeiGene Ltd.,"Phase 1,2",-,-
+BH-3120,4-1BB + PDL1,"TNFRSF9, CD274",Metastatic Solid Tumor | Solid tumor,"Hanmi Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+BI-765049,CD3 + NCR3LG1,"CD3E, NCR3LG1",Head and Neck Neoplasms | Liver Cancer | Lung Cancer | Pancreatic Cancer | Solid tumor | Advanced Malignant Solid Neoplasm | Colorectal Cancer,Boehringer Ingelheim GmbH,"Phase 1,2",-,-
+BI-765179,4-1BB + FAP,"TNFRSF9, FAP",Advanced Malignant Solid Neoplasm | Neoplasms | Solid tumor,Boehringer Ingelheim GmbH,"Phase 1,2",-,-
+BI-905711,CDH17 + DR5,"CDH17, TNFRSF10B",Gastrointestinal cancer metastatic | Cholangiocarcinoma | Gastrointestinal Neoplasms | Pancreatic Cancer,Boehringer Ingelheim GmbH,"Phase 1,2",-,-
+BJ-005,PDL1 + TGF-β,"CD274, -",Solid tumor | Advanced Lymphoma | Advanced Malignant Solid Neoplasm,BJ Bioscience Inc.,"Phase 1,2",-,-
+BS-001,CD3 + c-Met,"CD3E, MET",Colorectal Cancer | Esophageal Carcinoma | Glioblastoma | Liver Cancer | Melanoma | Pancreatic Cancer | Neoplasms,Tongji University,"Phase 1,2",-,-
+BSI-585,LILRB2 + PD-1,"LILRB2, PDCD1",Cholangiocarcinoma | Colorectal Cancer | Esophageal Carcinoma | Fallopian Tube Carcinoma | Liver Cancer | Non-Small Cell Lung Cancer | Ovarian Cancer | Pancreatic Cancer | Primary peritoneal carcinoma | Renal Cell Carcinoma | Stomach Cancer | Urothelial Carcinoma of the Urinary Bladder | Solid tumor,Tongji University,"Phase 1,2",-,-
+CC-1,CD3 + PSMA,"CD3E, FOLH1",Recurrent Prostate Carcinoma,"German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ)","Phase 1,2",-,-
+CC-3,CD276 + CD3,"CD276, CD3E",Colorectal Cancer,German Cancer Research Center,"Phase 1,2",-,-
+CCW-702,CD3 + PSMA,"CD3E, FOLH1",Prostatic Cancer,The Scripps Research Institute,"Phase 1,2",-,-
+CLN-049,CD3 + FLT3,"CD3E, FLT3",Myelodysplastic Syndromes | Refractory acute myeloid leukemia | Relapsing acute myeloid leukemia | Acute Myeloid Leukemia,German Cancer Research Center | Universitaetsklinikum Tuebingen,"Phase 1,2",-,-
+CLN-978,CD19 + CD3,"CD19, CD3E",B-cell lymphoma recurrent | Recurrent Adult Acute Lymphoblastic Leukemia | Refractory Mature B-Cell Non-Hodgkin Lymphoma | Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,Adimab LLC,"Phase 1,2",-,-
+CTX-8371,PD-1 + PDL1,"PDCD1, CD274",Hodgkin's Lymphoma | Melanoma | Non-Small Cell Lung Cancer | Squamous Cell Carcinoma of Head and Neck | Triple Negative Breast Cancer | Solid tumor,Compass Therapeutics LLC,"Phase 1,2",-,-
+CX-904,CD3 + EGFR,"CD3E, EGFR",Colorectal Cancer | Solid tumor | Advanced Malignant Solid Neoplasm,"Amgen, Inc. | CytomX Therapeutics, Inc.","Phase 1,2",-,-
+D3L-001,CD47 + HER2,"CD47, ERBB2",HER2 Positive Solid Tumors | Breast Cancer | Stomach Cancer,D3 Bio (Wuxi) Co. Ltd,"Phase 1,2",-,-
+Duvortuxizumab,CD19 + CD3,"CD19, CD3E",B-Cell Chronic Lymphocytic Leukemia | Diffuse Large B-Cell Lymphoma | Follicular Lymphoma | Hematologic Neoplasms | Mantle-Cell Lymphoma,"MacroGenics, Inc.","Phase 1,2",-,-
+Eciskafusp alfa(Roche),IL-2R + PD-1,"-, PDCD1",Metastatic Solid Tumor,F. Hoffmann-La Roche Ltd.,"Phase 1,2",-,-
+EMB-07,CD3 + ROR1,"CD3E, ROR1",Refractory Lymphoma | Solid tumor | Adenocarcinoma of Lung | Bladder Cancer | Colorectal Cancer | Metastatic Solid Tumor | Ovarian Cancer | Pancreatic Cancer | Prostatic Cancer | Recurrent Lymphoma | Stomach Cancer | Triple Negative Breast Cancer | Uterine Neoplasms | Hematologic Neoplasms,"EpimAb Biotherapeutics, Inc.","Phase 1,2",-,-
+EMB-09,OX40 + PD-1 + PDL1,"TNFRSF4, PDCD1, CD274",Advanced Malignant Solid Neoplasm | Colorectal Cancer | Endometrial Carcinoma | Hepatocellular Carcinoma | Melanoma | Metastatic Solid Tumor | Nasopharyngeal Carcinoma | Non-Small Cell Lung Cancer | Ovarian Cancer | Renal Cell Carcinoma | Small Cell Lung Cancer | Squamous Cell Carcinoma of Head and Neck | Stomach Cancer | Triple Negative Breast Cancer | Neoplasms | Solid tumor,"EpimAb Biotherapeutics, Inc.","Phase 1,2",-,-
+ERY-974,CD3 + GPC3,"CD3E, GPC3",Hepatocellular Carcinoma,"Chugai Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+ES-014,CD39 + TGF-β,"ENTPD1, -",Neoplasms | Locally Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor | Solid tumor,Elpiscience Biopharma Ltd.,"Phase 1,2",-,-
+ES-101,4-1BB + PDL1,"TNFRSF9, CD274",Neoplasms,"Inhibrx, Inc.","Phase 1,2",-,-
+EX-101,CD3 + HER2,"CD3E, ERBB2",Breast Cancer | Stomach Cancer | Solid tumor,"Excelmab, Inc.","Phase 1,2",-,-
+F-182112,BCMA + CD3,"TNFRSF17, CD3E",Plasma cell myeloma refractory | Relapse multiple myeloma,"Lunan Pharmaceutical Group Co., Ltd.","Phase 1,2",-,-
+FS-120,4-1BB + OX40,"TNFRSF9, TNFRSF4",Advanced cancer | Neoplasms,"F Star Co., Ltd.","Phase 1,2",-,-
+FS-222,4-1BB + PDL1,"TNFRSF9, CD274",Advanced cancer | Neoplasms,"F Star Co., Ltd.","Phase 1,2",-,-
+GBR-1342,CD3 + CD38,"CD3E, CD38",Plasma cell myeloma refractory | Relapse multiple myeloma,Glenmark Pharmaceuticals Ltd.,"Phase 1,2",-,-
+GEM3-PSCA,CD3 + PSCA,"CD3E, PSCA",Prostatic Cancer,GEMoaB Monoclonals GmbH,"Phase 1,2",-,-
+Givastomig,4-1BB + CLDN18.2,"TNFRSF9, CLDN18",Pancreatic Ductal Carcinoma | Metastatic Solid Tumor | Metatropic Dwarfism | Adenocarcinoma of Esophagus | Advanced cancer | Gastroesophageal junction adenocarcinoma,"I-MAB Biopharma Co., Ltd.","Phase 1,2",-,-
+GMA-106,GIPR + GLP-1R,"GIPR, GLP1R","Diabetes Mellitus | Baritosis | Diabetes Mellitus, Type 2 | Nonalcoholic Steatohepatitis | Obesity | Overweight",Gmax Biopharm LLC,"Phase 1,2",-,-
+GR-1803,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma,"Genrix (Shanghai) Biopharmaceutical Co., Ltd. | Chongqing Genrix Biopharmaceutical Co., Ltd.","Phase 1,2",-,-
+GR-1901,CD123 + CD3,"IL3RA, CD3E",Acute Myeloid Leukemia,"Chongqing Genrix Biopharmaceutical Co., Ltd.","Phase 1,2",-,-
+GT-90008,PDL1 + TGF-β,"CD274, -",Advanced Malignant Solid Neoplasm | Solid tumor,"Suzhou Kintor Pharmaceuticals, Inc. | Gensun Biopharma, Inc.","Phase 1,2",-,-
+HBM-7008,4-1BB + B7-H4,"TNFRSF9, VTCN1",Neoplasms | Advanced Malignant Solid Neoplasm | Lung Cancer | Ovarian Cancer | Triple Negative Breast Cancer | Solid tumor,"Harbour BioMed (Shanghai) Co., Ltd.","Phase 1,2",-,-
+HK010,4-1BB + PDL1,"TNFRSF9, CD274",Tumor of advanced extent | Neoplasms,"Anhui Anke Biotechnology (Group) Co., Ltd. | HankeMab","Phase 1,2",-,-
+HuCD33 BsAb (Y-mAbs Therapeutics),CD3 + CD33,"CD3E, CD33",Acute Myeloid Leukemia | Hematologic Neoplasms,Memorial Sloan Kettering Cancer Center,"Phase 1,2",-,-
+IBI-321,PD-1 + TIGIT,"PDCD1, TIGIT",Tumor of advanced extent | Neoplasms | Advanced Malignant Solid Neoplasm,Innovent Biologics (Suzhou) Co. Ltd.,"Phase 1,2",-,-
+IBI-323,LAG3 + PDL1,"LAG3, CD274",Neoplasms,Innovent Biologics (Suzhou) Co. Ltd.,"Phase 1,2",-,-
+IBI-389,CD3 + CLDN18.2,-,Advanced Malignant Solid Neoplasm | Tumor of advanced extent | Solid tumor,Innovent Biologics (Suzhou) Co. Ltd.,"Phase 1,2",-,-
+IBI319,4-1BB + PD-1,"TNFRSF9, PDCD1",Neoplasms | Tumor of advanced extent,Adimab LLC | Innovent Biologics (Suzhou) Co. Ltd.,"Phase 1,2",-,-
+IGM-2644,CD3 + CD38,"CD3E, CD38",Plasma cell myeloma refractory | Relapse multiple myeloma,"IGM Biosciences, Inc.","Phase 1,2",-,-
+IMA-401,MAGEA4 + MAGEA8,"MAGEA4, MAGEA8",Refractory Cancer | Solid tumor,Immatics Biotechnologies GmbH,"Phase 1,2",-,-
+IMB071703,4-1BB + CD40,"TNFRSF9, CD40",Advanced Malignant Solid Neoplasm,"Beijing Immune Ark Pharmaceutical Technology Co., Ltd.","Phase 1,2",-,-
+IMGS-001,PDL1 + PDL2,"CD274, PDCD1LG2",Solid tumor | Neoplasms,The University of Texas MD Anderson Cancer Center,"Phase 1,2",-,-
+IMM-2510,PDL1 + VEGF,"CD274, VEGFA",Advanced Malignant Solid Neoplasm | Solid tumor | Tumor of advanced extent,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Phase 1,2",-,-
+IMM-2520,CD47 + PDL1,"CD47, CD274",Breast Cancer | Colorectal Cancer | Non-Small Cell Lung Cancer | Small Cell Lung Cancer | Squamous Cell Carcinoma of Head and Neck | Advanced Malignant Solid Neoplasm | Solid tumor,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Phase 1,2",-,-
+INCA-33890,PD-1 + TGFBR2,"PDCD1, TGFBR2",Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor | Solid tumor,Incyte Corp.,"Phase 1,2",-,-
+INCA32459,LAG3 + PD-1,"LAG3, PDCD1",Neoplasms,Incyte Corp.,"Phase 1,2",-,-
+Inezetamab,CD40 + MSLN,"CD40, MSLN",Advanced Malignant Solid Neoplasm,"Amgen, Inc.","Phase 1,2",-,-
+JNJ-67571244,CD3 + CD33,"CD3E, CD33",Myelodysplastic Syndromes | Refractory acute myeloid leukemia,Janssen Research & Development LLC,"Phase 1,2",-,-
+JNJ-70218902,CD3 + TMEFF2,"CD3E, TMEFF2",Advanced Malignant Solid Neoplasm,Janssen Research & Development LLC,"Phase 1,2",-,-
+JNJ-75348780,CD22 + CD3,"CD22, CD3E",B-Cell Chronic Lymphocytic Leukemia | Non-Hodgkin Lymphoma,"TeneoBio, Inc.","Phase 1,2",-,-
+JNJ-78278343,CD3 + KLK2,"CD3E, KLK2",Prostatic Cancer | Metastatic castration-resistant prostate cancer | Castration-Resistant Prostatic Cancer | Advanced Prostate Carcinoma,"Janssen Research & Development LLC | Zymeworks BC, Inc.","Phase 1,2",-,-
+JNJ-78306358,CD3 + HLA-G,"CD3E, HLA-G",Advanced Malignant Solid Neoplasm,Janssen Research & Development LLC,"Phase 1,2",-,-
+JNJ-87189401,CD28 + PSMA,"CD28, FOLH1",Prostatic Cancer,Janssen Research & Development LLC,"Phase 1,2",-,-
+K193 bispecific antibody,CD19 + CD3ε,"CD19, CD3e",B-cell lymphoma recurrent | Leukemia,"Beijing Lüzhu Biotechnology Co., Ltd.","Phase 1,2",-,-
+LB-4330,CD8 + CLDN18.2,-,Advanced Malignant Solid Neoplasm | Solid tumor | Pancreatic Cancer | Stomach Cancer,"L&L Biopharma Co., Ltd.","Phase 1,2",-,-
+LNF1904,CD19 + CD3,"CD19, CD3E",B-Cell Malignant Neoplasm,Shandong New Time Pharmaceutical Co. Ltd.,"Phase 1,2",-,-
+LOR-S03,CD27 + PDL1,"CD27, CD274",Breast Cancer | Cholangiocarcinoma | Esophageal Carcinoma | Fallopian Tube Carcinoma | Liver Cancer | Microsatellite instability-high colorectal cancer | Non-Small Cell Lung Cancer | Ovarian Cancer | Primary peritoneal carcinoma | Renal Cell Carcinoma | Stomach Cancer | Urothelial Carcinoma of the Urinary Bladder,"Celldex Therapeutics, Inc.","Phase 1,2",-,-
+LY-3415244,PDL1 + TIM3,"CD274, HAVCR2",Neoplasms,Eli Lilly & Co.,"Phase 1,2",-,-
+M-802,CD3 + HER2,"CD3E, ERBB2",Ovarian Cancer | Breast Cancer | Stomach Cancer | HER2 Positive Solid Tumors,"Wuhan YZY Biopharma Co., Ltd.","Phase 1,2",-,-
+MCLA-145,4-1BB + PDL1,"TNFRSF9, CD274",Advanced cancer | B-Cell Lymphoma | Solid tumor,Incyte Corp.,"Phase 1,2",-,-
+MGD-007,CD3 + GPA33,"CD3E, GPA33",Colorectal Cancer,"MacroGenics, Inc.","Phase 1,2",-,-
+MGD-024,CD123 + CD3,"IL3RA, CD3E",Hematologic Neoplasms | Acute Myeloid Leukemia | B-Cell Leukemia | Blastic Plasmacytoid Dendritic Cell Neoplasm | Chronic Myelogenous Leukemia | Classical Hodgkin's Lymphoma | Hairy Cell Leukemia | Myelodysplastic Syndromes | Systemic Mastocytosis,"MacroGenics, Inc.","Phase 1,2",-,-
+NBL-015,4-1BB + CLDN18.2,"TNFRSF9, CLDN18",Advanced Malignant Solid Neoplasm | CLDN18.2 positive  Solid Tumors | Solid tumor | Pancreatic Cancer | Stomach Cancer,Novarock Biotherapeutics Ltd.,"Phase 1,2",-,-
+NBL-028,4-1BB + CLDN6,"TNFRSF9, CLDN6",Advanced Malignant Solid Neoplasm | CLDN6-positive Solid Tumors | Stomach Cancer | Endometrial Carcinoma | Non-Small Cell Lung Cancer | Ovarian Cancer | Testicular Neoplasms,Novarock Biotherapeutics Ltd.,"Phase 1,2",-,-
+NG-641,CD3 + FAP,"CD3E, FAP",Glandular and Epithelial Neoplasms | Neoplasm Metastasis | Carcinoma,University of Oxford,"Phase 1,2",-,-
+NI-1801,CD47 + MSLN,"CD47, MSLN",Mesothelin positive Solid Tumors | Non-squamous non-small cell lung cancer | Ovarian Epithelial Carcinoma | Triple Negative Breast Cancer | Solid tumor,Berta Holding AG,"Phase 1,2",-,-
+NVG-111,CD3 + ROR1,"CD3E, ROR1",Diffuse Large B-Cell Lymphoma | Follicular Lymphoma | Melanoma | Non-Small Cell Lung Cancer | Small Lymphocytic Lymphoma,Novalgen Ltd.,"Phase 1,2",-,-
+oHSV2-BsAb,CD3 + PDL1,"CD3E, CD274",Solid tumor | Recurrent Cervical Cancer,"Wuhan Binhui Biopharmaceutical Co., Ltd.","Phase 1,2",-,-
+ONO-4685,CD3 + PD-1,"CD3E, PDCD1",Plaque psoriasis | T-cell lymphoma refractory | T-cell lymphoma recurrent,Merus NV,"Phase 1,2",-,-
+Orlotamab,CD276 + CD3,"CD276, CD3E",Advanced Malignant Solid Neoplasm | Recurrent Carcinoma,"MacroGenics, Inc.","Phase 1,2",-,-
+PF-07062119,CD3 + GC-C,"CD3E, GUCY2C",Adenocarcinoma | Adenocarcinoma of large intestine | stomach adenocarcinoma,Pfizer Inc.,"Phase 1,2",-,-
+PF-07257876,CD47 + PDL1,"CD47, CD274",Non-Small Cell Lung Cancer | Ovarian Cancer | Squamous Cell Carcinoma of Head and Neck | Ovarian Epithelial Carcinoma,Pfizer Inc.,"Phase 1,2",-,-
+Plamotamab,CD20 + CD3,"MS4A1, CD3E",B-Cell Chronic Lymphocytic Leukemia | B-Cell Lymphoma | CD20 positive Hematologic Neoplasms,"Xencor, Inc.","Phase 1,2",-,-
+PM-1009,CD112R + TIGIT,"PVRIG, TIGIT",Advanced cancer | Neoplasms | Tumor of advanced extent | Lung Cancer,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Phase 1,2",-,-
+PM-1080,EGFR + c-Met,"EGFR, MET",Non-Small Cell Lung Cancer | Advanced Malignant Solid Neoplasm,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Phase 1,2",-,-
+PM-8001,PDL1 + TGF-β,"CD274, -",Lung Cancer | Human Papillomavirus Infection | Non-Small Cell Lung Cancer,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Phase 1,2",-,-
+PT217,CD47 + DLL3,"CD47, DLL3",Large cell neuroendocrine carcinoma | Prostate Neuroendocrine Carcinoma | Small Cell Lung Cancer,"Phanes Therapeutics, Inc.","Phase 1,2",-,-
+Q-1801,PDL1 + SIRPα,"CD274, SIRPA",Neoplasms | Solid tumor,Qurebio Ltd.,"Phase 1,2",-,-
+QL-325,CD3 + CLL-1,"CD3E, CLEC12A",Acute Myeloid Leukemia | Neoplasms,"Qlsf Biotherapeutic, Inc.","Phase 1,2",-,-
+QL-335,CD3 + LY6G6D,"CD3E, LY6G6D",Colorectal Cancer,"Qlsf Biotherapeutic, Inc.","Phase 1,2",-,-
+QL401,CD47 + PDL1,"CD47, CD274",Neoplasms,"Qlsf Biotherapeutic, Inc.","Phase 1,2",-,-
+QLP-31907,CD20 + CD37,"MS4A1, CD37",B-Cell Malignant Neoplasm | Indolent B-Cell Non-Hodgkin Lymphoma | Recurrent Indolent Non-Hodgkin Lymphoma,"Qilu Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+QLS31904,CD3 + DLL3,"CD3E, DLL3",Advanced Malignant Solid Neoplasm | Solid tumor | Unresectable Solid Neoplasm | Small Cell Lung Cancer,"Qilu Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+RC-148,PD-1 + VEGF,"PDCD1, VEGFA",Locally Advanced Malignant Solid Neoplasm | Malignant Solid Neoplasm,"RemeGen Co., Ltd.","Phase 1,2",-,-
+Recombinant anti-HER2/CD3 humanized bispecific antibody(Sichuan Luzhou Buchang Pharmaceuticals),CD3 + HER2,"CD3E, ERBB2",HER2 Positive Solid Tumors | Solid tumor,"Sichuan Luzhou Buchang Biopharmaceutical Co., Ltd.","Phase 1,2",-,-
+Recombinant humanized anti-BCMA/CD3 bispecific antibody(Shandong New Time Pharmaceutical Co. Ltd.),BCMA + CD3,"TNFRSF17, CD3E",Relapse multiple myeloma,Shandong New Time Pharmaceutical Co. Ltd.,"Phase 1,2",-,-
+Recombinant PD-1/TIM3 bispecific antibody(L&L vision biopharmaceuticals),PD-1 + TIM3,"PDCD1, HAVCR2",Neoplasms | Advanced Malignant Solid Neoplasm | Lymphoma | Tumor of advanced extent | Colorectal Cancer | Non-Small Cell Lung Cancer,"L&L Biopharma Co., Ltd.","Phase 1,2",-,-
+REGN-5837,CD22 + CD28,"CD22, CD28",Aggressive B-Cell Non-Hodgkin Lymphoma | B-Cell Lymphoma | Diffuse Large B-Cell Lymphoma,"Regeneron Pharmaceuticals, Inc.","Phase 1,2",-,-
+REMD-532,PD-1 + TIGIT,"PDCD1, TIGIT",Solid tumor,"REMD Biotherapeutics, Inc.","Phase 1,2",-,-
+Reozalimab,PD-1 + PDL1,"PDCD1, CD274",Small Cell Lung Cancer | Advanced cancer | Tumor of advanced extent,Adimab LLC | Innovent Biologics (Suzhou) Co. Ltd.,"Phase 1,2",-,-
+RG-6333,CD19 + CD28,"CD19, CD28",Non-Hodgkin Lymphoma,Roche Holding AG,"Phase 1,2",-,-
+RG6129,CD3 + MAGEA4,"CD3E, MAGEA4",Solid tumor,Roche Holding AG,"Phase 1,2",-,-
+RO-7293583,CD3 + TYRP1,"CD3E, TYRP1","Melanoma, Cutaneous Malignant | Metastatic melanoma | Mucosal Melanoma | Uveal Melanoma",F. Hoffmann-La Roche Ltd.,"Phase 1,2",-,-
+RO-7297089,BCMA + CD16a,"TNFRSF17, FCGR3A",Plasma cell myeloma refractory | Relapse multiple myeloma,"Genentech, Inc.","Phase 1,2",-,-
+RO-7300490,CD40L + FAP,"CD40LG, FAP",Advanced Malignant Solid Neoplasm | Metastatic Solid Tumor,Roche Holding AG,"Phase 1,2",-,-
+Runimotamab,CD3 + HER2,"-, CD3e, ERBB2",HER2 Positive Cancer | Solid tumor | Breast Cancer,F. Hoffmann-La Roche Ltd.,"Phase 1,2",-,-
+SG12473,CD47 + PDL1,"CD47, CD274",Tumor of advanced extent,"Hangzhou Shangjian Biotechnology Co., Ltd.","Phase 1,2",-,-
+SG1408,PDL1 + VEGF,"CD274, VEGFA",Advanced Malignant Solid Neoplasm | Neoplasms,"Zhongsheng Shangjian Biomedical (Hangzhou) Co., Ltd.","Phase 1,2",-,-
+SG1906,CD47 + CLDN18.2,"CD47, CLDN18",CLDN18.2 positive  Solid Tumors | Metastatic Solid Tumor | Unresectable Solid Neoplasm | CLDN18.2 Positive Advanced Malignant Solid Neoplasm,"Hangzhou Shangjian Biotechnology Co., Ltd.","Phase 1,2",-,-
+SG2501,CD38 + CD47,"CD38, CD47",Hematologic Neoplasms | Lymphoma | Recurrent Hematologic Malignancy | Refractory Hematologic Malignancy,"Hangzhou Shangjian Biotechnology Co., Ltd.","Phase 1,2",-,-
+SGN-BB228,4-1BB + CD228,"TNFRSF9, MELTF","Melanoma | Colorectal Cancer | Melanoma, Cutaneous Malignant | Mesothelioma | Non-Small Cell Lung Cancer | Pancreatic Cancer",Seagen Inc.,"Phase 1,2",-,-
+SH-009,CD47 + PDL1,"CD47, CD274",Tumor of advanced extent,Nanjing Sanhome Pharmaceutical Co. Ltd.,"Phase 1,2",-,-
+SH006,PDL1 + TIGIT,"CD274, TIGIT",Solid tumor,Nanjing Sanhome Pharmaceutical Co. Ltd.,"Phase 1,2",-,-
+SHR-2002,CD112R + TIGIT,"PVRIG, TIGIT",Tumor of advanced extent | Neoplasms | Solid tumor,"Suzhou Suncadia Biopharmaceuticals Co., Ltd.","Phase 1,2",-,-
+SHR-7367,CD40 + FAP,"CD40, FAP",Advanced Malignant Solid Neoplasm | Neoplasms | Solid tumor,"Shanghai Hengrui Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+SIM0348,CD112R + TIGIT,"PVRIG, TIGIT",Advanced Malignant Solid Neoplasm | Solid tumor,Simcere Pharmaceutical Group Limited,"Phase 1,2",-,-
+SKB-337,CTLA4 + PDL1,"CTLA4, CD274",Solid tumor,"Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.","Phase 1,2",-,-
+SSGJ-705,HER2 + PD-1,"ERBB2, PDCD1",Metastatic Solid Tumor | Neoplasms | HER2 Positive Solid Tumors | Metastatic breast cancer | Stomach Cancer,"Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.","Phase 1,2",-,-
+SSGJ-707,PD-1 + VEGF,"PDCD1, VEGFA",Advanced Malignant Solid Neoplasm | Solid tumor,"Dansheng Pharmaceutical Technology (Shanghai) Co., Ltd.","Phase 1,2",-,-
+TG-1801,CD19 + CD47,"CD19, CD47",B-Cell Malignant Neoplasm | B-Cell Chronic Lymphocytic Leukemia | Follicular Lymphoma | Mantle-Cell Lymphoma | Marginal Zone B-Cell Lymphoma | Mediastinal large B-cell lymphoma | Small Lymphocytic Lymphoma | B-Cell Lymphoma,Novimmune SA,"Phase 1,2",-,-
+TQB-2825,CD20 + CD3,"MS4A1, CD3E",CD20 positive Hematologic Neoplasms | Hematologic Neoplasms,"Nanjing Shunxin Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+TQB2934,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma,"Nanjing Shunxin Pharmaceutical Co., Ltd.","Phase 1,2",-,-
+TST-005,PDL1 + TGF-β,"CD274, -",Solid tumor,Transcenta Holding Ltd.,"Phase 1,2",-,-
+WVT-078,BCMA + CD3,"TNFRSF17, CD3E",Relapsed/refractory multiple myeloma | Multiple Myeloma,Novartis Pharma AG,"Phase 1,2",-,-
+Xaluritamig,CD3 + STEAP1,"CD3E, STEAP1",Prostatic Cancer | Metastatic castration-resistant prostate cancer,"Amgen, Inc.","Phase 1,2",-,-
+XmAb-808,CD276 + CD28,"CD276, CD28",Castration-Resistant Prostatic Cancer | Colorectal Cancer | Melanoma | Non-Small Cell Lung Cancer | Ovarian Epithelial Carcinoma | Renal Cell Carcinoma | Squamous Cell Carcinoma of Head and Neck | Transitional Cell Carcinoma | Triple Negative Breast Cancer,"Xencor, Inc.","Phase 1,2",-,-
+XmAb-819,CD3 + ENPP3,"CD3E, ENPP3",Renal Cell Carcinoma,"Xencor, Inc.","Phase 1,2",-,-
+XmAb968,CD3 + CD38,"CD3E, CD38",Acute Lymphoblastic Leukemia | Acute Myeloid Leukemia | Multiple Myeloma,"Xencor, Inc.","Phase 1,2",-,-
+Y-150,CD3 + CD38,"CD3E, CD38",Multiple Myeloma | Plasma cell myeloma refractory | Relapse multiple myeloma | Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,"Wuhan YZY Biopharma Co., Ltd.","Phase 1,2",-,-
+Y332,TGF-β + VEGF,-,Solid tumor,"Wuhan YZY Biopharma Co., Ltd.","Phase 1,2",-,-
+YH-008,CD40 + PD-1,"CD40, PDCD1",Solid tumor | Hematologic Neoplasms | Neoplasms,Youhe Medical Technology (Beijing) Co. Ltd.,"Phase 1,2",-,-
+YK012,CD19 + CD3,"CD19, CD3E",B-cell lymphoma recurrent | B-cell lymphoma refractory,"Yikesite (Beijing) Pharmaceutical Technology Development Co., Ltd.","Phase 1,2",-,-
+ZGGS15,LAG3 + TIGIT,"LAG3, TIGIT",Solid tumor,"Suzhou Zelgen Biopharmaceuticals Co., Ltd.","Phase 1,2",-,-
+Papiliximab,CD47 + PDL1,"CD47, CD274",Neoplasms,"Shaperon, Inc.","Phase 1,2",-,-
+GEM-333,CD3 + CD33,"CD3E, CD33",Acute Myeloid Leukemia,GEMoaB Monoclonals GmbH,"Phase 1,2",-,-
+Nisevokitug,TGF-β1 + TGF-β2,"TGFB1, TGFB2",-,-,"Phase 1,2",-,-
+Obertamig,CD3ε + HLA-G,"CD3e, HLA-G",Neoplasms,-,"Phase 1,2",-,-
+Tobemstomig,LAG3 + PD-1,"LAG3, PDCD1",-,-,"Phase 1,2",-,-
+vonsetamig,BCMA + CD3ε,"TNFRSF17, CD3e",Neoplasms,-,"Phase 1,2",-,-
+Zeripatamig,CD19 + CD47,"CD19, CD47",-,-,"Phase 1,2",-,-
+CDR-404,HLA + MAGEA4,"-, MAGEA4",Solid tumor | Bladder Cancer | Esophageal Carcinoma | Lung Cancer,CDR-Life Inc.,"Preclinical, IND Application",-,-
+EX-105,CD276 + CD3,"CD276, CD3E",Advanced Malignant Solid Neoplasm | Pancreatic Cancer,"Excelmab, Inc.","Preclinical, IND Application",-,-
+HBM-9027,CD40 + PDL1,"CD40, CD274",Solid tumor | Neoplasms,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+R7020,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma,"Hualan Biological Engineering, Inc. | Harbour Biomed Therapeutics Ltd.","Preclinical, IND Application",-,-
+VEGF/ANG2 Tetravalent Bispecific Antibody,Ang2 + VEGF,"ANGPT2, VEGFA",-,China Medical System Holdings Ltd.,"Preclinical, IND Application",-,-
+705,HER2 + PD-1,"ERBB2, PDCD1",Neoplasms,"Shenyang Sunshine Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+A-329,CD19 + CD3,"CD19, CD3E",Lupus Vulgaris | Non-Hodgkin Lymphoma,ITabMed,"Preclinical, IND Application",-,-
+ABP-100,CD3 + HER2,"CD3E, ERBB2",Breast Cancer | Colorectal Cancer,Memorial Sloan Kettering Cancer Center,"Preclinical, IND Application",-,-
+ADG152,CD20 + CD3,"MS4A1, CD3E",Neoplasms,"Adagene, Inc.","Preclinical, IND Application",-,-
+CMD007,CD3 + MSLN,"CD3E, MSLN",Lung Cancer | Mesothelioma | Ovarian Cancer,"Zhejiang Shimai Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+CTIM-76,CD3 + CLDN6,"CD3E, CLDN6",Solid tumor,"Integral Molecular, Inc.","Preclinical, IND Application",-,-
+DR30318,CD3 + CLDN18.2,-,Solid tumor,"Zhejiang Doer Biologics Co., Ltd.","Preclinical, IND Application",-,-
+JY-016,CD3 + EGFR,"CD3E, EGFR",Colorectal Cancer | Lung Cancer,"Beijing Lean Taixiang Technology Development Co. Ltd. | Beijing Oriental Biotech Co., Ltd.","Preclinical, IND Application",-,-
+LP-003,CD3 + GD2,-,Ewing Sarcoma | Neuroblastoma | Osteosarcoma | Small Cell Lung Cancer | Ovarian Cancer,Guangzhou LintonPharm Co Ltd,"Preclinical, IND Application",-,-
+LP-104,CD3 + CD47,"CD3E, CD47",T-Cell Lymphoma,Guangzhou LintonPharm Co Ltd,"Preclinical, IND Application",-,-
+SHS-010,CTLA4 + PD-1,"CTLA4, PDCD1",Neoplasms,Nanjing Sanhome Pharmaceutical Co. Ltd.,"Preclinical, IND Application",-,-
+SPX-303,LILRB2 + PDL1,"LILRB2, CD274",Solid tumor | Colonic Cancer | Stomach Cancer,"SparX Therapeutics, Inc.","Preclinical, IND Application",-,-
+1D8N/CEGa1,4-1BB + EGFR,"TNFRSF9, EGFR",Neoplasms,LeadArtis SL,"Preclinical, IND Application",-,-
+ABL-102,4-1BB + ROR1,"TNFRSF9, ROR1",Hematologic Neoplasms | Solid tumor,"ABL Bio, Inc.","Preclinical, IND Application",-,-
+ABL-104,4-1BB + EGFR,"TNFRSF9, EGFR",Stomach Cancer,"ABL Bio, Inc.","Preclinical, IND Application",-,-
+ABL-506,CD276 + PDL1,"CD276, CD274",Solid tumor,"Handok, Inc. | ABL Bio, Inc.","Preclinical, IND Application",-,-
+ABL-602,CD3 + CLL-1,"CD3E, CLEC12A",Hematologic Neoplasms | Acute Myeloid Leukemia,"ABL Bio, Inc.","Preclinical, IND Application",-,-
+ABP-102(Abpro),CD3 + HER2,"CD3E, ERBB2",Breast Cancer | Stomach Cancer,Abpro Corp.,"Preclinical, IND Application",-,-
+ABP-110,CD3 + GPC3,"CD3E, GPC3",Liver Cancer,National Institutes of Health,"Preclinical, IND Application",-,-
+ABP-130,CD3 + CEA,-,Colorectal Cancer | Non-Small Cell Lung Cancer,Abpro Corp.,"Preclinical, IND Application",-,-
+ABP-150 (Abpro),CD3 + CLDN18.2,-,Stomach Cancer,Abpro Corp.,"Preclinical, IND Application",-,-
+ABP-200,Ang2 + VEGF-A,"ANGPT2, VEGFA",Solid tumor,MedImmune LLC,"Preclinical, IND Application",-,-
+ADG138,CD3 + HER2,"CD3E, ERBB2",Solid tumor,"Adagene, Inc.","Preclinical, IND Application",-,-
+AI-027,CD24 + PD-1,"CD24, PDCD1",Neoplasms,"AcroImmune BioTech. Co., Ltd","Preclinical, IND Application",-,-
+AJUD003,CD20 + CD3,"MS4A1, CD3E",Neoplasms,AJUD Biopharma Inc.,"Preclinical, IND Application",-,-
+ALK-1/VEGF bispecific antibody,ALK1 + VEGF,"ACVRL1, VEGFA",Solid tumor,"Suzhou Kintor Pharmaceuticals, Inc.","Preclinical, IND Application",-,-
+alpha-c-Met/EGFR-0286 bispecific antibody drug conjugate(Sorrento Therapeutics),EGFR + c-Met,"EGFR, MET",Non-Small Cell Lung Cancer,"Sorrento Therapeutics, Inc.","Preclinical, IND Application",-,-
+AM-105,4-1BB + EGFR,"TNFRSF9, EGFR",Neoplasms,"AbClon, Inc.","Preclinical, IND Application",-,-
+Anti-CD47/EPCAM bispecific antibody (Virtuoso Therapeutics),CD47 + EpCAM,"CD47, EPCAM",Solid tumor,"Virtuoso Therapeutics, Inc.","Preclinical, IND Application",-,-
+Anti-CD47/ICAM-1 bispecific antibody (Virtuoso Therapeutics),CD47 + ICAM-1,"CD47, ICAM1",Hematologic Neoplasms | Solid tumor,"Virtuoso Therapeutics, Inc.","Preclinical, IND Application",-,-
+Anti-Chi3l1/PD-1 bi-specific mAb (Ocean Biomedical),CHI3L1 + PD-1,"CHI3L1, PDCD1",Non-Small Cell Lung Cancer,"Ocean Biomedical, Inc. (United States)","Preclinical, IND Application",-,-
+Anti-GPRC5D/CD3 Bispecific T-Cell-Redirecting Antibody,CD3 + GPRC5D,"CD3E, GPRC5D",Multiple Myeloma,"Chugai Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+Anti-HER2/TROP2 bispecific antibody(Baikai Biopharmaceutical),HER2 + Trop-2,"ERBB2, TACSTD2",Neoplasms,"BiOneCure Therapeutics, Inc.","Preclinical, IND Application",-,-
+Anti-PD-L1/CD40 bispecific antibody (Harbour BioMed),CD40 + PDL1,"CD40, CD274",Neoplasms,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+Anti-PD1 x CD40(Biotheus),CD40 + PD-1,"CD40, PDCD1",Colonic Cancer | Melanoma,Biotheus(Suzhou)Limited,"Preclinical, IND Application",-,-
+Anti-PD1 x EGFR BsAb,EGFR + PD-1,"EGFR, PDCD1",Solid tumor,"Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+APVO-425,CD3 + ROR1,"CD3E, ROR1",Triple Negative Breast Cancer,"Emergent BioSolutions, Inc.","Preclinical, IND Application",-,-
+APVO-437,CD123 + CD3,"IL3RA, CD3E",Acute Myeloid Leukemia,"Aptevo Therapeutics, Inc.","Preclinical, IND Application",-,-
+APVO-442,CD3 + PSMA,"CD3E, FOLH1",Prostatic Cancer,"Aptevo Therapeutics, Inc.","Preclinical, IND Application",-,-
+APVO711,CD40 + PDL1,"CD40, CD274",Solid tumor,"Aptevo Therapeutics, Inc.","Preclinical, IND Application",-,-
+ARB-201,CD3 + CDH17,"CD3E, CDH17",Colonic Cancer,Arbele Corp.,"Preclinical, IND Application",-,-
+ATOR-4066,CD40 + CEA,"CD40, CEACAM5",Neoplasms,Alligator Bioscience AB,"Preclinical, IND Application",-,-
+B-193,CD19 + CD3,"CD19, CD3E",Neoplasms,"Shanghai Yanyi Biological Technology Co., Ltd.","Preclinical, IND Application",-,-
+B-902,PDL1 + TIGIT,"CD274, TIGIT",Solid tumor,"FutureGen Biopharmaceutical (Beijing) Co., Ltd","Preclinical, IND Application",-,-
+BA-3142,CD276 + CD3,"CD276, CD3E",Neoplasms,"BioAtla, Inc.","Preclinical, IND Application",-,-
+BA-3311,CD3 + EGFR,"CD3E, EGFR",Neoplasms,"BioAtla, Inc.","Preclinical, IND Application",-,-
+BC005 (Shandong Buchang Pharmaceuticals),CD3 + GPC3,"CD3E, GPC3",Solid tumor,"Shandong Buchang Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+BC261,CD3 + STEAP1,"CD3E, STEAP1",Neoplasms,Memorial Sloan Kettering Cancer Center,"Preclinical, IND Application",-,-
+BCD-105,CD20 + CD3,"MS4A1, CD3E",Non-Hodgkin Lymphoma,Biocad CJSC,"Preclinical, IND Application",-,-
+BCD-106,CD47 + PDL1,"CD47, CD274",Solid tumor,Biocad CJSC,"Preclinical, IND Application",-,-
+BCG-011,EGFR + Trop-2,"EGFR, TACSTD2",Neoplasms,"Biocytogen Pharmaceuticals (Beijing) Co., Ltd.","Preclinical, IND Application",-,-
+BCG-012,HER3 + MUC1,"ERBB3, MUC1",Neoplasms,"Biocytogen Pharmaceuticals (Beijing) Co., Ltd.","Preclinical, IND Application",-,-
+BCG-033,PTK7 + Trop-2,"PTK7, TACSTD2",Triple Negative Breast Cancer,"Biocytogen Pharmaceuticals (Beijing) Co., Ltd.","Preclinical, IND Application",-,-
+BCMA x CD16 Dual Engagers(Oncopeptides),BCMA + CD16a,"TNFRSF17, FCGR3A",Multiple Myeloma,Oncopeptides AB,"Preclinical, IND Application",-,-
+BCMA-CS1 HLE BiTE,BCMA + CACNA1G-AS1 + CD3,"TNFRSF17, CACNA1G-AS1, CD3E",Multiple Myeloma,"Nanjing Anjin Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+BCMA-TACI dual-specific T cell engager (Hummingbird Bioscience),BCMA + TACI,"TNFRSF17, TNFRSF13B",Multiple Myeloma,Hummingbird Bioscience Pte Ltd.,"Preclinical, IND Application",-,-
+BD-9,IL-13 + TSLP,"IL13, TSLP",Neoplasms,Biolojic Design Ltd.,"Preclinical, IND Application",-,-
+BH-1657,IL-17A + TNF-α,"IL17A, -",Rheumatoid Arthritis,"Hanmi Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+BH2922,EGFR + PD-1,"EGFR, PDCD1",Colorectal Cancer | Non-Small Cell Lung Cancer,"Hanmi Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+BH2941,PD-1 + PDL1,"PDCD1, CD274",Neoplasms,"Hanmi Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+BI-836901,Ang2 + DLL4,"ANGPT2, DLL4",Neoplasms,Boehringer Ingelheim Corp.,"Preclinical, IND Application",-,-
+BiCKI-IL-7,IL-7 + PD-1,"IL7, PDCD1",Neoplasms,OSE Immunotherapeutics SA,"Preclinical, IND Application",-,-
+BMX-101,CD38 + PDL1,"CD38, CD274",Multiple Myeloma,Biomunex Pharmaceuticals,"Preclinical, IND Application",-,-
+BSI-725,CLDN18.2 + Trop-2,"CLDN18, TACSTD2",Neoplasms,"Biosion, Inc.","Preclinical, IND Application",-,-
+BV28-OKT3,CD3 + CD79B,"CD3E, CD79b",Non-Hodgkin Lymphoma,Shanghai Children's Medical Center,"Preclinical, IND Application",-,-
+CB-213,LAG3 + PD-1,"LAG3, PDCD1",Solid tumor,Crescendo Biologics Ltd.,"Preclinical, IND Application",-,-
+CD117xCD3 BiTE(Harbour BioMed),CD3 + c-Kit,"CD3E, KIT",Hematopoietic stem cell transplantation,"Erasmus University Rotterdam | Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+CD19 HLE BiTE,CD19 + CD3,"CD19, CD3E",Hematologic Neoplasms | Melanoma,"Amgen, Inc.","Preclinical, IND Application",-,-
+"CD3XCD20 bsAb(Protheragen, Inc.)",CD20 + CD3,"MS4A1, CD3E",Lymphoma,"Protheragen, Inc.","Preclinical, IND Application",-,-
+CD3xMOSPD2 BiTE,CD3 + MOSPD2,"CD3E, MOSPD2",Uterine Cervical Cancer | Breast Cancer,Vascular Biogenics Ltd.,"Preclinical, IND Application",-,-
+CDX-622,TSLP + c-Kit,"TSLP, KIT",Inflammation,"Celldex Therapeutics, Inc.","Preclinical, IND Application",-,-
+CI-107,CD3 + EGFR,"CD3E, EGFR",Colonic Cancer,"CytomX Therapeutics, Inc.","Preclinical, IND Application",-,-
+CIT-801,IL15R + PD-1,"-, PDCD1",Neoplasms,CureImmune Therapeutics Inc.,"Preclinical, IND Application",-,-
+CLDN18.2 x CD3,CD3 + CLDN18.2,-,Neoplasms,"Integral Molecular, Inc.","Preclinical, IND Application",-,-
+CLDN6xCD3 Bispecific Antibody (Context Therapeutics LLC),CD3 + CLDN6,"CD3E, CLDN6",Ovarian Cancer,Context Therapeutics LLC,"Preclinical, IND Application",-,-
+CM-109,CD3 + MUC17,"CD3E, MUC17",Gastroesophageal junction adenocarcinoma | Stomach Cancer,"Excelmab, Inc.","Preclinical, IND Application",-,-
+CM-110,CD3 + DLL3,"CD3E, DLL3",Small Cell Lung Cancer,"Excelmab, Inc.","Preclinical, IND Application",-,-
+COVA4231,CD3 + CD33,"CD3E, CD33",Acute Myeloid Leukemia,Covagen AG,"Preclinical, IND Application",-,-
+DB-001(DotBio Pte),HER2 exon 20 + PDL1,"-, CD274",Solid tumor,Dotbio Pte Ltd.,"Preclinical, IND Application",-,-
+DB-002,CTLA4 + PDL1,"CTLA4, CD274",Solid tumor,Dotbio Pte Ltd.,"Preclinical, IND Application",-,-
+DM-004,5T4 + c-Met,"TPBG, MET",Solid tumor,"Xadcera Biopharmaceutical (Suzhou) Co., Ltd.","Preclinical, IND Application",-,-
+DM-005,EGFR + c-Met,"EGFR, MET",Solid tumor | Non-Small Cell Lung Cancer | Pancreatic Ductal Adenocarcinoma,Doma Biopharmaceutical Suzhou Co. Ltd.,"Preclinical, IND Application",-,-
+DM-926,LILRB1 + LILRB2,"LILRB1, LILRB2",Neoplasms,D2M Biotherapeutics (Suzhou) Ltd.,"Preclinical, IND Application",-,-
+DM001,EGFR + Trop-2,"EGFR, TACSTD2",Neoplasms,"Xadcera Biopharmaceutical (Suzhou) Co., Ltd.","Preclinical, IND Application",-,-
+DM002,LILRB1 + LILRB2,"LILRB1, LILRB2",Neoplasms,D2M Biotherapeutics (Suzhou) Ltd.,"Preclinical, IND Application",-,-
+DR50102,CD3 + CEA,-,Solid tumor,"Zhejiang Doer Biologics Co., Ltd.","Preclinical, IND Application",-,-
+EGFR-CD3 Pb-TCB,CD3 + EGFR,"CD3E, EGFR",Neoplasms,"CytomX Therapeutics, Inc.","Preclinical, IND Application",-,-
+EGFR-XPAT,CD3 + EGFR,"CD3E, EGFR",Neoplasms,"Amunix Pharmaceuticals, Inc.","Preclinical, IND Application",-,-
+EK193,CD19 + CD3,"CD19, CD3E",Lymphoma,"Beijing Lüzhu Biotechnology Co., Ltd.","Preclinical, IND Application",-,-
+EM801,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma,EngMab SARL,"Preclinical, IND Application",-,-
+EPB-002,CD3 + nectin-4,"CD3E, NECTIN4",Triple Negative Breast Cancer | Bladder Cancer | Pancreatic Carcinoma,Elpis Biopharmaceuticals Corp.,"Preclinical, IND Application",-,-
+ES-019,PDL1 + SIRPα,"CD274, SIRPA",Solid tumor | Neoplasms,Elpiscience Biopharma Ltd.,"Preclinical, IND Application",-,-
+ES-028,CLDN18.2 + SIRPα,"CLDN18, SIRPA",Neoplasms | Solid tumor,Elpiscience Biopharma Ltd.,"Preclinical, IND Application",-,-
+ESK1-BiTE,CD3 + WT1,"CD3E, WT1",Neoplasms,"Eureka Therapeutics, Inc. | Memorial Sloan Kettering Cancer Center","Preclinical, IND Application",-,-
+EU-501,4-1BB + HER2,"TNFRSF9, ERBB2",Solid tumor,"Eutilex Co., Ltd.","Preclinical, IND Application",-,-
+EU-505,4-1BB + PD-1,"TNFRSF9, PDCD1",Neoplasms,"Eutilex Co., Ltd.","Preclinical, IND Application",-,-
+EVOLVE-105,CD20 + CD3,"MS4A1, CD3E",Neoplasms,"Evolveimmune Therapeutics, Inc.","Preclinical, IND Application",-,-
+EX-106,CD3 + GPC3,"CD3E, GPC3",Hepatocellular Carcinoma,"Excelmab, Inc.","Preclinical, IND Application",-,-
+EX-108,CD3 + Trop-2,"CD3E, TACSTD2",Stomach Cancer,"Excelmab, Inc.","Preclinical, IND Application",-,-
+F7AK3,CD3 + Trop-2,"CD3E, TACSTD2",Triple Negative Breast Cancer,"Yikesite (Beijing) Pharmaceutical Technology Development Co., Ltd.","Preclinical, IND Application",-,-
+FL-302,4-1BB + CLDN18.2,"TNFRSF9, CLDN18",Neoplasms,Flame Biosciences LLC,"Preclinical, IND Application",-,-
+GB-262,DAF + PDL1,"CD55, CD274",Neoplasms,"Genor Biopharma Co., Ltd.","Preclinical, IND Application",-,-
+GB-264,CD3 + CLDN18.2,-,Gastrointestinal Neoplasms | Pancreatic Carcinoma,"Genor Biopharma Co., Ltd.","Preclinical, IND Application",-,-
+GB-7015,CD19 + CD22,"CD19, CD22",Hematologic Neoplasms,"Shanghai Genechem Co., Ltd.","Preclinical, IND Application",-,-
+GB265,PDL1 + TIGIT,"CD274, TIGIT",Neoplasms,"Genor Biopharma Co., Ltd.","Preclinical, IND Application",-,-
+GMA-202,CD3 + ETA,"CD3E, EDNRA",Ovarian Cancer,Gmax Biopharm LLC,"Preclinical, IND Application",-,-
+GS18,TGF-β + VEGF,-,Solid tumor,"Gensun Biopharma, Inc.","Preclinical, IND Application",-,-
+H2-scDb,CD3 + p53 R175H,#VALUE!,Neoplasms,The Johns Hopkins University,"Preclinical, IND Application",-,-
+HBM-1040,IL-2Rβ + IL-2Rγ,"IL2RB, IL2RG",Neoplasms,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+HBM-7004,B7-H4 + CD3,"VTCN1, CD3E",Solid tumor,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+HBM-7021,4-1BB + MSLN,"TNFRSF9, MSLN",Solid tumor,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+HBM-7023,5T4 + CD40,"TPBG, CD40",Neoplasms,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+HBM-7024,CD28 + PDL1,"CD28, CD274",Neoplasms,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+HBM-7025,NCR3 + ROR1,"NCR3, ROR1",Neoplasms,"Harbour BioMed (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+HER2-PDL1,HER2 + PDL1,"ERBB2, CD274",Neoplasms,"Shandong Fontacea Pharmaceutical Co., Ltd","Preclinical, IND Application",-,-
+HER2/CD3 targeted antibody(BioAtla),CD3 + HER2,"CD3E, ERBB2",Solid tumor,"BioAtla, Inc.","Preclinical, IND Application",-,-
+HK-013,4-1BB + MSLN,"TNFRSF9, MSLN",Solid tumor,HankeMab,"Preclinical, IND Application",-,-
+HK056-001,4-1BBL + CD276,"TNFSF9, CD276",Neoplasms,HankeMab,"Preclinical, IND Application",-,-
+HLX-309,4-1BB + nectin-4,"TNFRSF9, NECTIN4",Solid tumor,"Shanghai Henlius Biotech, Inc.","Preclinical, IND Application",-,-
+HMBD-004A,CD33 + CD47,"CD33, CD47",Acute Myeloid Leukemia,"Shanghai Henlius Biotech, Inc.","Preclinical, IND Application",-,-
+HSB-3215,HER2 + HER3,"ERBB2, ERBB3",Neoplasms,"Tharimmune, Inc.","Preclinical, IND Application",-,-
+HX-013,IL-10R + PD-1,"-, PDCD1",Neoplasms,"HanX Biopharmaceuticals, Inc.","Preclinical, IND Application",-,-
+HX-016,PD-1 + VEGFR2,"PDCD1, KDR",Neoplasms,"HanX Biopharmaceuticals, Inc.","Preclinical, IND Application",-,-
+IBI-327,OX40 + PDL1,"TNFRSF4, CD274",Neoplasms,"Innovent Biologics, Inc.","Preclinical, IND Application",-,-
+IGM-2537,CD123 + CD3,"IL3RA, CD3E",Acute Myeloid Leukemia | Myelodysplastic Syndromes | Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,"IGM Biosciences, Inc.","Preclinical, IND Application",-,-
+IM-171,CD3 + CLDN6,"CD3E, CLDN6",Endometrioid Carcinoma,"Integral Molecular, Inc.","Preclinical, IND Application",-,-
+IM-1920,CD19 + CD20,"CD19, MS4A1",Non-Hodgkin Lymphoma,ITabMed,"Preclinical, IND Application",-,-
+IMGS-501,PDL1 + PDL2,"CD274, PDCD1LG2",Solid tumor,"Immunogenesis, Inc.","Preclinical, IND Application",-,-
+IMM-0207,CD47 + VEGF-A,"CD47, VEGFA",Neoplasms,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+IMM-26011,CD47 + FLT3,"CD47, FLT3",Neoplasms,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+IMM-4701,CD24 + CD47 + SIRPα,"CD24, CD47, SIRPA",Solid tumor,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+IMM-5601,CD38 + CD47,"CD38, CD47",Multiple Myeloma,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+IMM0403,EGFR + VEGF,"EGFR, VEGFA",Neoplasms,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+INBRX-130,5T4 + CD3,"TPBG, CD3E",Neoplasms,"Inhibrx, Inc.","Preclinical, IND Application",-,-
+INV-1013,CTLA4 + IL2RA,"CTLA4, IL2RA",Solid tumor,"Invenra, Inc.","Preclinical, IND Application",-,-
+INV-321,CTLA4 + IL2RA,"CTLA4, IL2RA",Neoplasms,"Invenra, Inc.","Preclinical, IND Application",-,-
+INV-322,CTLA4 + IL2RA,"CTLA4, IL2RA",Solid tumor,"Invenra, Inc.","Preclinical, IND Application",-,-
+INV-721,CD276 + GD2,"CD276, -",Neoplasms,"Invenra, Inc.","Preclinical, IND Application",-,-
+INV-724,CD276 + GD2,"CD276, -",Solid tumor,"Invenra, Inc.","Preclinical, IND Application",-,-
+INV-724(Invenra),CD276 + GD2,"CD276, -",Solid tumor,"Invenra, Inc.","Preclinical, IND Application",-,-
+IO-312,CD3 + LILRB4,"CD3E, LILRB4",Hematologic Neoplasms,"Immune-Onc Therapeutics, Inc.","Preclinical, IND Application",-,-
+iPSC-derived NK cells with TGFβR2 knock-out and/or IL-15 knock-in(Cellectis),GPC3 + NKp46,"GPC3, NCR1",Hepatocellular Carcinoma,"Cytovia Therapeutics, Inc. | Cellectis SA","Preclinical, IND Application",-,-
+JANX-009,CD28 + PDL1,"CD28, CD274",Solid tumor,"Janux Therapeutics, Inc.","Preclinical, IND Application",-,-
+JS-205,EGFR + c-Met,"EGFR, MET",Neoplasms,"Shanghai Junshi Biosciences Co., Ltd.","Preclinical, IND Application",-,-
+JY102,CD3 + CD47,"CD3E, CD47",Solid tumor,"Shenzhen Enduring Biotech, Ltd","Preclinical, IND Application",-,-
+JY108,CD19 + CD3,"CD19, CD3E",Autoimmune Diseases,"Shenzhen Enduring Biotech, Ltd","Preclinical, IND Application",-,-
+JY207,CD47 + PDL1,"CD47, CD274",Solid tumor,"Shenzhen Enduring Biotech, Ltd","Preclinical, IND Application",-,-
+JZC01,MICA + VEGFR2,"MICA, KDR",Neoplasms,China Pharmaceutical University,"Preclinical, IND Application",-,-
+K1932,CD19 + CD3,"CD19, CD3E",Lymphoma,"Beijing Lüzhu Biotechnology Co., Ltd.","Preclinical, IND Application",-,-
+K333 (Luzhu Biotech),CD3 + CD33,"CD3E, CD33",Myeloid Leukemia,"Beijing Lüzhu Biotechnology Co., Ltd.","Preclinical, IND Application",-,-
+KA-1874,CD112R + PD-1 + TIGIT,"PVRIG, PDCD1, TIGIT",Neoplasms,Kyinno Biotechnology Co. Ltd.,"Preclinical, IND Application",-,-
+KD5005,HER2 + TNFR,"ERBB2, -",Neoplasms,"Shanghai Celgen Bio-pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+KPMW-135,CD20 + CD3,"MS4A1, CD3E",Neoplasms,"Kleo Pharmaceuticals, Inc.","Preclinical, IND Application",-,-
+KY1055,ICOS + PDL1,"ICOS, CD274",Neoplasms,Kymab Group Ltd.,"Preclinical, IND Application",-,-
+L2-U scDb,CD3 + Ras,-,Neoplasms,The Johns Hopkins University,"Preclinical, IND Application",-,-
+LAG3-PD1,LAG3 + PD-1,"LAG3, PDCD1",Neoplasms,"Shandong Fontacea Pharmaceutical Co., Ltd","Preclinical, IND Application",-,-
+LAVA-1223,EGFR + TCRDV2,"EGFR, TRDV2",Solid tumor,Universitätsklinikum Hamburg-Eppendorf,"Preclinical, IND Application",-,-
+LB-206,CD3 + PDL1,"CD3E, CD274",Solid tumor,Centessa Pharmaceuticals Plc,"Preclinical, IND Application",-,-
+LILRB1/LILRB2 targeted bispecific antibody(OncoResponse),LILRB1 + LILRB2,"LILRB1, LILRB2",Hematologic Neoplasms,"OncoResponse, Inc.","Preclinical, IND Application",-,-
+LNK101,CD3 + MSLN,"CD3E, MSLN",Solid tumor,"Link Immunotherapeutics, Inc.","Preclinical, IND Application",-,-
+LVGN-1673,PDL1 + TGF-β,"CD274, -",Neoplasms,Lijin Biomedical Technology Shanghai Co. Ltd.,"Preclinical, IND Application",-,-
+LVGN3036,CD40 + PDL1,"CD40, CD274",Neoplasms,Lijin Biomedical Technology Shanghai Co. Ltd.,"Preclinical, IND Application",-,-
+LVGN5287,4-1BB + PD-1,"TNFRSF9, PDCD1",Neoplasms | Solid tumor,Lijin Biomedical Technology Shanghai Co. Ltd.,"Preclinical, IND Application",-,-
+LVGN5596,CD276 + CD40,"CD276, CD40",Neoplasms | Solid tumor,Lijin Biomedical Technology Shanghai Co. Ltd.,"Preclinical, IND Application",-,-
+LVGN8325,CD40 + PD-1,"CD40, PDCD1",Neoplasms,Lijin Biomedical Technology Shanghai Co. Ltd.,"Preclinical, IND Application",-,-
+MBS-304,CD3 + CLDN18,"CD3E, CLDN18",Pancreatic Cancer | Stomach Cancer,"Beijing Mabworks Biotech Co., Ltd.","Preclinical, IND Application",-,-
+MBS-307,CD40 + PDL1,"CD40, CD274",Solid tumor,"Beijing Mabworks Biotech Co., Ltd.","Preclinical, IND Application",-,-
+MCLA-122,EGFR + HER3,"EGFR, ERBB3",Solid tumor,Merus NV,"Preclinical, IND Application",-,-
+MCLA-134,PD-1 + TIM3,"PDCD1, HAVCR2",Solid tumor,Merus NV,"Preclinical, IND Application",-,-
+MEDI-7526,CD40 + PDL1,"CD40, CD274",Neoplasms,AstraZeneca PLC,"Preclinical, IND Application",-,-
+MG1122,CD3 + MSLN,"CD3E, MSLN",Solid tumor,MOGAM Institute,"Preclinical, IND Application",-,-
+MLB202,CD20 + CD3,"MS4A1, CD3E",Hematologic Neoplasms,Hanghai Bojin Medical Instrument Co. Ltd,"Preclinical, IND Application",-,-
+MP-EV20/1959,HER3 + LGALS3BP,"ERBB3, LGALS3BP",Neoplasms,MediaPharma Srl,"Preclinical, IND Application",-,-
+NAV-003,CD3 + MSLN,"CD3E, MSLN",Solid tumor,"Navrogen, Inc.","Preclinical, IND Application",-,-
+Nectin-4/CD3 targeted bispecific antibody,CD3 + nectin-4,"CD3E, NECTIN4",Solid tumor,"BioAtla, Inc.","Preclinical, IND Application",-,-
+NGM-936,CD3 + LILRB4,"CD3E, LILRB4",Acute Myeloid Leukemia | Multiple Myeloma,"NGM Biopharmaceuticals, Inc.","Preclinical, IND Application",-,-
+NI-2401,CD47 + CEA,"CD47, CEACAM5",Solid tumor,Novimmune SA,"Preclinical, IND Application",-,-
+NI-2601,CD47 + PDL1,"CD47, CD274",Solid tumor,Berta Holding AG,"Preclinical, IND Application",-,-
+NI-2801,CD47 + HER2,"CD47, ERBB2",Solid tumor,Berta Holding AG,"Preclinical, IND Application",-,-
+NI-2901,CD47 + PDL1,"CD47, CD274",Solid tumor,Berta Holding AG,"Preclinical, IND Application",-,-
+NILK-3301,CD28 + CEA,"CD28, CEACAM5",Solid tumor,LamKap Bio beta AG,"Preclinical, IND Application",-,-
+OCX-909,CHI3L1 + CTLA4,"CHI3L1, CTLA4",Glioblastoma,"Ocean Medical, Inc.","Preclinical, IND Application",-,-
+ON-203,CD3 + oxMIF,-,Solid tumor,OncoOne Research & Development GmbH,"Preclinical, IND Application",-,-
+ONC-783,CD24 + CD3,"CD24, CD3E",Neoplasms,"OncoC4, Inc.","Preclinical, IND Application",-,-
+OR-641,LILRB1 + LILRB2,"LILRB1, LILRB2",Immune System Diseases,"OncoResponse, Inc.","Preclinical, IND Application",-,-
+Ori-A631,CD39 + CD73,"ENTPD1, NT5E",Solid tumor,"OriCell Therapeutics Co.,Ltd.","Preclinical, IND Application",-,-
+PBI-108,PD-1 + Siglec-15,"PDCD1, SIGLEC15",Solid tumor,"Protheragen, Inc.","Preclinical, IND Application",-,-
+PBI-203,PDL1 + VEGF,"CD274, VEGFA",Solid tumor,"Protheragen, Inc.","Preclinical, IND Application",-,-
+PBI-205,PD-1 + PDL1,"PDCD1, CD274",Solid tumor,"Protheragen, Inc.","Preclinical, IND Application",-,-
+PD-1/IL-7 targeted bispecific antibody(OSE),IL-7 + PD-1,"IL7, PDCD1",Neoplasms,OSE Immunotherapeutics SA,"Preclinical, IND Application",-,-
+PD-1/LAG-3 bispecific mAbs(Xencor),LAG3 + PD-1,"LAG3, PDCD1",Neoplasms,"Xencor, Inc.","Preclinical, IND Application",-,-
+PD-L1/4-1BB BsAb,4-1BB + PDL1,"TNFRSF9, CD274",Solid tumor,"Hanmi Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+PD-L1/CD47 BsAb,CD47 + PDL1,"CD47, CD274",Solid tumor,"Hanmi Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+PD1-LAG3 bsAb(Sutro Biopharma),LAG3 + PD-1,"LAG3, PDCD1",Neoplasms,"Sutro Biopharma, Inc.","Preclinical, IND Application",-,-
+PD1-TIM3 bsAb,PD-1 + TIM3,"PDCD1, HAVCR2",Neoplasms,"Sutro Biopharma, Inc.","Preclinical, IND Application",-,-
+PIG-KM,VEGFR2 + c-Met,"KDR, MET",Neoplasms,"OncoC4, Inc.","Preclinical, IND Application",-,-
+PM-1017,IL-4Rα + IL-5,"IL4R, IL5",Neoplasms,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Preclinical, IND Application",-,-
+PM-1024,CCR8 + TIGIT,"CCR8, TIGIT",Neoplasms,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Preclinical, IND Application",-,-
+PM-1086,CD39 + PD-1,"ENTPD1, PDCD1",Neoplasms,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Preclinical, IND Application",-,-
+PM-1092,CCR8 + CTLA4,"CCR8, CTLA4",Neoplasms,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Preclinical, IND Application",-,-
+PM-1130,CD4 + PD-1,"CD4, PDCD1",Neoplasms,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Preclinical, IND Application",-,-
+PM-1268,IL-31 + IL-4Rα,"IL31, IL4R",Neoplasms,"Pumis Biotechnology (Zhuhai) Co., Ltd.","Preclinical, IND Application",-,-
+PM-CD3-GEX,CD3 + MUC1,"CD3E, MUC1",Non-Small Cell Lung Cancer | Ovarian Cancer,Glycotope GmbH,"Preclinical, IND Application",-,-
+PRS-342,4-1BB + GPC3,"TNFRSF9, GPC3",Neoplasms,"Pieris Pharmaceuticals, Inc.","Preclinical, IND Application",-,-
+"PT-302(Phanes Therapeutics, Inc.)",LAG3 + TIM3,"LAG3, HAVCR2",Solid tumor,"Phanes Therapeutics, Inc.","Preclinical, IND Application",-,-
+PT-819,CD3 + DLL3,"CD3E, DLL3",Small Cell Lung Cancer,"Phanes Therapeutics, Inc.","Preclinical, IND Application",-,-
+PT796,CD47 + FOLR1,"CD47, FOLR1",Ovarian Epithelial Carcinoma,"Phanes Therapeutics, Inc.","Preclinical, IND Application",-,-
+QL-315,CD3 + LRRC15,"CD3E, LRRC15",Neoplasms,"Qlsf Biotherapeutic, Inc.","Preclinical, IND Application",-,-
+REMD-511,CTLA4 + PD-1,"CTLA4, PDCD1",Solid tumor,"REMD Biotherapeutics, Inc.","Preclinical, IND Application",-,-
+REMD-642,CXCR4 + PDL1,"CXCR4, CD274",Solid tumor,"REMD Biotherapeutics, Inc.","Preclinical, IND Application",-,-
+REMD-813,LAG3 + PD-1,"LAG3, PDCD1",Solid tumor,"REMD Biotherapeutics, Inc.","Preclinical, IND Application",-,-
+RG6353,CD3ε + HLA-G,"CD3e, HLA-G",Solid tumor,Shanghai Roche Pharmaceuticals Ltd.,"Preclinical, IND Application",-,-
+ROR1 x CD3 DART,CD3 + ROR1,"CD3E, ROR1",Neoplasms,"MacroGenics, Inc.","Preclinical, IND Application",-,-
+SBT-100,KRAS + STAT3,"KRAS, STAT3",Solid tumor,Singh Biotechnology LLC,"Preclinical, IND Application",-,-
+SCR-8572,BCMA + CD30 + GPRC5D,"TNFRSF17, TNFRSF8, GPRC5D",Multiple Myeloma,Simcere Pharmaceutical Group Limited,"Preclinical, IND Application",-,-
+SCR-9171,CD3 + MUC17,"CD3E, MUC17",Muc17 positive Stomach Cancer,Simcere Pharmaceutical Group Limited,"Preclinical, IND Application",-,-
+SHR-1812,CD276 + CD3,"CD276, CD3E",Neoplasms,"Shanghai Hengrui Pharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+Siglec-6/CD3 targeted bispecific antibody(OSU),CD3 + Siglec-6,"CD3E, SIGLEC6",Lymphoid Leukemia,The Ohio State University,"Preclinical, IND Application",-,-
+SIRPα-PDL1,PDL1 + SIRP,"CD274, -",Neoplasms,"Shandong Fontacea Pharmaceutical Co., Ltd","Preclinical, IND Application",-,-
+SLD2435,CD112R + TIGIT,"PVRIG, TIGIT",Neoplasms,Simcere Pharmaceutical Group Limited,"Preclinical, IND Application",-,-
+SMTE-001,CD3 + MSLN,"CD3E, MSLN",Neoplasms,Simcere Pharmaceutical Group Limited,"Preclinical, IND Application",-,-
+SPX-301,CLDN18.2 + PDL1,"CLDN18, CD274",Neoplasms,"SparX Therapeutics, Inc.","Preclinical, IND Application",-,-
+SRB-21,HER2 + HER3,"ERBB2, ERBB3",Neoplasms,Sunrock Biopharma SL,"Preclinical, IND Application",-,-
+SRB19,EGFR + HER3,"EGFR, ERBB3",Squamous Cell Carcinoma of Head and Neck | Triple Negative Breast Cancer,Sunrock Biopharma SL,"Preclinical, IND Application",-,-
+STL001,CD138 + CD3,"SDC1, CD3E",Multiple Myeloma,Medical College of Soochow University,"Preclinical, IND Application",-,-
+T-903,PDL1 + TIGIT,"CD274, TIGIT",Solid tumor,"FutureGen Biopharmaceutical (Beijing) Co., Ltd","Preclinical, IND Application",-,-
+TATX-200,CD3 + TrkB,"CD3E, NTRK2",Neoplasms,Talem Therapeutics LLC.,"Preclinical, IND Application",-,-
+TJ-C4GM,CD47 + CSF-3R,"CD47, CSF3R",Solid tumor,"I-Mab Biopharma (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+TJ-C64B,4-1BB + CLDN6,"TNFRSF9, CLDN6",Neoplasms,"I-MAB Biopharma Co., Ltd.","Preclinical, IND Application",-,-
+TJ-L1D5,CD73 + PDL1,"NT5E, CD274",Neoplasms,"I-Mab Biopharma (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+TR0304,LAG3 + PDL1,"LAG3, CD274",Neoplasms,"Università degli Studi di Napoli Federico II | Chiome Bioscience, Inc.","Preclinical, IND Application",-,-
+TR0506,LAG3 + PDL1,"LAG3, CD274",Neoplasms,"Università degli Studi di Napoli Federico II | Chiome Bioscience, Inc.","Preclinical, IND Application",-,-
+TRB805,CD47 + SIRPα,"CD47, SIRPA",Hematologic Neoplasms,Trican Biotechnology,"Preclinical, IND Application",-,-
+TRB805-01,CD47 + SIRPα,"CD47, SIRPA",Neoplasms,Trican Biotechnology,"Preclinical, IND Application",-,-
+TRJ-E84,CMV protein + EGFR,"-, EGFR",Colonic Cancer,Trojan Bio Ltd.,"Preclinical, IND Application",-,-
+TRJ-T75,CMV protein + Trop-2,"-, TACSTD2",Triple Negative Breast Cancer,Trojan Bio Ltd.,"Preclinical, IND Application",-,-
+Trop-2 x CD3 Bi-Specific Antibody,CD3 + Trop-2,"CD3E, TACSTD2",Solid tumor,"iBio, Inc.","Preclinical, IND Application",-,-
+TROP2 XPAT,CD3 + Trop-2,"CD3E, TACSTD2",Solid tumor,"Amunix, Inc.","Preclinical, IND Application",-,-
+TROP2-TRACTr,CD3 + Trop-2,"CD3E, TACSTD2",Neoplasms,"Janux Therapeutics, Inc.","Preclinical, IND Application",-,-
+Trop2/CD3 bispecific antibody(Arbele),CD3 + Trop-2,"CD3E, TACSTD2",Colorectal Cancer | Pancreatic Cancer | Stomach Cancer,Arbele Corp.,"Preclinical, IND Application",-,-
+Trophoblast antigen 2 tumour activated T-cell engager therapy (Janux Therapeutics/Merck & Co),CD3 + Trop-2,"CD3E, TACSTD2",Solid tumor,"Janux Therapeutics, Inc.","Preclinical, IND Application",-,-
+TSR-075,LAG3 + PD-1,"LAG3, PDCD1",Neoplasms,"AnaptysBio, Inc. | Tesaro, Inc.","Preclinical, IND Application",-,-
+TST-006,CLDN18.2 + PDL1,"CLDN18, CD274",Neoplasms,"MabSpace Biosciences (Suzhou) Co., Ltd.","Preclinical, IND Application",-,-
+TXB4-BC1,CD20 + TfR1,"MS4A1, TFRC",Primary Central Nervous System Lymphoma,"Ossianix, Inc.","Preclinical, IND Application",-,-
+TYRP1-TCB,CD3 + TYRP1,"CD3E, TYRP1",Melanoma,Roche Holding AG,"Preclinical, IND Application",-,-
+V2-U scDb,CD3 + Ras,-,Neoplasms,The Johns Hopkins University,"Preclinical, IND Application",-,-
+VB-611,CD3 + MOSPD2,"CD3E, MOSPD2",Solid tumor,Vascular Biogenics Ltd.,"Preclinical, IND Application",-,-
+VBI-001,CD38 + ICAM-1,"CD38, ICAM1",Hematologic Neoplasms,"Virtuoso Therapeutics, Inc.","Preclinical, IND Application",-,-
+VBI-002,CD47 + ICAM-1,"CD47, ICAM1",Hepatocellular Carcinoma | Melanoma | Non-Small Cell Lung Cancer,"Virtuoso Therapeutics, Inc.","Preclinical, IND Application",-,-
+VBI-003,CD47 + EpCAM,"CD47, EPCAM",Colorectal Cancer | Small Cell Lung Cancer,"Virtuoso Therapeutics, Inc.","Preclinical, IND Application",-,-
+VBI-009,CD276 + CD47,"CD276, CD47",Neoplasms,"Virtuoso Therapeutics, Inc.","Preclinical, IND Application",-,-
+VTX-002 (Venn Therapeutics),TGF-β + αvβ6,-,Neoplasms,Venn Therapeutics LLC,"Preclinical, IND Application",-,-
+WM-202,CD3 + MAGEA4,"CD3E, MAGEA4",Melanoma,"Chongqing Genrix Biopharmaceutical Co., Ltd.","Preclinical, IND Application",-,-
+XB-628,NKG2A + PDL1,"KLRC1, CD274",Neoplasms,"Exelixis, Inc.","Preclinical, IND Application",-,-
+XmAb13677,CD20 + CD3,"MS4A1, CD3E",B-Cell Leukemia,"Xencor, Inc.","Preclinical, IND Application",-,-
+XmAb30819,CD3 + ENPP3,"CD3E, ENPP3",Renal Cell Carcinoma,"Xencor, Inc.","Preclinical, IND Application",-,-
+XmAb541,CD3 + CLDN6,"CD3E, CLDN6",Ovarian Cancer,"Xencor, Inc.","Preclinical, IND Application",-,-
+YBL-008,PDL1 + VEGF-A,"CD274, VEGFA",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-009,PDL1 + TGF-β,"CD274, -",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-013,CD3 + PDL1,"CD3E, CD274",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-016,IL-10 + PDL1,"IL10, CD274",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-017,CD3 + DLK1,"CD3E, DLK1",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-018,CD276 + CD3,"CD276, CD3E",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-020,LAG3 + PDL1,"LAG3, CD274",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-031,CD20 + CD3,"MS4A1, CD3E",B-Cell Lymphoma,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YBL-032,CD3 + EGFR,"CD3E, EGFR",Neoplasms,"YBiologics, Inc.","Preclinical, IND Application",-,-
+YH-013,EGFR + c-Met,"EGFR, MET",Neoplasms | Solid tumor,"Biocytogen Pharmaceuticals (Beijing) Co., Ltd.","Preclinical, IND Application",-,-
+YH012,HER2 + Trop-2,"ERBB2, TACSTD2",Neoplasms | Solid tumor,Youhe Medical Technology (Beijing) Co. Ltd.,"Preclinical, IND Application",-,-
+ZW-171,CD3 + MSLN,"CD3E, MSLN",Ovarian Cancer | Pancreatic Cancer | Solid tumor,"Zymeworks BC, Inc.","Preclinical, IND Application",-,-
+7D10-PAT-DX1,BAK + DNA,"BAK1, -",Breast Cancer,Patrys Ltd.,"Preclinical, IND Application",-,-
+anti-CD3/CD20 bispecific antibody,CD20 + CD3,"MS4A1, CD3E",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+anti-CEA/CD3 antibody (Jiangsu hengrui),CD3 + CEA,-,Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+Anti-CLDN18.2/CD3 bispecific antibody,CD3 + CLDN18.2,-,Neoplasms,"Shanghai Junshi Biosciences Co., Ltd.","Preclinical, IND Application",-,-
+anti-HGFR/EGFR antibody (Jiangsu hengrui),EGFR + c-Met,"EGFR, MET",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+anti-PD1/PDL1 antibody (Jiangsu Hengrui),PD-1 + PDL1,"PDCD1, CD274",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+anti-PD1/TGFβ antibody (Jiangsu hengrui),PD-1 + TGF-β,"PDCD1, -",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+anti-PDL1/4-1BB antibody (Jiangsu hengrui),4-1BB + PDL1,"TNFRSF9, CD274",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+anti-RANKL/NGF antibody (Jiangsu hengrui),NGF + RANKL,"-, TNFSF11",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+anti-VEGF/Ang2 antibody (Jiangsu hengrui),Ang2 + VEGF,"ANGPT2, VEGFA",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+anti-VEGF/PDGF antibody (Jiangsu hengrui),PDGF + VEGF-A,"-, VEGFA",Neoplasms,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.","Preclinical, IND Application",-,-
+APL-801,CD40 + PDL1,"CD40, CD274",Neoplasms,Zhejiang Crownmab Biotech Co. Ltd.,"Preclinical, IND Application",-,-
+B7H3 x NKG2D NKE,CD276 + NKG2D,"CD276, KLRK1",Neoplasms,"Xencor, Inc.","Preclinical, IND Application",-,-
+BP-1212,CD39 + TIM3,"ENTPD1, HAVCR2",Neoplasms,"BrightPath Biotherapeutics Co., Ltd.","Preclinical, IND Application",-,-
+C-21-7D12,CD16a + EGFR,"FCGR3A, EGFR",Colorectal Cancer,Vrije Universiteit Amsterdam,"Preclinical, IND Application",-,-
+CB-693,4-1BB + MSLN,"TNFRSF9, MSLN",-,Crescendo Biologics Ltd.,"Preclinical, IND Application",-,-
+CD137/FAP bispecific agonist antibody(Boehringer Ingelheim International GmbH),4-1BB + FAP,"TNFRSF9, FAP",-,Boehringer Ingelheim International GmbH,"Preclinical, IND Application",-,-
+DM-002 (Xadcera Biopharma),HER3 + MUC1,"ERBB3, MUC1",Neoplasms,"Xadcera Biopharmaceutical (Suzhou) Co., Ltd.","Preclinical, IND Application",-,-
+EX-109,CD3 + MUC17,"CD3E, MUC17",Gastroesophageal junction adenocarcinoma | Stomach Cancer,"Excelmab, Inc.","Preclinical, IND Application",-,-
+FmAb-2,EGFR + TGFBR2,"EGFR, TGFBR2",Neoplasms,Biocon Ltd.,"Preclinical, IND Application",-,-
+HK-006,4-1BB + HER2,"TNFRSF9, ERBB2",Neoplasms,HankeMab,"Preclinical, IND Application",-,-
+IDC-001,CTHRC1 + ZG16B,"CTHRC1, ZG16B",Ovarian Epithelial Carcinoma | Pancreatic Cancer,Prestige BioPharma Ltd.,"Preclinical, IND Application",-,-
+IDC-004,VEGF-A + ZG16B,"VEGFA, ZG16B",Ovarian Epithelial Carcinoma | Pancreatic Cancer,Prestige BioPharma Ltd.,"Preclinical, IND Application",-,-
+IDC-005,CTHRC1 + VEGF,"CTHRC1, VEGFA",Solid tumor,Prestige BioPharma Ltd.,"Preclinical, IND Application",-,-
+IMM 2547,CD24 + PDL1,"CD24, CD274",Solid tumor,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+LAE111,LILRB1 + LILRB2,"LILRB1, LILRB2",Neoplasms,"Laekna Therapeutics (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+LAE113,CD112R + TIGIT,"PVRIG, TIGIT",Neoplasms,"Laekna Therapeutics (Shanghai) Co., Ltd.","Preclinical, IND Application",-,-
+MBS-302,PDL1 + TGF-β,"CD274, -",Non-Small Cell Lung Cancer | Stomach Cancer,"Beijing Mabworks Biotech Co., Ltd.","Preclinical, IND Application",-,-
+MBS-305,BCMA + CD3,"TNFRSF17, CD3E",Multiple Myeloma,"Beijing Mabworks Biotech Co., Ltd.","Preclinical, IND Application",-,-
+MEDI-1109,OX40 + PDL1,"TNFRSF4, CD274",Neoplasms,MedImmune LLC,"Preclinical, IND Application",-,-
+NILK-3801,CD28 + GPC3,"CD28, GPC3",Solid tumor,LamKap Bio beta AG,"Preclinical, IND Application",-,-
+Novotarg,CD20 + FasR,"MS4A1, FAS",B-Cell Malignant Neoplasm,Baliopharm AG,"Preclinical, IND Application",-,-
+PT-790,CD3 + FOLR1,"CD3E, FOLR1",Ovarian Cancer,"Phanes Therapeutics, Inc.","Preclinical, IND Application",-,-
+PT-880,CD3 + CLDN18.2,-,Pancreatic Cancer | Stomach Cancer,"Phanes Therapeutics, Inc.","Preclinical, IND Application",-,-
+"ROR1/CD3 bispecific monoclonal antibody(Shandong Boan Biological Technology Co., Ltd.)",CD3 + ROR1,"CD3E, ROR1",-,"Shandong Boan Biotechnology Co., Ltd.","Preclinical, IND Application",-,-
+SNS-201,CD28 + VISTA,"CD28, VSIR",Solid tumor,"Panacea Pharmaceuticals, Inc.","Preclinical, IND Application",-,-
+SON-3015,IL-6 + TGF-β,"IL6, -",Bone metastases,"Sonnet BioTherapeutics, Inc.","Preclinical, IND Application",-,-
+TransJoin,CD19 + CD3,"CD19, CD3E",Lymphoma,Nationwide Children's Hospital,"Preclinical, IND Application",-,-
+Tumour associated antigen targeting bispecific antibody(PersonGen Biotherapeutics),CTLA4 + c-Met,"CTLA4, MET",Neoplasms,PersonGen BioTherapeutics (Suzhou) Co. Ltd,"Preclinical, IND Application",-,-
+XB-014,CD47 + PDL1,"CD47, CD274",Neoplasms,"Invenra, Inc.","Preclinical, IND Application",-,-
+YH-010,IL-12 + PDL1,"-, CD274",Solid tumor,Youhe Medical Technology (Beijing) Co. Ltd.,"Preclinical, IND Application",-,-
+JNJ-63709178,CD123 + CD3,"IL3RA, CD3E",-,Janssen Research & Development LLC,Discontinued/ Pending,-,-
+A300E-BiTE,ADAM17 + CD3,"ADAM17, CD3E",-,University of Kiel,Discontinued/ Pending,-,-
+ABBV-184,CD3 + survivin,"CD3E, BIRC5",-,"AbbVie, Inc.",Discontinued/ Pending,-,-
+ABP-120,CD20 + CD3,"MS4A1, CD3E",-,Abpro Corp.,Discontinued/ Pending,-,-
+ABP-140,CD3 + CD38,"CD3E, CD38",-,Abpro Corp.,Discontinued/ Pending,-,-
+ABP-160,CD47 + PDL1,"CD47, CD274",-,Abpro Corp.,Discontinued/ Pending,-,-
+AFM-11,CD19 + CD3,"CD19, CD3E",-,Affimed GmbH,Discontinued/ Pending,-,-
+AFM12,CD16a + CD19,"FCGR3A, CD19",-,Affimed GmbH,Discontinued/ Pending,-,-
+AMG-330,CD3 + CD33,"CD3E, CD33",-,"Amgen, Inc.",Discontinued/ Pending,-,-
+AMG-427 (Amgen),CD3 + FLT3,"CD3E, FLT3",-,"Amgen, Inc.",Discontinued/ Pending,-,-
+AMG-910,CD3 + CLDN18,"CD3E, CLDN18",-,"Amgen, Inc.",Discontinued/ Pending,-,-
+Anti-CD3/anti-CD20 bispecific antibody-armed activated T-cells(National Cancer Institute),CD20 + CD3,"MS4A1, CD3E",-,National Cancer Institute,Discontinued/ Pending,-,-
+"Anti-CD64-anti-CD30 bispecific monoclonal antibody(Medarex, Inc.)",CD30 + CD64,"TNFRSF8, FCGR1A",-,"Medarex, Inc.",Discontinued/ Pending,-,-
+Anti-CD79b/CD3 bispecific antibody(Innovent Biologics),CD3 + CD79B,"CD3E, CD79b",-,"Innovent Biologics, Inc.",Discontinued/ Pending,-,-
+Anti-IL-12/IL-18 DVD-Ig (AbbVie),IL-12 + IL-18,"-, IL18",-,Abbott Laboratories Ltd.,Discontinued/ Pending,-,-
+APVO-210,CD86 + IL-10R,"CD86, -",-,"Aptevo Therapeutics, Inc.",Discontinued/ Pending,-,-
+ATG-027,CD276 + PDL1,"CD276, CD274",-,"Antengene Corporation Co., Ltd.",Discontinued/ Pending,-,-
+AZ-17,IL-23p19 + IL-6,"IL23A, IL6",-,"Allozyne, Inc.",Discontinued/ Pending,-,-
+B728,PDL1 + TIGIT,"CD274, TIGIT",-,"FutureGen Biopharmaceutical (Beijing) Co., Ltd",Discontinued/ Pending,-,-
+bH1,HER2 + VEGF,"ERBB2, VEGFA",-,"Genentech, Inc.",Discontinued/ Pending,-,-
+BI-905677,LRP5 + LRP6,"LRP5, LRP6",-,Boehringer Ingelheim GmbH,Discontinued/ Pending,-,-
+Bispecific monoclonal antibody 2B1,FcRIII + HER2,"-, ERBB2",-,Chiron Corp.,Discontinued/ Pending,-,-
+Briakinumab,IL-12 + IL-23,-,-,Cambridge Antibody Technology,Discontinued/ Pending,-,-
+BSI-507,CD112R + PD-1,"PVRIG, PDCD1",-,"Biosion, Inc.",Discontinued/ Pending,-,-
+BSI-508,CD47 + PD-1,"CD47, PDCD1",-,"Biosion, Inc.",Discontinued/ Pending,-,-
+CD19/CD3,CD19 + CD3,"CD19, CD3E",-,"Wuhan YZY Biopharma Co., Ltd.",Discontinued/ Pending,-,-
+CTM-041,5T4 + CD40,"TPBG, CD40",-,"Lepu Biopharma Co., Ltd.",Discontinued/ Pending,-,-
+CTX-4419,BCMA + NCR3,"TNFRSF17, NCR3",-,Compass Therapeutics LLC,Discontinued/ Pending,-,-
+DIG-KT,Tie-2 + VEGFR2,"TEK, KDR",-,"OncoC4, Inc. | 3SBio, Inc.",Discontinued/ Pending,-,-
+"Duligotuzumab(Genentech, Inc.)",EGFR + HER3,"EGFR, ERBB3",-,"Genentech, Inc.",Discontinued/ Pending,-,-
+EI-04,EGFR + IGF-1R,"EGFR, IGF1R",-,"Biogen, Inc.",Discontinued/ Pending,-,-
+Emerfetamab,CD3 + CD33,"CD3E, CD33",-,"Amgen, Inc.",Discontinued/ Pending,-,-
+Ertumaxomab,CD3 + HER2,"CD3E, ERBB2",-,Trion Pharma GmbH,Discontinued/ Pending,-,-
+EX-102,CD19 + CD3,"CD19, CD3E",-,"Excelmab, Inc.",Discontinued/ Pending,-,-
+EX-110,CD3 + DLL3,"CD3E, DLL3",-,"Excelmab, Inc.",Discontinued/ Pending,-,-
+F6-734,CEA + DTPA,-,-,"Akeso Biopharma Co., Ltd.",Discontinued/ Pending,-,-
+FAP-DR5,DR5 + FAP,"TNFRSF10B, FAP",-,"Millennium Pharmaceuticals, Inc.",Discontinued/ Pending,-,-
+FBTA-05,CD20 + CD3,"MS4A1, CD3E",-,TRION Research GmbH,Discontinued/ Pending,-,-
+GBR-1302,CD3 + HER2,"CD3E, ERBB2",-,Glenmark Pharmaceuticals Ltd.,Discontinued/ Pending,-,-
+hMN14-734,CEA + DTPA,-,-,"Akeso Biopharma Co., Ltd.",Discontinued/ Pending,-,-
+IDM-1,CD64 + HER2,"FCGR1A, ERBB2",-,"Takeda Pharmaceutical Co., Ltd.",Discontinued/ Pending,-,-
+Istiratumab,HER3 + IGF-1R,"ERBB3, IGF1R",-,"Merrimack Pharmaceuticals, Inc.",Discontinued/ Pending,-,-
+KN-027,PDGFR + VEGFR,-,-,"Suzhou Alphamab Co., Ltd.",Discontinued/ Pending,-,-
+MDX-210,CD64 + HER2,"FCGR1A, ERBB2",-,"Takeda Pharmaceutical Co., Ltd.",Discontinued/ Pending,-,-
+MDX-214,CD89 + EGFR,"FCAR, EGFR",-,"Medarex, Inc.",Discontinued/ Pending,-,-
+MDX-220,FcRn + TAG-72,"FCGRT, -",-,National Cancer Institute,Discontinued/ Pending,-,-
+MDX-240,CD64 + gp41,"FCGR1A, -",-,"Medarex, Inc.",Discontinued/ Pending,-,-
+MDX-H210,CD64 + HER2,"FCGR1A, ERBB2",-,"Medarex, Inc.",Discontinued/ Pending,-,-
+MEDI-565,CD3 + CEA,-,-,"Amgen, Inc.",Discontinued/ Pending,-,-
+MM-111,HER2 + HER3,"ERBB2, ERBB3",-,"Merrimack Pharmaceuticals, Inc.",Discontinued/ Pending,-,-
+Monoclonal antibody BIS-1,CD3 + EpCAM,"CD3E, EPCAM",-,University of Groningen,Discontinued/ Pending,-,-
+MOR-209/ES414,CD3 + PSMA,"CD3E, FOLH1",-,"Emergent BioSolutions, Inc.",Discontinued/ Pending,-,-
+MP-ENDOS-1959,LGALS3BP + TEM1,"LGALS3BP, CD248",-,MediaPharma Srl,Discontinued/ Pending,-,-
+ND-003,CD3 + IL-5Rα,"CD3E, IL5RA",-,Numab Innovation AG,Discontinued/ Pending,-,-
+Ori--A362,4-1BB + CLDN18.2,"TNFRSF9, CLDN18",-,"OriCell Therapeutics Co.,Ltd.",Discontinued/ Pending,-,-
+Ori--A610,PDL1 + TIGIT,"CD274, TIGIT",-,"OriCell Therapeutics Co.,Ltd.",Discontinued/ Pending,-,-
+Ori-A364,CLDN18.2 + PDL1,"CLDN18, CD274",-,"OriCell Therapeutics Co.,Ltd.",Discontinued/ Pending,-,-
+Ori-Ab-008,PDL1 + TIGIT,"CD274, TIGIT",-,"OriCell Therapeutics Co.,Ltd.",Discontinued/ Pending,-,-
+Pacanalotamab,BCMA + CD3,"TNFRSF17, CD3E",-,Micromet AG,Discontinued/ Pending,-,-
+Pavurutamab,BCMA + CD3,"TNFRSF17, CD3E",-,"Amgen, Inc.",Discontinued/ Pending,-,-
+PF-07260437,B7-H4 + CD3,"VTCN1, CD3E",-,Pfizer Inc.,Discontinued/ Pending,-,-
+PF-5057459,Ang2 + VEGF-A,"ANGPT2, VEGFA",-,Pfizer Inc.,Discontinued/ Pending,-,-
+PF-6671008,CD3 + CDH3,"CD3E, CDH3",-,"MacroGenics, Inc.",Discontinued/ Pending,-,-
+PM-1043,4-1BB + HER2,"TNFRSF9, ERBB2",-,"Pumis Biotechnology (Zhuhai) Co., Ltd.",Discontinued/ Pending,-,-
+PMC-404,Ang2 + VEGF-C,"ANGPT2, VEGFC",-,PharmAbcine Inc.,Discontinued/ Pending,-,-
+Remtolumab,IL-17A + TNF-α,"IL17A, -",-,"AbbVie, Inc.",Discontinued/ Pending,-,-
+RG-6007,CD3 + WT1,"CD3E, WT1",-,Roche Holding AG,Discontinued/ Pending,-,-
+RO-7444973,CD3 + MAGEA4,"CD3E, MAGEA4",-,Roche Holding AG,Discontinued/ Pending,-,-
+SCT-B03,CTLA4 + OX40,"CTLA4, TNFRSF4",-,Sinocelltech Group Ltd.,Discontinued/ Pending,-,-
+SCT-B07,PDL1 + TGF-β,"CD274, -",-,Sinocelltech Group Ltd.,Discontinued/ Pending,-,-
+Solitumomab,CD3 + EpCAM,"CD3E, EPCAM",-,Micromet AG,Discontinued/ Pending,-,-
+SRB-18,HER3 + TRAIL,"ERBB3, TNFSF10",-,Sunrock Biopharma SL,Discontinued/ Pending,-,-
+"Tidutamab(Xencor, Inc.)",CD3 + SSTR2,"CD3E, SSTR2",-,"Xencor, Inc.",Discontinued/ Pending,-,-
+TJ-L1C4,CD47 + PDL1,"CD47, CD274",-,"I-Mab Biopharma (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+TJ-L1H3,CD276 + PDL1,"CD276, CD274",-,"I-Mab Biopharma (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+TJ-L1I7,IL-7 + PDL1,"IL7, CD274",-,"I-Mab Biopharma (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+UniTI-101,CCR2 + M-CSF,"CCR2, CSF1",-,"Marengo Therapeutics, Inc.",Discontinued/ Pending,-,-
+XmAb13243,CD3 + CD38,"CD3E, CD38",-,"Xencor, Inc.",Discontinued/ Pending,-,-
+XmAb13551,CD3 + CD38,"CD3E, CD38",-,"Amgen, Inc. | Xencor, Inc.",Discontinued/ Pending,-,-
+Y-111,CD3 + PDL1,"CD3E, CD274",-,"Wuhan YZY Biopharma Co., Ltd.",Discontinued/ Pending,-,-
+Y151,BCMA + CD3,"TNFRSF17, CD3E",-,"Wuhan YZY Biopharma Co., Ltd.",Discontinued/ Pending,-,-
+Y160,CD3 + CLDN18.2,-,-,"Wuhan YZY Biopharma Co., Ltd.",Discontinued/ Pending,-,-
+YBL-027,PDL1 + TIGIT,"CD274, TIGIT",-,"YBiologics, Inc.",Discontinued/ Pending,-,-
+1BiMAB (Ganymed Pharmaceuticals AG),CD3 + CLDN18,"CD3E, CLDN18",-,Ganymed Pharmaceuticals AG,Discontinued/ Pending,-,-
+3D-057,CD3 + PDL1,"CD3E, CD274",-,3D Medicines (Shanghai) Co Ltd,Discontinued/ Pending,-,-
+5T4-5T4-CD3,5T4 + CD3,"TPBG, CD3E",-,Biotecnol Ltd.,Discontinued/ Pending,-,-
+6PHU3 (BioNTech SE),CD3 + CLDN6,"CD3E, CLDN6",-,BioNTech SE,Discontinued/ Pending,-,-
+ABBV-428,CD40 + MSLN,"CD40, MSLN",-,"AbbVie, Inc.",Discontinued/ Pending,-,-
+AFM-15,CD3 + albumin,"CD3E, ALB",-,Affimed GmbH,Discontinued/ Pending,-,-
+AMG-966,TNF-α + VEGI,"-, TNFSF15",-,"Amgen, Inc.",Discontinued/ Pending,-,-
+AMG-CDH19X,CD3 + CDH19,"CD3E, CDH19",-,Micromet AG,Discontinued/ Pending,-,-
+Anti-CD28/anti-HMV-MAA bispecific antibody(Eberhard Karls Universitat Tubingen),CD28 + HMV-MAA,"CD28, -",-,Eberhard Karls Universität Tübingen,Discontinued/ Pending,-,-
+Anti-CD3-anti-CD19 bispecific monoclonal antibody(University of Cologne),CD19 + CD3,"CD19, CD3E",-,Universität zu Köln,Discontinued/ Pending,-,-
+Anti-CD3/ (Micromet/anti-CAIX bispecific T-cell engagerAmgen),CAIX + CD3,"CA9, CD3E",-,Micromet AG,Discontinued/ Pending,-,-
+Anti-CD3/Anti-SLAMF7 Bispecific Antibody,CD3 + SLAMF7,"CD3E, SLAMF7",-,University of Virginia Foundation,Discontinued/ Pending,-,-
+"Anti-CD40/B7-H4 Bispecific antibody(Lyvgen Biopharma Co., Ltd)",B7-H4 + CD40,"VTCN1, CD40",-,Lijin Biomedical Technology Shanghai Co. Ltd.,Discontinued/ Pending,-,-
+"Anti-CD40/CD276 Bispecific antibody(Lyvgen Biopharma Co., Ltd)",CD276 + CD40,"CD276, CD40",-,Lijin Biomedical Technology Shanghai Co. Ltd.,Discontinued/ Pending,-,-
+"Anti-CD40/CEA Bispecific antibody(Lyvgen Biopharma Co., Ltd)",CD40 + CEA,"CD40, CEACAM5",-,Lijin Biomedical Technology Shanghai Co. Ltd.,Discontinued/ Pending,-,-
+"Anti-CD40/HER2 Bispecific antibody(Lyvgen Biopharma Co., Ltd)",CD40 + HER2,"CD40, ERBB2",-,Lijin Biomedical Technology Shanghai Co. Ltd.,Discontinued/ Pending,-,-
+Anti-EGFR/HER3 bispecific antibody(Biocad),EGFR + HER3,"EGFR, ERBB3",-,Biocad CJSC,Discontinued/ Pending,-,-
+Anti-HER2/CD3(Genentech),CD3 + HER2,"CD3E, ERBB2",-,"Genentech, Inc.",Discontinued/ Pending,-,-
+Anti-IGF monoclonal antibodies (Shin Nippon),IGF-1 + IGF-2,"IGF1, IGF2",-,"National Cancer Institute | Shin Nippon Biomedical Laboratories, Ltd.",Discontinued/ Pending,-,-
+Anti-IL 17/TNF-alpha Bispecific Antibody (Biocad),IL-17F + TNF-α,"IL17F, -",-,Biocad CJSC,Discontinued/ Pending,-,-
+"Anti-PD-L1/TGF-β antibody(GigaGen, Inc.)",PDL1 + TGF-β,"CD274, -",-,"GigaGen, Inc.",Discontinued/ Pending,-,-
+Antibody-100,EpCAM + TCR,"EPCAM, -",-,"Altrubio, Inc.",Discontinued/ Pending,-,-
+AP-163,BCMA + CD3,"TNFRSF17, CD3E",-,"Anyuan Pharmaceutical Technology (Shanghai) Co., Ltd. | Lunan Pharmaceutical Group Co., Ltd.",Discontinued/ Pending,-,-
+APVO-603,4-1BB + OX40,"TNFRSF9, TNFRSF4",-,"Aptevo Therapeutics, Inc.",Discontinued/ Pending,-,-
+ATOR-1015,CTLA4 + OX40,"CTLA4, TNFRSF4",-,Alligator Bioscience AB,Discontinued/ Pending,-,-
+ATOR-1144,CTLA4 + GITR,"CTLA4, TNFRSF18",-,Alligator Bioscience AB,Discontinued/ Pending,-,-
+B05/CD3,CD3 + HLA-A 24 + PITRM1,"CD3E, -, PITRM1",-,Affimed GmbH,Discontinued/ Pending,-,-
+BCD-121,IL-17 + TNF-α,-,-,"Biocad Medical, Inc.",Discontinued/ Pending,-,-
+BY-24.3,PD-1 + VEGF,"PDCD1, VEGFA",-,"Hangzhou Shangjian Biotechnology Co., Ltd. | Beijing Biyang Biotechnology Co., Ltd.",Discontinued/ Pending,-,-
+C3B3-DB,HLA class I antigen + P-gp,"-, ABCB1",-,"Chugai Pharmaceutical Co., Ltd.",Discontinued/ Pending,-,-
+CAN-105,F10 + factor IXa,"F10, -",-,CANbridge Life Sciences Ltd.,Discontinued/ Pending,-,-
+CD40/EpCAM bispecific antibody(Alligator Bioscience AB),CD40 + EpCAM,"CD40, EPCAM",-,Alligator Bioscience AB,Discontinued/ Pending,-,-
+CLL1-TDB,CD3 + CLL-1,"CD3E, CLEC12A",-,"Genentech, Inc.",Discontinued/ Pending,-,-
+CYT-103(Cytovia Therapeutics),GPC3 + NKp46,"GPC3, NCR1",-,"Cytovia Therapeutics, Inc.",Discontinued/ Pending,-,-
+CYT-106,CD38 + NKp46,"CD38, NCR1",-,The Hebrew University of Jerusalem,Discontinued/ Pending,-,-
+CYT-303,GPC3 + NKp46,"GPC3, NCR1",-,The Hebrew University of Jerusalem,Discontinued/ Pending,-,-
+CYT-338,CD38 + NKp46,"CD38, NCR1",-,"Cytovia Therapeutics, Inc.",Discontinued/ Pending,-,-
+"DAAP (Aprogen, Inc.)",Ang1 + VEGF-A,"ANGPT1, VEGFA",-,"Aprogen, Inc.",Discontinued/ Pending,-,-
+DIA-10-D,BACE + α-secretase,-,-,Arizona State University,Discontinued/ Pending,-,-
+DMS-3008,EGFR + VEGFR,"EGFR, -",-,Domantis Ltd.,Discontinued/ Pending,-,-
+DOM-1516,Growth factor receptor,-,-,Domantis Ltd.,Discontinued/ Pending,-,-
+Duta-101,PDGFR + VEGFR,-,-,Dutalys GmbH,Discontinued/ Pending,-,-
+E1-3s,CD3 + Trop-2,"CD3E, TACSTD2",-,"Immunomedics, Inc.",Discontinued/ Pending,-,-
+Etevritamab,CD3 + EGFRvIII,-,-,"Amgen, Inc.",Discontinued/ Pending,-,-
+EX-104,PD-1 + TIGIT,"PDCD1, TIGIT",-,"Excelmab, Inc.",Discontinued/ Pending,-,-
+EX-107,CD3 + MSLN,"CD3E, MSLN",-,"Excelmab, Inc.",Discontinued/ Pending,-,-
+FOLR-1-BiTE,CD3 + FOLR1,"CD3E, FOLR1",-,"Amgen, Inc.",Discontinued/ Pending,-,-
+Fsn-1006,AREG + HBEGF,"AREG, HBEGF",-,Fusion Antibodies Plc,Discontinued/ Pending,-,-
+GBR-1372(Glenmark Pharmaceuticals Ltd.),CD3 + EGFR,"CD3E, EGFR",-,Glenmark Pharmaceuticals Ltd.,Discontinued/ Pending,-,-
+GNR-047,CD19 + CD3,"CD19, CD3E",-,International Biotech Center Generium,Discontinued/ Pending,-,-
+GSK-2434735,IL-13 + IL-4,"IL13, IL4",-,GSK Plc,Discontinued/ Pending,-,-
+H-447,CD64 + EGFR,"FCGR1A, EGFR",-,"Takeda Pharmaceutical Co., Ltd.",Discontinued/ Pending,-,-
+h8F4-BiTE,CD3 + HLA class II antigen,-,-,The University of Texas MD Anderson Cancer Center,Discontinued/ Pending,-,-
+HBM-7015,PDL1 + TGF-β1,"CD274, TGFB1",-,"Harbour BioMed (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+HBM-7020,BCMA + CD3,"TNFRSF17, CD3E",-,"Harbour BioMed (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+HLX-31,CD3 + HER2,"CD3E, ERBB2",-,"Henlix Biotech Co., Ltd.",Discontinued/ Pending,-,-
+HMBD-004B,CD33 + CD47,"CD33, CD47",-,"Shanghai Henlius Biotech, Inc.",Discontinued/ Pending,-,-
+HRS-3/A9,CD16a + CD30,"FCGR3A, TNFRSF8",-,Biotest Pharma GmbH,Discontinued/ Pending,-,-
+IMM2521,PDL1 + SIRPα,"CD274, SIRPA",-,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+IMM3202,CD47 + VEGFR2,"CD47, KDR",-,"ImmuneOnco Biopharmaceuticals (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+JNJ-0819,CD3 + Heme oxygenase,-,-,"Janssen Pharmaceuticals, Inc.",Discontinued/ Pending,-,-
+JNJ-63898081,CD3 + PSMA,"CD3E, FOLH1",-,Janssen Research & Development LLC,Discontinued/ Pending,-,-
+JS-206,IL-2 + PD-1,"IL2, PDCD1",-,"Shanghai Junshi Biosciences Co., Ltd.",Discontinued/ Pending,-,-
+JS-209,CD112R + TIGIT,"PVRIG, TIGIT",-,"Shanghai Junshi Biosciences Co., Ltd.",Discontinued/ Pending,-,-
+KM-3907,CLDN1 + CLDN3,"CLDN1, CLDN3",-,"Kyowa Kirin Co., Ltd.",Discontinued/ Pending,-,-
+KY-1049,F10 + F8 + factor IX,"F10, F8, F9",-,Kymab Ltd.,Discontinued/ Pending,-,-
+LQ-026,IL-17A + TNF-α,"IL17A, -",-,"Shanghai Novamab Biopharmaceuticals Co., Ltd.",Discontinued/ Pending,-,-
+LY-3164530,EGFR + c-Met,"EGFR, MET",-,Eli Lilly & Co.,Discontinued/ Pending,-,-
+LY-3232094,IL-23p19 + TNF-α,"IL23A, -",-,Eli Lilly & Co.,Discontinued/ Pending,-,-
+M-1231,EGFR + MUC1,"EGFR, MUC1",-,"EMD Serono Research & Development Institute, Inc.",Discontinued/ Pending,-,-
+MDX-260,CD64 + GD2,"FCGR1A, -",-,"Medarex, Inc.",Discontinued/ Pending,-,-
+PMC-002,VEGFR2 + c-Met,"KDR, MET",-,PharmAbcine Inc.,Discontinued/ Pending,-,-
+PMC-002R,Tie-2 + VEGFR2,"TEK, KDR",-,PharmAbcine Inc.,Discontinued/ Pending,-,-
+PMC-122,CD47 + PDL1,"CD47, CD274",-,PharmAbcine Inc.,Discontinued/ Pending,-,-
+PRS-332,LAG3 + PDL1,"LAG3, CD274",-,"Pieris Pharmaceuticals, Inc.",Discontinued/ Pending,-,-
+Recombinant humanized bispecific antibody,CD16a + PDL1,"FCGR3A, CD274",-,"Mabwell (Shanghai) Bioscience Co., Ltd.",Discontinued/ Pending,-,-
+RO-7040547,IL-13 + IL-17A,"IL13, IL17A",-,"Genentech, Inc.",Discontinued/ Pending,-,-
+Romilkimab,IL-13 + IL-4,"IL13, IL4",-,Sanofi,Discontinued/ Pending,-,-
+SL-188,PGF + c-Met,"PGF, MET",-,Sea Lane Biotechnologies LLC,Discontinued/ Pending,-,-
+SSGJ-706,PD-1 + PDL1,"PDCD1, CD274",-,"Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",Discontinued/ Pending,-,-
+Tepoditamab,CD3 + CLL-1,"CD3E, CLEC12A",-,Institut Gustave Roussy EURL,Discontinued/ Pending,-,-
+Tibulizumab,BAFF + IL-17,"TNFSF13B, -",-,Eli Lilly & Co.,Discontinued/ Pending,-,-
+TJ-L1T6,PDL1 + TIGIT,"CD274, TIGIT",-,I-Mab Bio-tech (Tianjin) Co. Ltd.,Discontinued/ Pending,-,-
+UCB-0159,IL-17A + TNF,"IL17A, -",-,UCB SA,Discontinued/ Pending,-,-
+VHH1D12,CD1d + TCR,"CD1d, -",-,LAVA Therapeutics NV | Stichting Onderzoek Cancer Center Amsterdam,Discontinued/ Pending,-,-
+Vixtimotamab,CD3 + CD33,"CD3E, CD33",-,"Amphivena Therapeutics, Inc.",Discontinued/ Pending,-,-
+YBL-004,PD-1 + PDL1,"PDCD1, CD274",-,"YBiologics, Inc.",Discontinued/ Pending,-,-
+YH-006,CTLA4 + OX40,"CTLA4, TNFRSF4",-,Youhe Medical Technology (Beijing) Co. Ltd.,Discontinued/ Pending,-,-
+BVX130-mcMMAF,CD33 + CD7,"CD33, CD7",-,BiVictriX Therapeutics Plc,Discontinued/ Pending,-,-
+Pasotuxizumab,CD3 + PSMA,"CD3E, FOLH1",-,"Amgen, Inc.",Discontinued/ Pending,-,-
