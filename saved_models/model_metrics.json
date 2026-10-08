@@ -1,0 +1,92 @@
+{
+  "Logistic Regression": {
+    "roc_auc": 0.7865,
+    "pr_auc": 0.7932,
+    "accuracy": 0.6875,
+    "precision": 0.7658,
+    "recall": 0.6855,
+    "f1_score": 0.7234,
+    "specificity": 0.6905,
+    "confusion_matrix": {
+      "TN": 58,
+      "FP": 26,
+      "FN": 39,
+      "TP": 85
+    }
+  },
+  "Decision Tree": {
+    "roc_auc": 0.7803,
+    "pr_auc": 0.7666,
+    "accuracy": 0.8221,
+    "precision": 0.7959,
+    "recall": 0.9435,
+    "f1_score": 0.8635,
+    "specificity": 0.6429,
+    "confusion_matrix": {
+      "TN": 54,
+      "FP": 30,
+      "FN": 7,
+      "TP": 117
+    }
+  },
+  "Random Forest": {
+    "roc_auc": 0.8035,
+    "pr_auc": 0.8014,
+    "accuracy": 0.8221,
+    "precision": 0.8,
+    "recall": 0.9355,
+    "f1_score": 0.8625,
+    "specificity": 0.6548,
+    "confusion_matrix": {
+      "TN": 55,
+      "FP": 29,
+      "FN": 8,
+      "TP": 116
+    }
+  },
+  "GBDT": {
+    "roc_auc": 0.8154,
+    "pr_auc": 0.8089,
+    "accuracy": 0.8173,
+    "precision": 0.8028,
+    "recall": 0.9194,
+    "f1_score": 0.8571,
+    "specificity": 0.6667,
+    "confusion_matrix": {
+      "TN": 56,
+      "FP": 28,
+      "FN": 10,
+      "TP": 114
+    }
+  },
+  "DNN (Deep Neural Network)": {
+    "roc_auc": 0.779,
+    "pr_auc": 0.7736,
+    "accuracy": 0.8029,
+    "precision": 0.7823,
+    "recall": 0.9274,
+    "f1_score": 0.8487,
+    "specificity": 0.619,
+    "confusion_matrix": {
+      "TN": 52,
+      "FP": 32,
+      "FN": 9,
+      "TP": 115
+    }
+  },
+  "XGBoost + Pairwise AI": {
+    "roc_auc": 0.8126,
+    "pr_auc": 0.826,
+    "accuracy": 0.8077,
+    "precision": 0.7958,
+    "recall": 0.9113,
+    "f1_score": 0.8496,
+    "specificity": 0.6548,
+    "confusion_matrix": {
+      "TN": 55,
+      "FP": 29,
+      "FN": 11,
+      "TP": 113
+    }
+  }
+}
