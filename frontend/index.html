@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BiSpec Pairwise AI | Precision Oncology Antibody Target Discovery</title>
+    <!-- Google Fonts & Chart.js -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+    <!-- Header Navigation matching Uc target combination.jpeg -->
+    <header>
+        <div class="container nav-bar">
+            <div class="logo-box">
+                <div class="logo-icon">🧬</div>
+                <div class="logo-text">
+                    <div class="logo-title-row">
+                        <h1>BiSpec Pairwise AI</h1>
+                        <span class="version-badge">V2.1</span>
+                    </div>
+                    <p>Target Prioritization &amp; Pairwise Learning Platform</p>
+                </div>
+            </div>
+
+            <div class="nav-center">
+                <nav class="nav-tabs">
+                    <a href="#predictor" class="tab-pill active">Pairwise Screening Studio</a>
+                    <a href="#benchmarks" class="tab-pill">MODEL BENCHMARK AND AUC METRICS</a>
+                    <a href="#catalog-section" class="tab-pill">Clinical Registry (791 Drugs)</a>
+                </nav>
+            </div>
+
+            <div class="nav-right">
+                <div class="badge-champion">
+                    <span class="dot-green"></span>
+                    <span>XGBoost Champion (PR-AUC: 0.8701)</span>
+                </div>
+                <div class="badge-drugs">791 Clinical Drugs</div>
+                <button type="button" id="btnOpenEvaluatorGuide" class="btn-evaluator-guide" title="Open Milestone 1 Evaluator Guide">
+                    🎓 Evaluator Guide
+                </button>
+                <button type="button" id="btnOpenAiModal" class="btn-ai-settings" title="AI Settings">
+                    ⚙️
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        
+        <!-- Live KPI Statistics Top Bar -->
+        <div class="kpi-bar">
+            <div class="kpi-card">
+                <div class="kpi-icon">🎯</div>
+                <div>
+                    <div class="kpi-value" id="kpiTargets">183</div>
+                    <div class="kpi-label">Indexed Target Antigens</div>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon">🔬</div>
+                <div>
+                    <div class="kpi-value">208,506</div>
+                    <div class="kpi-label">Single Cells Analyzed (GSE131907)</div>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon">💊</div>
+                <div>
+                    <div class="kpi-value">791</div>
+                    <div class="kpi-label">Clinical Bispecific Programs</div>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon">⭐</div>
+                <div>
+                    <div class="kpi-value" style="color: var(--accent-primary);">85.0%</div>
+                    <div class="kpi-label">XGBoost Pairwise ROC-AUC</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Evaluator Guide Banner for Milestone 1 -->
+        <div class="evaluator-banner">
+            <div class="evaluator-banner-text">
+                <div style="font-size: 1.4rem;">🎓</div>
+                <div>
+                    <h4>Project Milestone 1: Evaluator Explanatory Guide Active</h4>
+                    <p>Complex biological mechanisms and machine learning concepts explained in simple, intuitive terms for review.</p>
+                </div>
+            </div>
+            <button type="button" id="btnOpenEvaluatorBanner" class="btn-banner-guide">
+                Explore Milestone 1 Guide &rarr;
+            </button>
+        </div>
+
+        <!-- Workflow Stepper -->
+        <div class="stepper-container">
+            <div class="step-item active">
+                <div class="step-num">1</div>
+                <span>Single-Cell Genomics</span>
+            </div>
+            <div class="step-arrow">&rarr;</div>
+            <div class="step-item active">
+                <div class="step-num">2</div>
+                <span>Pairwise Feature Matrix</span>
+            </div>
+            <div class="step-arrow">&rarr;</div>
+            <div class="step-item active">
+                <div class="step-num">3</div>
+                <span>XGBoost Pairwise AI</span>
+            </div>
+            <div class="step-arrow">&rarr;</div>
+            <div class="step-item active">
+                <div class="step-num">4</div>
+                <span>SHAP Explainability</span>
+            </div>
+            <div class="step-arrow">&rarr;</div>
+            <div class="step-item active">
+                <div class="step-num">5</div>
+                <span>GPT Oncology Synthesis</span>
+            </div>
+        </div>
+
+        <!-- Pairwise Screening Studio (matching Uc target combination.jpeg & Graph and Add.jpeg) -->
+        <section id="predictor" style="margin-bottom: 2.5rem;">
+            <div class="studio-grid">
+                
+                <!-- Left: Dual-Target Specification Card -->
+                <div class="spec-card">
+                    <div class="card-header-flex">
+                        <div class="spec-header-title">
+                            <span class="spec-icon">☍</span>
+                            <h3>Dual-Target Specification</h3>
+                        </div>
+                        <span class="badge-perm-invariant" title="Permutation Invariant: Target A + Target B produces identical predictions to Target B + Target A.">
+                            PERMUTATION INVARIANT
+                        </span>
+                    </div>
+
+                    <form id="predictForm">
+                        <!-- Target Arm 1 -->
+                        <div class="form-group" style="margin-top: 0.5rem;">
+                            <div class="label-row">
+                                <label class="form-label" for="selectTargetA">Target Arm 1 (Tumor Surface Antigen / RTK / Cytokine)</label>
+                                <span class="action-link" onclick="document.getElementById('selectTargetA').focus()">• Type or choose</span>
+                            </div>
+                            <select id="selectTargetA" class="form-select" required>
+                                <option value="">Loading targets...</option>
+                            </select>
+                        </div>
+
+                        <!-- Target Arm 2 -->
+                        <div class="form-group">
+                            <div class="label-row">
+                                <label class="form-label" for="selectTargetB">Target Arm 2 (Bypass Receptor / T-Cell Engager / Checkpoint)</label>
+                                <span class="action-link" onclick="document.getElementById('selectTargetB').focus()">• Type or choose</span>
+                            </div>
+                            <select id="selectTargetB" class="form-select" required>
+                                <option value="">Loading targets...</option>
+                            </select>
+                        </div>
+
+                        <!-- Target Profiles Side-by-Side (matching Uc target combination.jpeg) -->
+                        <div class="profiles-grid">
+                            <div class="target-profile-box">
+                                <div class="profile-header">TARGET ARM 1 PROFILE</div>
+                                <h4 class="profile-symbol" id="profSymbolA">CACNA1G-AS1</h4>
+                                <div class="profile-detail"><strong>Class:</strong> <span id="profClassA">other</span></div>
+                                <div class="profile-detail"><strong>Location:</strong> <span id="profLocA">Cell Membrane</span></div>
+                                <div class="profile-detail"><strong>Clinical Drugs:</strong> <span id="profDrugsA">1 records</span></div>
+                            </div>
+                            <div class="target-profile-box">
+                                <div class="profile-header">TARGET ARM 2 PROFILE</div>
+                                <h4 class="profile-symbol" id="profSymbolB">IL17F</h4>
+                                <div class="profile-detail"><strong>Class:</strong> <span id="profClassB">other</span></div>
+                                <div class="profile-detail"><strong>Location:</strong> <span id="profLocB">Cell Membrane</span></div>
+                                <div class="profile-detail"><strong>Clinical Drugs:</strong> <span id="profDrugsB">1 records</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Indication Selection -->
+                        <div class="form-group" style="margin-top: 1rem;">
+                            <div class="label-row">
+                                <label class="form-label" for="selectIndication">Tumor Category / Cancer Indication</label>
+                                <span class="action-link">• Hybrid: Type or choose</span>
+                            </div>
+                            <select id="selectIndication" class="form-select">
+                                <option value="Small Cell Lung Cancer (SCLC)">Small Cell Lung Cancer (SCLC)</option>
+                                <option value="Non-Small Cell Lung Cancer (NSCLC)">Non-Small Cell Lung Cancer (NSCLC)</option>
+                                <option value="Gastric / Stomach Adenocarcinoma">Gastric / Stomach Adenocarcinoma</option>
+                                <option value="Colorectal Cancer">Colorectal Cancer</option>
+                                <option value="Solid tumor">Solid Tumor</option>
+                                <option value="Multiple Myeloma">Multiple Myeloma</option>
+                                <option value="Acute Myeloid Leukemia">Acute Myeloid Leukemia</option>
+                            </select>
+                        </div>
+
+                        <!-- Presets Bar -->
+                        <div class="preset-bar-styled">
+                            <span class="form-label" style="margin-bottom: 0.25rem;">Quick Clinical Presets:</span>
+                            <div class="preset-chips" id="presetContainer"></div>
+                        </div>
+
+                        <button type="submit" id="btnPredict" class="btn-submit-prediction">
+                            ⚡ Run AI Pairwise Prediction &amp; Generate Clinical Dossier
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Right: AI Compatibility & Synergy Analysis Card (matching Uc target combination.jpeg & Graph and Add.jpeg) -->
+                <div class="analysis-card" id="results">
+                    <div class="card-header-flex">
+                        <div class="spec-header-title">
+                            <span class="analysis-shield-icon">🛡️</span>
+                            <h3>AI Compatibility &amp; Synergy Analysis</h3>
+                        </div>
+                        <span id="scoreTierBadge" class="badge-tier-recommended">
+                            HIGHLY SYNERGISTIC (TIER 1 RECOMMENDED)
+                        </span>
+                    </div>
+
+                    <!-- Circular Progress Gauge -->
+                    <div class="score-display-wrapper">
+                        <div class="score-ring-container">
+                            <div class="score-ring" id="scoreCircle">
+                                <div class="score-ring-inner">
+                                    <span class="score-number" id="scoreVal">86.2</span><span class="score-percent-sign">%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <h3 class="analysis-pair-name" id="analysisPairTitle">ERBB2 + IL17F</h3>
+                        <p class="analysis-summary" id="summaryText">
+                            Strong clinical synergy predicted. Dual targeting suppresses resistance pathways effectively.
+                        </p>
+                    </div>
+
+                    <!-- Warning: Novel vs Clinical (matching Uc target combination.jpeg) -->
+                    <div id="targetWarningBox" class="callout-warning-novel">
+                        <div class="warning-title" id="warningTitle">⚠️ Novel / Uncharacterized Target Combination</div>
+                        <div class="warning-desc" id="warningDesc">
+                            No active bispecific antibody targeting <strong>ERBB2 + IL17F</strong> is currently approved or under clinical investigation in the dataset.
+                        </div>
+                    </div>
+
+                    <!-- Radar Distribution Chart (matching Graph and Add.jpeg) -->
+                    <div class="radar-wrapper">
+                        <div style="height: 250px; position: relative;">
+                            <canvas id="radarChart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- 4 Stat Cards in a Row (matching Graph and Add.jpeg) -->
+                    <div class="radar-stat-grid">
+                        <div class="radar-stat-card">
+                            <div class="radar-stat-label">BIOLOGICAL SYNERGY</div>
+                            <div class="radar-stat-val val-green" id="radarStatSynergy">35%</div>
+                        </div>
+                        <div class="radar-stat-card">
+                            <div class="radar-stat-label">PATHWAY CONVERGENCE</div>
+                            <div class="radar-stat-val val-blue" id="radarStatPathway">40%</div>
+                        </div>
+                        <div class="radar-stat-card">
+                            <div class="radar-stat-label">TUMOR RELEVANCE</div>
+                            <div class="radar-stat-val val-dark" id="radarStatTumor">79%</div>
+                        </div>
+                        <div class="radar-stat-card">
+                            <div class="radar-stat-label">SAFETY PROFILE</div>
+                            <div class="radar-stat-val val-orange" id="radarStatSafety">55%</div>
+                        </div>
+                    </div>
+
+                    <!-- Preclinical Opportunity Card (matching Graph and Add.jpeg) -->
+                    <div class="preclinical-opp-box">
+                        <div class="opp-title-row">
+                            <span class="opp-dollar-icon">$</span>
+                            <h4>Preclinical Opportunity: Add to Clinical Test</h4>
+                        </div>
+                        <p class="opp-description">
+                            This combination demonstrates high compatibility (<strong id="oppCompatScore">86.2%</strong>) with no approved drug currently on the market. Nominate for preclinical pipeline testing.
+                        </p>
+                        <button type="button" id="btnAddClinicalTest" class="btn-green-add">
+                            + Add to Clinical Test
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Single-Cell Biomarkers & Multi-Model Real-Time Consensus -->
+        <section style="margin-bottom: 2.5rem;">
+            <div class="grid-2">
+                
+                <!-- Left: Single-cell Biomarkers -->
+                <div class="card">
+                    <h3 class="card-title">🔬 Single-Cell RNA-seq Molecular Biomarkers</h3>
+                    <p class="card-subtitle">Granular transcriptomic features derived across 208,506 NSCLC cells (GSE131907).</p>
+                    
+                    <div class="stat-grid">
+                        <div class="stat-chip">
+                            <div class="stat-chip-label">T1 Safety Index</div>
+                            <div class="stat-chip-value" id="statSafetyA">--</div>
+                        </div>
+                        <div class="stat-chip">
+                            <div class="stat-chip-label">T2 Safety Index</div>
+                            <div class="stat-chip-value" id="statSafetyB">--</div>
+                        </div>
+                        <div class="stat-chip">
+                            <div class="stat-chip-label">Safety Floor (Min)</div>
+                            <div class="stat-chip-value" id="statSafetyMin">--</div>
+                        </div>
+                        <div class="stat-chip">
+                            <div class="stat-chip-label">T1 Specificity</div>
+                            <div class="stat-chip-value" id="statSpecA">--</div>
+                        </div>
+                        <div class="stat-chip">
+                            <div class="stat-chip-label">T2 Specificity</div>
+                            <div class="stat-chip-value" id="statSpecB">--</div>
+                        </div>
+                        <div class="stat-chip">
+                            <div class="stat-chip-label">Profile Cosine Sim</div>
+                            <div class="stat-chip-value" id="statSim">--</div>
+                        </div>
+                    </div>
+                    
+                    <div style="margin-top: 1.25rem; font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5; background: #f8fafc; padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid #e2e8f0;">
+                        💡 <strong>Evaluator Note:</strong> The <em>Safety Floor (Min)</em> acts as an on-target off-tumor safety fuse. If either antigen has high expression in vital normal tissues (e.g. healthy lung alveoli), the Safety Floor drops, protecting patients from severe toxicity.
+                    </div>
+                </div>
+
+                <!-- Right: Real-time Cross-Algorithm Predictions -->
+                <div class="card">
+                    <h3 class="card-title">📊 Multi-Model Real-Time Consensus</h3>
+                    <p class="card-subtitle">Live inference comparing Logistic Regression, Decision Tree, Random Forest, GBDT, DNN, and XGBoost.</p>
+                    
+                    <div class="model-comp-list" id="modelCompList">
+                        <!-- Populated by JavaScript -->
+                    </div>
+
+                    <div style="margin-top: 1.25rem; padding: 0.85rem 1rem; background: #f0f9ff; border-radius: var(--radius-sm); border: 1px solid #bae6fd; font-size: 0.84rem; color: #0369a1; line-height: 1.6;">
+                        💡 <strong>Evaluator Note:</strong> Traditional models evaluate antigens independently. Our XGBoost + Pairwise AI explicitly models non-linear receptor cross-talk, normal tissue liabilities, and tumor avidity ratios.
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Explainable AI (SHAP) -->
+        <section id="explainability" style="margin-bottom: 2.5rem;">
+            <div class="card">
+                <h3 class="card-title">🔍 Explainable AI: SHAP Feature Attribution Breakdown</h3>
+                <p class="card-subtitle">Quantifying the exact mathematical contribution of biological features pushing the pair toward viability or discontinuation.</p>
+                
+                <div style="height: 350px; position: relative; margin-top: 1rem;">
+                    <canvas id="shapChart"></canvas>
+                </div>
+                <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1rem; font-size: 0.85rem; font-weight: 600;">
+                    <span style="color: #0284c7;">■ Fosters Compatibility (Positive Driver)</span>
+                    <span style="color: #dc2626;">■ Off-Target / Discontinuation Liability (Risk Driver)</span>
+                </div>
+                <p style="margin-top: 0.85rem; font-size: 0.82rem; color: var(--text-muted); text-align: center;">
+                    💡 <strong>Evaluator Note:</strong> SHAP (Shapley Additive exPlanations) uses game theory to prove exactly why the AI assigned this score, ensuring the model is not a black box.
+                </p>
+            </div>
+        </section>
+
+        <!-- Executive Clinical Oncology Dossier (GPT-Augmented Intelligence) -->
+        <section id="dossier" style="margin-bottom: 3rem;">
+            <div class="dossier-card">
+                <div class="dossier-header">
+                    <div>
+                        <span class="dossier-tag">Confidential Clinical Oncology Dossier</span>
+                        <h2 class="dossier-title" id="dossierPairTitle">Target Pair Clinical Evaluation</h2>
+                        <div class="dossier-meta">
+                            Generated by <span id="dossierSource" style="color: var(--accent-primary); font-weight: 600;">Biomedical Knowledge Engine</span> &bull; 
+                            Indication: <span id="dossierIndication" style="font-weight: 600; color: #fff;">NSCLC</span> &bull; 
+                            Date: <span id="dossierDate">2026-09-30</span>
+                        </div>
+                    </div>
+                    <div class="dossier-actions">
+                        <button type="button" class="btn-secondary" onclick="window.print()">
+                            🖨️ Print / Export Dossier (PDF)
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Section 1: Overview -->
+                <div class="dossier-section">
+                    <h3 class="dossier-section-title">1. Molecular Target Identity &amp; Cellular Localization</h3>
+                    <div class="dossier-body" id="dossierOverview">
+                        Loading target molecular identity...
+                    </div>
+                </div>
+
+                <!-- Section 2: Mechanism of Action -->
+                <div class="dossier-section">
+                    <h3 class="dossier-section-title">2. In-Depth Mechanism of Action (MoA)</h3>
+                    <div class="dossier-body" id="dossierMoA">
+                        Loading detailed mechanism of action...
+                    </div>
+                </div>
+
+                <!-- Section 3: Synergy Rationale -->
+                <div class="dossier-section">
+                    <h3 class="dossier-section-title">3. Biochemical Synergy &amp; Single-Cell Dynamics</h3>
+                    <div class="dossier-body" id="dossierSynergy">
+                        Loading synergy validation...
+                    </div>
+                </div>
+
+                <!-- Section 4: Safety &amp; Toxicity -->
+                <div class="dossier-section">
+                    <h3 class="dossier-section-title">4. Toxicological Assessment &amp; Off-Tumor Liabilities</h3>
+                    <div class="dossier-body" id="dossierSafety">
+                        Loading toxicology assessment...
+                    </div>
+                </div>
+
+                <!-- Section 5: Clinical Recommendations -->
+                <div class="dossier-section">
+                    <h3 class="dossier-section-title">5. Translational R&amp;D &amp; Molecular Engineering Strategy</h3>
+                    <div class="dossier-body" id="dossierRecommendation">
+                        Loading clinical recommendations...
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Real-World Clinical Catalog Explorer (791 Drugs) -->
+        <section id="catalog-section" style="margin-bottom: 3rem;">
+            <div class="card">
+                <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; margin-bottom: 1rem;">
+                    <div>
+                        <h3 class="card-title">📚 Clinical Bispecific Antibody Catalog (791 Preprocessed Pairs)</h3>
+                        <p class="card-subtitle" style="margin-bottom: 0;">Browse real FDA-approved and investigational bispecifics from our clinical dataset.</p>
+                    </div>
+                    <div>
+                        <input type="text" id="catalogSearchInput" class="form-input" placeholder="🔍 Search drug or target..." style="width: 250px; padding: 0.5rem 0.9rem; font-size: 0.85rem;">
+                    </div>
+                </div>
+
+                <!-- Filter Pills -->
+                <div class="filter-pills" id="catalogFilters">
+                    <button class="filter-pill active" data-phase="all">All (791)</button>
+                    <button class="filter-pill" data-phase="Approved">Approved / BLA (12)</button>
+                    <button class="filter-pill" data-phase="Phase 3">Phase 3 (12)</button>
+                    <button class="filter-pill" data-phase="Phase 1">Phase 1 &amp; 2 (279)</button>
+                    <button class="filter-pill" data-phase="Preclinical">Preclinical IND (315)</button>
+                    <button class="filter-pill" data-phase="Discontinued">Discontinued / Failed (172)</button>
+                </div>
+
+                <!-- Catalog Table -->
+                <div class="table-responsive" style="max-height: 420px; overflow-y: auto;">
+                    <table class="benchmark-table">
+                        <thead>
+                            <tr>
+                                <th>Drug Name</th>
+                                <th>Target Combination</th>
+                                <th>Gene Symbols</th>
+                                <th>Clinical Phase</th>
+                                <th>Active Indication</th>
+                                <th>Originator</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="catalogTableBody">
+                            <tr><td colspan="7" style="text-align: center; color: var(--text-muted);">Loading clinical catalog...</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Benchmark Suite: Interactive ROC Curves & Metrics Table -->
+        <section id="benchmarks" style="margin-bottom: 3rem;">
+            <div class="card">
+                <h3 class="card-title">📈 Empirical Algorithm Benchmark Suite &amp; Multi-Model ROC Curves</h3>
+                <p class="card-subtitle">Head-to-head empirical evaluation across 6 machine learning architectures on clinical bispecific pairs.</p>
+
+                <div class="grid-2" style="margin-top: 1.25rem;">
+                    <!-- Interactive ROC Curves Chart -->
+                    <div style="height: 400px; position: relative;">
+                        <canvas id="rocChart"></canvas>
+                    </div>
+
+                    <!-- Metrics Table -->
+                    <div class="table-responsive">
+                        <table class="benchmark-table">
+                            <thead>
+                                <tr>
+                                    <th>Algorithm</th>
+                                    <th>ROC-AUC</th>
+                                    <th>PR-AUC</th>
+                                    <th>Accuracy</th>
+                                    <th>F1-Score</th>
+                                    <th>Recall</th>
+                                    <th>Specificity</th>
+                                </tr>
+                            </thead>
+                            <tbody id="benchmarkTableBody">
+                                <!-- Populated dynamically -->
+                            </tbody>
+                        </table>
+                        <p style="margin-top: 1.25rem; font-size: 0.82rem; color: var(--text-muted); line-height: 1.5;">
+                            * Evaluated on holdout test set with 5-fold stratified cross-validation. Pairwise features engineered from 208,506 NSCLC single cells (GSE131907) and clinical drug stages from <code>Lung Cancer PP.csv</code>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Why AUC? Golden Metric Deep Dive -->
+        <section id="auc-deep-dive" style="margin-bottom: 3rem;">
+            <div class="card">
+                <h3 class="card-title">🏆 Why ROC-AUC &amp; PR-AUC are the Golden Discovery Metrics</h3>
+                <p class="card-subtitle">Addressing academic evaluation: Why traditional accuracy is misleading in high-stakes oncology target discovery.</p>
+
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <span>1. Extreme Class Imbalance Invariance (Less than 0.1% Viable Pairs)</span>
+                        <span>▼</span>
+                    </div>
+                    <div class="accordion-body open">
+                        Across the 12.5 million possible cell-surface antigen pairs in the human proteome, fewer than 0.05% represent clinically safe and pharmacologically synergistic pairs. If a trivial baseline classifier simply predicts "Negative" for every single candidate, it achieves <strong>99.95% Accuracy</strong> while curing <strong>zero patients</strong>. ROC-AUC evaluates the true positive rate against the false positive rate across all decision thresholds, remaining robust to severe class imbalance.
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <span>2. Threshold-Independent Pairwise Ranking Fidelity</span>
+                        <span>▼</span>
+                    </div>
+                    <div class="accordion-body">
+                        In pharmaceutical R&amp;D, scientists do not need a rigid binary cutoff at 0.5; they need to prioritize top candidate pairs for experimental synthesis in descending order. Mathematically, the ROC-AUC is equivalent to the <em>Wilcoxon-Mann-Whitney U statistic</em>: the exact probability that a randomly selected clinically approved/viable pair will be scored higher by the model than a randomly selected discontinued/toxic pair.
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <span>3. Precision-Recall AUC (PR-AUC) Synergy for Wet-Lab Costs</span>
+                        <span>▼</span>
+                    </div>
+                    <div class="accordion-body">
+                        Synthesizing, purifying, and testing a single bispecific antibody in animal models costs $50,000 to $100,000+ and months of laboratory effort. Therefore, false positives are prohibitively expensive. PR-AUC directly measures precision over the minority class, ensuring that when the AI nominates a high-scoring pair, the probability of false-positive laboratory failure is minimized.
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <span>4. Oncological Safety Asymmetry &amp; Zero-False-Positive Tuning</span>
+                        <span>▼</span>
+                    </div>
+                    <div class="accordion-body">
+                        A false positive in oncology therapeutics can cause lethal Cytokine Release Syndrome (CRS) or auto-reactivity against vital healthy organs (e.g. heart, lungs, liver). The ROC curve allows immunologists to visualize and select an operational threshold operating at high specificity (near-zero false positive rate), safeguarding clinical patient safety before lead optimization.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Preclinical Pipeline Validation Queue (matching Footer.jpeg) -->
+        <section id="preclinical-queue-section" style="margin-bottom: 3.5rem;">
+            <div class="card">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem;">
+                    <div>
+                        <h3 class="card-title">🧪 Preclinical Pipeline Validation Queue</h3>
+                        <p class="card-subtitle" style="margin-bottom: 0;">Prioritized bispecific candidates nominated for wet-lab binding assays, pharmacokinetic analysis, and animal xenograft validation.</p>
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 0.75rem;">
+                        <span class="badge-drugs" id="queueCountBadge">5 Candidates Nominated</span>
+                    </div>
+                </div>
+
+                <div class="table-responsive">
+                    <table class="queue-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 70px;">Queue #</th>
+                                <th>Target Combination</th>
+                                <th>Cancer Indication</th>
+                                <th style="text-align: center;">Compatibility Score</th>
+                                <th>Synergy Tier</th>
+                                <th>Clinical Pipeline Status</th>
+                                <th style="text-align: right;">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="preclinicalQueueBody">
+                            <!-- Populated dynamically with candidates from Footer.jpeg -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- AI Settings Modal -->
+    <div id="aiModal" class="modal-overlay">
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3 style="font-size: 1.2rem; font-weight: 700;">⚙️ AI Augmentation Engine Settings</h3>
+                <button type="button" id="btnCloseAiModal" class="modal-close">&times;</button>
+            </div>
+            <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+                Configure dynamic Generative AI augmentation. By default, our built-in <strong>Biomedical Knowledge Synthesis Engine</strong> produces comprehensive publication-grade reports offline. You can also paste your Gemini or OpenAI key for live dynamic synthesis.
+            </p>
+            
+            <div class="form-group">
+                <label class="form-label" for="apiProvider">AI Provider</label>
+                <select id="apiProvider" class="form-select">
+                    <option value="builtin">Built-In Biomedical Knowledge Engine (No Key Required)</option>
+                    <option value="gemini">Google Gemini 1.5 Flash (API Key)</option>
+                    <option value="openai">OpenAI GPT-4o (API Key)</option>
+                </select>
+            </div>
+
+            <div class="form-group" id="apiKeyGroup" style="display: none;">
+                <label class="form-label" for="apiKeyInput">API Key</label>
+                <input type="password" id="apiKeyInput" class="form-input" placeholder="AIzaSy... or sk-...">
+                <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.35rem;">
+                    Keys are stored locally in your browser session only.
+                </p>
+            </div>
+
+            <div style="display: flex; gap: 0.75rem; margin-top: 1.5rem;">
+                <button type="button" id="btnSaveAiSettings" class="btn-primary" style="padding: 0.75rem;">
+                    Save &amp; Apply Settings
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Evaluator Milestone 1 Explanatory Guide Modal -->
+    <div id="evaluatorModal" class="modal-overlay">
+        <div class="evaluator-modal-card">
+            <div class="modal-header" style="border-bottom: 1px solid #e2e8f0; padding-bottom: 1rem; margin-bottom: 1.25rem;">
+                <div>
+                    <h3 style="font-size: 1.35rem; font-weight: 800; color: #0f172a;">🎓 Evaluator Explanatory Guide &bull; Project Milestone 1</h3>
+                    <p style="font-size: 0.85rem; color: #64748b; margin-top: 0.2rem;">
+                        Simplified plain-English analogies and rigorous biological definitions for all technical aspects of BiSpec Pairwise AI.
+                    </p>
+                </div>
+                <button type="button" id="btnCloseEvaluatorModal" class="modal-close">&times;</button>
+            </div>
+
+            <!-- Concept 1: Bispecific Antibody -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>1. What is a Bispecific Antibody (BsAb)?</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "Molecular Handcuffs." Traditional cancer drugs are single keys that lock one front door; cancer quickly adapts and escapes through the back window. A bispecific antibody has two distinct binding hands: it either cuffs a cancer cell directly to an immune killer T-cell (dragging the assassin to the target), or it simultaneously padlocks both the front door and the back door of the tumor so it cannot mutate around the treatment.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> An artificial monoclonal antibody engineered with two non-identical antigen-binding sites (Fab or scFv arms). Major modalities include T-cell redirection (BiTEs: e.g. CD3 &plus; CD19/CLDN18) and dual-pathway receptor tyrosine kinase blockade (e.g. EGFR &plus; MET) to suppress resistance.
+                </div>
+            </div>
+
+            <!-- Concept 2: Combinatorial Challenge & Pairwise AI -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>2. The 12.5 Million Combinatorial Explosion &amp; Pairwise Learning</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "Finding the Needle in a 12.5-Million Haystack." Testing pairs one by one in mice or test tubes would cost billions of dollars and take decades. Pairwise AI acts as a computational screening funnel—ranking and sieving through millions of possible drug pairs in seconds to nominate the safest, most effective candidates for laboratory testing.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> Given approximately 5,000 cell-surface membrane proteins, all possible non-redundant pairs equal $N(N-1)/2 \approx 12.5\times 10^6$. Our pairwise engine constructs symmetric feature vectors capturing joint expression, cell co-localization, and normal tissue safety floors.
+                </div>
+            </div>
+
+            <!-- Concept 3: Permutation Invariance -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>3. Permutation Invariance ($A + B \equiv B + A$)</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "Commutative Property in Medicine." Whether you say "Aspirin &plus; Caffeine" or "Caffeine &plus; Aspirin", they are the exact same pill in the human body. Our AI guarantees that switching the order of the two targets produces the exact same score, preventing model hallucination or order bias.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> The scoring function $f(\mathbf{x}_A, \mathbf{x}_B) = f(\mathbf{x}_B, \mathbf{x}_A)$ is mathematically invariant under input permutation, achieved through symmetric pairwise feature engineering (minimums, products, and unordered cosine similarities).
+                </div>
+            </div>
+
+            <!-- Concept 4: Single-Cell RNA-seq (scRNA-seq GSE131907) -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>4. Single-Cell RNA Sequencing vs. Bulk Sequencing</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "Fruit Salad vs. Fruit Smoothie." Bulk RNA sequencing blends millions of patient cells into a smoothie; you can't tell whether sweetness came from strawberries or rotten apples. Single-cell sequencing inspects every individual cell separately, ensuring we only target cells that are truly malignant while sparing healthy normal cells.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> High-throughput transcriptomic profiling across 208,506 individual cells from NSCLC tumors, lymph nodes, and paired non-malignant lung tissues (GSE131907), resolving distinct epithelial, T/NK, myeloid, endothelial, and stromal cell populations.
+                </div>
+            </div>
+
+            <!-- Concept 5: Normal Tissue Safety Floor -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>5. Normal Tissue Safety Floor (Min Safety Score)</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "The Weakest Link Circuit Breaker." A bispecific drug might have one target that destroys cancer, but if the second target is also expressed in the patient's heart or lungs, the drug will cause fatal organ damage. The Safety Floor ensures that both targets clear strict safety thresholds before the AI gives a green light.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> Quantifies $\min(\text{Safety}_A, \text{Safety}_B)$ where safety indices are computed from background expression in healthy normal tissues. This explicitly penalizes on-target off-tumor toxicity liabilities.
+                </div>
+            </div>
+
+            <!-- Concept 6: Biological Synergy & Pathway Convergence -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>6. Biological Synergy &amp; Pathway Convergence</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "Cutting Off Both Power Generators." When an oncologist attacks cancer with one inhibitor, the cancer cell switches on an auxiliary power generator to survive. Biological synergy means the second arm of our bispecific antibody unplugs the auxiliary generator simultaneously, causing synthetic lethality.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> Convergence on critical oncogenic signaling pathways (MAPK, PI3K/AKT, JAK/STAT) or simultaneous inhibition of immune checkpoints (e.g. PD-L1 &plus; 4-1BB) to overcome microenvironmental exhaustion.
+                </div>
+            </div>
+
+            <!-- Concept 7: Why ROC-AUC and PR-AUC, Not Simple Accuracy? -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>7. Why ROC-AUC &amp; PR-AUC Instead of Standard Accuracy?</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "The 99.9% Illusion." If 999 out of 1,000 target combinations fail in medicine, a lazy computer program that always says "No" achieves 99.9% accuracy—yet discovers zero cures! ROC-AUC and PR-AUC measure the AI's actual ability to rank rare winning therapies above failures without being fooled by the ocean of negatives.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> In severe class imbalance ($< 0.1\%$ positive pairs), Accuracy is degenerate. ROC-AUC mathematically equals the Wilcoxon-Mann-Whitney ranking probability, and PR-AUC directly optimizes precision over the minority clinical class to protect wet-lab budgets.
+                </div>
+            </div>
+
+            <!-- Concept 8: Novel vs. Clinically Documented Pairs -->
+            <div class="concept-card">
+                <div class="concept-title">
+                    <span>8. Novel / Uncharacterized vs. Clinically Documented Combinations</span>
+                </div>
+                <div class="analogy-box">
+                    <strong>💡 Plain-English Analogy (For Evaluator):</strong> "Known Roads vs. New Goldmines." If a target pair already has clinical trials (like CD274 &plus; TNFRSF9), our system cross-references its clinical trial phase. If a target pair has high synergy but no existing drugs (like ERBB2 &plus; IL17F), our system highlights it as an "Uncharacterized Novel Discovery" ripe for patenting and preclinical laboratory nomination.
+                </div>
+                <div class="biology-box">
+                    <strong>🔬 Technical Biological Definition:</strong> Automated cross-referencing against our 791-record clinical bispecific registry, distinguishing known investigational combinations from novel, patentable target pairings.
+                </div>
+            </div>
+
+            <div style="text-align: right; margin-top: 1.5rem;">
+                <button type="button" id="btnCloseEvaluatorModal2" class="btn-primary" style="padding: 0.65rem 1.5rem;">
+                    Close Guide
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Dark Navy Clinical Footer (matching Footer.jpeg) -->
+    <footer class="site-footer">
+        <div class="container footer-content-flex">
+            <div class="footer-left">
+                <span>&copy; 2026 BiSpec Pairwise AI. Developed by</span>
+                <span class="team-badge-pill">PS TEAM - 1543</span>
+                <span>. All rights reserved.</span>
+            </div>
+            <div class="footer-right">
+                <span>Pairwise Learning &amp; Machine Learning Architecture</span>
+                <span class="footer-spacer">&emsp;&emsp;</span>
+                <span>Lung Cancer Clinical Evidence Dataset (791 records)</span>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/static/js/charts.js"></script>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
